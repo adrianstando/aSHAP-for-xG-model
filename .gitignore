@@ -1,5 +1,5 @@
 .R
-./data
-./model
-./results
+/data
+/model
+/results
 *.sh
