@@ -4,3 +4,4 @@
 /results
 *.sh
 /.ipynb_checkpoints
+/scripts/.ipynb_checkpoints
