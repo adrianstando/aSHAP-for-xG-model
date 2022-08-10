@@ -3,7 +3,7 @@ library(tidyr)
 library(stringr)
 library(iBreakDown)
 library(ggplot2)
-source('aSHAP.R')
+source('./scripts/aSHAP.R')
 
 task_directories <- function(results_dir){
   out <- c()
@@ -11,10 +11,10 @@ task_directories <- function(results_dir){
   dir_list <- list.dirs(results_dir)
   
   if(length(dir_list) > 1){
-    dir_list <- dir_list[2:length(results_dir)]
+    dir_list <- dir_list[2:length(dir_list)]
     for(path in dir_list){
       if(!(length(dir(path)) == 0)){
-        if(all(c('shaps.csv', 'y_hat.csv') %in% dir(results_dir))){
+        if(all(c('shaps.csv', 'y_hat.csv') %in% dir(path))){
           out <- c(path, out)
         }
       }
@@ -24,16 +24,16 @@ task_directories <- function(results_dir){
   out
 }
 
-transform_shap <- function(model_dir, task_path, label){
+transform_shap <- function(data_dir, task_path, label){
     shaps <- read.csv(file.path(task_path, 'shaps.csv'))[,-1]
-
-    shaps <- shaps %>%
-         pivot_longer(cols = colnames(shaps), 
-                      names_to = "variable_name", 
-                      values_to = "contribution") %>%
-         arrange(variable_name)
     
-    y_hat <- read.csv(file.path(model_dir, 'y_hat.csv'))[,-1]
+    shaps <- shaps %>%
+        pivot_longer(cols = colnames(shaps), 
+                   names_to = "variable_name", 
+                   values_to = "contribution") %>%
+        arrange(variable_name)
+    
+    y_hat <- read.csv(file.path(data_dir, 'y_hat.csv'))[,-1]
     colnames(y_hat) <- c("contribution")
     y_hat$variable_name <- 'intercept'
     
@@ -76,17 +76,17 @@ create_shap_aggreated_object <- function(label,
   aSHAP
 }
 
-transform_all_tasks <- function(model_dir, results_dir, label, order_variables = NULL){
+transform_all_tasks <- function(data_dir, results_dir, label, order_variables = NULL){
     dir_list <- task_directories(results_dir)
     for(task_path in dir_list){
-        output_transform <- transform_shap(model_dir, task_path, label)
+        output_transform <- transform_shap(data_dir, task_path, label)
         aSHAP <- create_shap_aggreated_object(label, 
                                               output_transform[[1]], 
                                               output_transform[[2]], 
                                               output_transform[[3]], 
                                               order_variables = order_variables)
-        saveRDS(aSHAP, file.path(one_task_path, 'aSHAP_object.RDS'))
-        saveRDS(output_transform, file.path(one_task_path, 'shaps_transformed.RDS'))
+        saveRDS(aSHAP, file.path(task_path, 'aSHAP_object.RDS'))
+        saveRDS(output_transform, file.path(task_path, 'shaps_transformed.RDS'))
     }
 }
 
@@ -96,14 +96,18 @@ create_aSHAP_plots_for_all_tasks <- function(results_dir, ..., scale=1, bg=NULL,
     aSHAP <- readRDS(file.path(task_path, 'aSHAP_object.RDS'))
     
     subtitle <- str_remove(task_path, results_dir)
-    subtitle <- str_replace_all(subtitle, '[\/\\]', '-')
+    subtitle <- str_replace_all(subtitle, '[\\//]', '-')
+    if(str_starts(subtitle, "-")){
+      subtitle <- str_sub(subtitle, start = 2L)
+    }
     
     plot(aSHAP, subtitle = subtitle, ...)
-    ggsave(file.path(task_path, subtitle, 
-                     paste0("-plot", 
+    ggsave(file.path(task_path, 
+                     paste0(subtitle,
+                            "-plot", 
                             ifelse(is.null(plot_filename_addition), "", paste0("-", plot_filename_addition)), 
                             ".png")
-                     ), 
+                     ),
            scale=scale, bg=bg, width=width, height=height, units=units)
   }
 }
