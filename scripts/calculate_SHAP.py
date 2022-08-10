@@ -10,7 +10,7 @@ def create_task_directory(path):
 
 def calculate_shap_values(explainer, X):
     out = explainer.shap_values(X)
-    out = out[1]
+    out = pd.DataFrame(out[1])
     out.columns = X.columns
     return out
 
@@ -20,7 +20,7 @@ def calculate_shap_values_and_save(main_dir, task_hierarchy, explainer, X, retur
     create_task_directory(path)
     
     out = calculate_shap_values(explainer, X)
-    pd.to_csv(os.path.join(out, 'shaps.csv'))
+    out.to_csv(os.path.join(path, 'shaps.csv'))
     
     if return_shaps:
         return out
