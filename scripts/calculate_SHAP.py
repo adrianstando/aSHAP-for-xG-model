@@ -26,6 +26,13 @@ def calculate_shap_values_and_save(main_dir, task_hierarchy, explainer, X, retur
         return out
     
 
+def calculate_y_hat_save(main_dir, task_hierarchy, model, X):
+    path = os.path.join(main_dir, os.path.join(*task_hierarchy))
+    
+    y_hat_subset = pd.DataFrame(model.predict(X)[:, 1])
+    y_hat_subset.to_csv(os.path.join(path, 'y_hat.csv'))
+    
+
 def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, subset, df_preprocessed):
     indexes = None
     if len(subset.shape) == 1:
@@ -35,3 +42,5 @@ def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, s
         
     X = df_preprocessed.loc[list(indexes)]
     calculate_shap_values_and_save(main_dir, task_hierarchy, explainer, X, return_shaps = False)
+    calculate_y_hat_save(main_dir, task_hierarchy, explainer.model, X)
+    
