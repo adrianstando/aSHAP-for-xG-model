@@ -46,6 +46,7 @@ def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, s
     subset.to_csv(os.path.join(path, 'X_subset_original.csv'))
     
     if target is not None:
+        X = X.copy()
         X = X.drop(target, axis=1)
     
     calculate_shap_values_and_save(path, explainer, X, return_shaps = False)
