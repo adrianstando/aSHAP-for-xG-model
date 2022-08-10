@@ -15,8 +15,7 @@ def calculate_shap_values(explainer, X):
     return out
 
 
-def calculate_shap_values_and_save(main_dir, task_hierarchy, explainer, X, return_shaps = False):
-    path = os.path.join(main_dir, os.path.join(*task_hierarchy))
+def calculate_shap_values_and_save(path, explainer, X, return_shaps = False):
     create_task_directory(path)
     
     out = calculate_shap_values(explainer, X)
@@ -26,21 +25,29 @@ def calculate_shap_values_and_save(main_dir, task_hierarchy, explainer, X, retur
         return out
     
 
-def calculate_y_hat_save(main_dir, task_hierarchy, model, X):
-    path = os.path.join(main_dir, os.path.join(*task_hierarchy))
-    
+def calculate_y_hat_save(path, model, X):   
     y_hat_subset = pd.DataFrame(model.predict(X)[:, 1])
     y_hat_subset.to_csv(os.path.join(path, 'y_hat.csv'))
     
 
-def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, subset, df_preprocessed):
+def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, subset, df_preprocessed, target = None):
     indexes = None
     if len(subset.shape) == 1:
         indexes = subset.name
+        subset = pd.DataFrame(subset)
     else:
         indexes = subset.index
         
+    path = os.path.join(main_dir, os.path.join(*task_hierarchy))
+    
     X = df_preprocessed.loc[list(indexes)]
-    calculate_shap_values_and_save(main_dir, task_hierarchy, explainer, X, return_shaps = False)
-    calculate_y_hat_save(main_dir, task_hierarchy, explainer.model, X)
+        
+    X.to_csv(os.path.join(path, 'X_subset_preprocessed.csv'))
+    subset.to_csv(os.path.join(path, 'X_subset_original.csv'))
+    
+    if target is not None:
+        X = X.drop(target, axis=1)
+    
+    calculate_shap_values_and_save(path, explainer, X, return_shaps = False)
+    calculate_y_hat_save(path, explainer.model, X)
     

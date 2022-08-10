@@ -1,31 +1,109 @@
-transform_shap <- function(task_path, label, y_hat, model){
-    shaps <- read.csv(paste0(task_path, '/treeshap_shaps.csv'))
-    shaps <- shaps[,-1]
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(iBreakDown)
+library(ggplot2)
+source('aSHAP.R')
+
+task_directories <- function(results_dir){
+  out <- c()
+  
+  dir_list <- list.dirs(results_dir)
+  
+  if(length(dir_list) > 1){
+    dir_list <- dir_list[2:length(results_dir)]
+    for(path in dir_list){
+      if(!(length(dir(path)) == 0)){
+        if(all(c('shaps.csv', 'y_hat.csv') %in% dir(results_dir))){
+          out <- c(path, out)
+        }
+      }
+    }
+  }
+  
+  out
+}
+
+transform_shap <- function(model_dir, task_path, label){
+    shaps <- read.csv(file.path(task_path, 'shaps.csv'))[,-1]
 
     shaps <- shaps %>%
-         pivot_longer(cols = colnames(shaps), names_to = "variable_name", values_to = "contribution") %>%
+         pivot_longer(cols = colnames(shaps), 
+                      names_to = "variable_name", 
+                      values_to = "contribution") %>%
          arrange(variable_name)
     
+    y_hat <- read.csv(file.path(model_dir, 'y_hat.csv'))[,-1]
+    colnames(y_hat) <- c("contribution")
+    y_hat$variable_name <- 'intercept'
+    
+    y_hat_subset <- read.csv(file.path(task_path, 'y_hat.csv'))[,-1]
+    colnames(y_hat_subset) <- c("contribution")
+    y_hat_subset$variable_name <- 'prediction'
+
     shaps <- as.data.frame(shaps)
-
     shaps <- rbind(shaps, y_hat)
-
-    y_hat_subset <- predict(model, read.csv(paste0(task_path, '/subset.csv')))$predict
-    y_hat_subset <- data.frame(variable_name = 'prediction', contribution = y_hat_subset)
     shaps <- rbind(shaps, y_hat_subset)
 
     shaps$variable_name <- factor(shaps$variable_name)
     shaps$label <- label
 
-    list(shaps = shaps, mean_subset = mean(y_hat_subset$contribution))
+    list(shaps = shaps, 
+         y_hat_full = mean(y_hat$contribution),
+         y_hat_subset = mean(y_hat_subset$contribution))
 }
 
-transform_all_tasks <- function(main_dir, label, y_hat, model){
-    dir_list <- list.dirs(main_dir)
-    dir_list <- dir_list[2:length(dir_list)]
+create_shap_aggreated_object <- function(label, 
+                                         raw_shaps, mean_prediction, mean_prediction_subset, 
+                                         order_variables = NULL,
+                                         order_by_default_function = FALSE,
+                                         explainer = NULL, new_data = NULL, predict_function = NULL){
+
+  if(is.null(order_variables)){ #default order from dataset
+    order_variables <- unique(raw_shaps$variable_name)
+    order_variables <- order_variables[1:(length(order_variables)-2)]
+    order_variables <- as.character(order_variables)
+  } else if(order_by_default_function){
+    order_variables <- calculate_order(explainer, mean_prediction, new_data, predict_function)
+  }
+  
+  aggr <- raw_to_aggregated(raw_shaps, 
+                            mean_prediction, mean_prediction_subset, 
+                            order_variables, label)
+  aSHAP <- list(aggregated = aggr, raw = raw_shaps)
+  class(aSHAP) <- c('shap_aggregated', class(aSHAP))
+  class(aSHAP) <- c('predict_parts', class(aSHAP))
+  aSHAP
+}
+
+transform_all_tasks <- function(model_dir, results_dir, label, order_variables = NULL){
+    dir_list <- task_directories(results_dir)
     for(task_path in dir_list){
-        output_transform <- transform_shap(task_path, label, y_hat, model)
-        saveRDS(output_transform[[1]], paste0(task_path, '/raw_shaps.RDS'))
-        saveRDS(output_transform[[2]], paste0(task_path, '/mean_subset_prediction.RDS'))
+        output_transform <- transform_shap(model_dir, task_path, label)
+        aSHAP <- create_shap_aggreated_object(label, 
+                                              output_transform[[1]], 
+                                              output_transform[[2]], 
+                                              output_transform[[3]], 
+                                              order_variables = order_variables)
+        saveRDS(aSHAP, file.path(one_task_path, 'aSHAP_object.RDS'))
+        saveRDS(output_transform, file.path(one_task_path, 'shaps_transformed.RDS'))
     }
+}
+
+create_aSHAP_plots_for_all_tasks <- function(results_dir, ..., scale=1, bg=NULL, width = NA, height = NA, units = "cm", plot_filename_addition = NULL){
+  dir_list <- task_directories(results_dir)
+  for(task_path in dir_list){
+    aSHAP <- readRDS(file.path(task_path, 'aSHAP_object.RDS'))
+    
+    subtitle <- str_remove(task_path, results_dir)
+    subtitle <- str_replace_all(subtitle, '[\/\\]', '-')
+    
+    plot(aSHAP, subtitle = subtitle, ...)
+    ggsave(file.path(task_path, subtitle, 
+                     paste0("-plot", 
+                            ifelse(is.null(plot_filename_addition), "", paste0("-", plot_filename_addition)), 
+                            ".png")
+                     ), 
+           scale=scale, bg=bg, width=width, height=height, units=units)
+  }
 }

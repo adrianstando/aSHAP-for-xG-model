@@ -1,3 +1,6 @@
+library(iBreakDown)
+library(ggplot2)
+
 shap_aggregated <- function(explainer, new_observations, order = NULL, B = 25, ...) {
   ret_raw <- data.frame(contribution = c(), variable_name = c(), label = c())
 

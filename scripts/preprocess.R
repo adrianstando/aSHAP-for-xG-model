@@ -1,3 +1,5 @@
+library(dplyr)
+
 preprocess <- function(data){
   raw_data <- data
   shot_stats <- raw_data %>% filter(result != "OwnGoal") %>%
@@ -13,6 +15,5 @@ preprocess <- function(data){
            distanceToGoal, angleToGoal, league, season, match_id, result, player_id) %>%
     select(status, minute, h_a, situation, shotType, lastAction, 
            distanceToGoal, angleToGoal)
-  shot_stats <- one_hot(as.data.table(shot_stats))
   as.data.frame(shot_stats)
 } 
