@@ -2,7 +2,6 @@
 /data
 /model
 /results
-*.sh
 /.ipynb_checkpoints
 /scripts/.ipynb_checkpoints
 /scripts/__pycache__/
