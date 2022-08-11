@@ -24,3 +24,9 @@ source ./virtualenv/bin/activate
 jupyter lab
 ```
 4. Remember that some notebooks are written in `R` and some are in `Python`; remember to choose a proper kernel in a notebook. Information about notebook's language is always on the top of the notebook.
+
+## aSHAP
+
+`DALEX` package in `R` was extended with `aSHAP` implementation during summer internship (![repo link](https://github.com/adrianstando/DALEX-aggregated-SHAP-extension)). 
+
+This project relies on the same implementation, but here the functions are available in a script, not as a part of `DALEX` package.

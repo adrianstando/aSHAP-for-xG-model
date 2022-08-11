@@ -1,5 +1,6 @@
 install.packages("worldfootballR")
-install.packages(c('Hmisc', 'ggplot2', 'dplyr'))
+install.packages(c('Hmisc', 'ggplot2', 'dplyr', 'tidyr', 'stringr'))
+install.packages('iBreakDown')
 install.packages("reticulate")
 
 install.packages('IRkernel') 
