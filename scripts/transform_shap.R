@@ -48,17 +48,19 @@ transform_shap <- function(data_dir, task_path, label){
     shaps$variable_name <- factor(shaps$variable_name)
     shaps$label <- label
 
-    list(shaps = shaps, 
+    list(label = label,
+         shaps = shaps, 
          y_hat_full = mean(y_hat$contribution),
          y_hat_subset = mean(y_hat_subset$contribution))
 }
 
-create_shap_aggreated_object <- function(label, 
-                                         raw_shaps, mean_prediction, mean_prediction_subset, 
+create_shap_aggreated_object <- function(raw_shaps, mean_prediction, mean_prediction_subset, 
                                          order_variables = NULL,
                                          order_by_default_function = FALSE,
                                          explainer = NULL, new_data = NULL, predict_function = NULL){
-
+  
+  label <- raw_shaps$label[1]
+  
   if(is.null(order_variables)){ #default order from dataset
     order_variables <- unique(raw_shaps$variable_name)
     order_variables <- order_variables[1:(length(order_variables)-2)]
@@ -80,8 +82,7 @@ transform_all_tasks <- function(data_dir, results_dir, label, order_variables = 
     dir_list <- task_directories(results_dir)
     for(task_path in dir_list){
         output_transform <- transform_shap(data_dir, task_path, label)
-        aSHAP <- create_shap_aggreated_object(label, 
-                                              output_transform[[1]], 
+        aSHAP <- create_shap_aggreated_object(output_transform[[1]], 
                                               output_transform[[2]], 
                                               output_transform[[3]], 
                                               order_variables = order_variables)
