@@ -41,13 +41,14 @@ def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, s
     path = os.path.join(main_dir, os.path.join(*task_hierarchy))
     
     X = df_preprocessed.loc[list(indexes)]
+    
+    if target is not None:
+        pd.DataFrame(X[target]).to_csv(os.path.join(path, 'y.csv'))
+        X = X.copy()
+        X = X.drop(target, axis=1)
         
     X.to_csv(os.path.join(path, 'X_subset_preprocessed.csv'))
     subset.to_csv(os.path.join(path, 'X_subset_original.csv'))
-    
-    if target is not None:
-        X = X.copy()
-        X = X.drop(target, axis=1)
     
     calculate_shap_values_and_save(path, explainer, X, return_shaps = False)
     calculate_y_hat_save(path, explainer.model, X)
