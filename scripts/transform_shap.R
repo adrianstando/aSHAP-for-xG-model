@@ -33,11 +33,11 @@ transform_shap <- function(data_dir, task_path, label){
                    values_to = "contribution") %>%
         arrange(variable_name)
     
-    y_hat <- read.csv(file.path(data_dir, 'y_hat.csv'))[,-1]
+    y_hat <- as.data.frame(read.csv(file.path(data_dir, 'y_hat.csv'))[,-1])
     colnames(y_hat) <- c("contribution")
     y_hat$variable_name <- 'intercept'
     
-    y_hat_subset <- read.csv(file.path(task_path, 'y_hat.csv'))[,-1]
+    y_hat_subset <- as.data.frame(read.csv(file.path(task_path, 'y_hat.csv'))[,-1])
     colnames(y_hat_subset) <- c("contribution")
     y_hat_subset$variable_name <- 'prediction'
 
@@ -82,9 +82,9 @@ transform_all_tasks <- function(data_dir, results_dir, label, order_variables = 
     dir_list <- task_directories(results_dir)
     for(task_path in dir_list){
         output_transform <- transform_shap(data_dir, task_path, label)
-        aSHAP <- create_shap_aggreated_object(output_transform[[1]], 
-                                              output_transform[[2]], 
-                                              output_transform[[3]], 
+        aSHAP <- create_shap_aggreated_object(output_transform$shaps, 
+                                              output_transform$y_hat_full, 
+                                              output_transform$y_hat_subset, 
                                               order_variables = order_variables)
         saveRDS(aSHAP, file.path(task_path, 'aSHAP_object.RDS'))
         saveRDS(output_transform, file.path(task_path, 'shaps_transformed.RDS'))

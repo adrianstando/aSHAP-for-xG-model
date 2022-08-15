@@ -9,21 +9,29 @@ source('./scripts/transform_shap.R')
 
 results_dir <- './results'
 tasks_dirs <- task_directories(results_dir)
-tasks_to_show <- lapply(tasks_dirs, function(x) {
+
+tasks <- c()
+variables <- c()
+
+nice_print <- function(x) {
   x <- str_remove(x, results_dir)
   x <- str_replace_all(x, '[\\//]', '-')
   if (str_starts(x, "-")) {
     x <- str_sub(x, start = 2L)
   }
   x
-})
+}
 
-tasks <- setNames(tasks_dirs, tasks_to_show)
-
-variables <-
-  colnames(read.csv(file.path(
-    tasks_dirs[1], 'X_subset_preprocessed.csv'
-  ))[, -1])
+if(!(is.null(tasks_dirs))){
+  tasks_to_show <- lapply(tasks_dirs, nice_print)
+  
+  tasks <- setNames(tasks_dirs, tasks_to_show)
+  
+  variables <-
+    colnames(read.csv(file.path(
+      tasks_dirs[1], 'X_subset_preprocessed.csv'
+    ))[, -1])
+}
 
 ui <- fluidPage(
   titlePanel("aSHAP for xG model"),
@@ -56,15 +64,13 @@ ui <- fluidPage(
     )
   ))
   ,
-  tabsetPanel(tabPanel("aSHAP", plotOutput(outputId = "aSHAP")),
+  tabsetPanel(tabPanel("aSHAP", 
+                       plotOutput(outputId = "aSHAP")),
               tabPanel(
                 "SHAP", fluidPage(
-                  selectInput(
-                    inputId = "dataset_type",
-                    label = "Select dataset to be shown:",
-                    choices = c('original', 'preprocessed')
-                  ),
-                  DTOutput('table')
+                  uiOutput('dynamic_dataset_selection'),
+                  DTOutput('table'),
+                  plotOutput(outputId = "one_SHAP")
                 )
               ))
 )
