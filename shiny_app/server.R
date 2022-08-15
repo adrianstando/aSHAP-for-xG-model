@@ -5,18 +5,7 @@ library(ggplot2)
 
 source('./scripts/aSHAP.R')
 source('./scripts/transform_shap.R')
-
-
-results_dir <- './results'
-nice_print <- function(x) {
-  x <- str_remove(x, results_dir)
-  x <- str_replace_all(x, '[\\//]', '-')
-  if (str_starts(x, "-")) {
-    x <- str_sub(x, start = 2L)
-  }
-  x
-}
-
+source('./shiny_app/utils.R')
 
 server <- function(input, output) {
   output$aSHAP <- renderPlot({
