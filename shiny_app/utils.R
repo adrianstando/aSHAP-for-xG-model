@@ -1,4 +1,8 @@
-results_dir <- './results'
+library(stringr)
+
+source('./scripts/transform_shap.R')
+
+results_dir <- file.path('.', 'results')
 tasks_dirs <- task_directories(results_dir)
 
 tasks <- c()
