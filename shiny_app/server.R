@@ -24,7 +24,7 @@ server <- function(input, output) {
                                             output_transform$y_hat_full,
                                             output_transform$y_hat_subset,
                                             order_variables = variables)
-      p <- plot(aSHAP, max_features = length(input$variables_show), subtitle = nice_print(input$task))
+      p <- plot(aSHAP, max_features = length(input$variables_show), subtitle = nice_print(input$task), use_default_filter = FALSE)
     } else {
       p <- ggplot() + theme_void()
     }
@@ -90,7 +90,13 @@ server <- function(input, output) {
       shaps$label <- output_transform$label
       intercept <- output_transform$y_hat_full
       
-      out <- raw_to_aggregated(shaps, intercept, y_hat, columns, output_transform$label)
+      variables <- input$variables_show
+      if (!is.null(input$variables_hide)) {
+        variables <- c(variables, input$variables_hide)
+      }
+      
+      out <- raw_to_aggregated(shaps, intercept, y_hat, variables, output_transform$label)
+      out <- select_only_k_features(list(out, data.frame()), k = length(input$variables_show), use_default_filter = FALSE)[[1]]
       
       path <-
         ifelse(
@@ -104,6 +110,8 @@ server <- function(input, output) {
       
       out$variable <- lapply(out$variable, function(x){
         if(x %in% c('prediction', 'intercept')){
+          x
+        } else if(!(x %in% input$variables_show)){
           x
         } else {
           paste0(as.character(x), " = ", X[,as.character(x)])

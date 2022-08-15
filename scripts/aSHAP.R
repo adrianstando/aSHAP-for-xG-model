@@ -150,7 +150,7 @@ calculate_order <- function(x, mean_prediction, new_data, predict_function) {
 }
 
 plot.shap_aggregated <- function(x, ..., shift_contributions = 0.05, add_contributions = TRUE, max_features = 10, title = "Aggregated SHAP") {
-  x <- select_only_k_features(x, k = max_features)
+  x <- select_only_k_features(x, k = max_features, ...)
   aggregate <- x[[1]]
   raw <- x[[2]]
   class(aggregate) <- c('break_down', class(aggregate))
@@ -184,19 +184,24 @@ plot.shap_aggregated <- function(x, ..., shift_contributions = 0.05, add_contrib
                        color = "#371ea3")
   }
 
-
   p
 }
 
-select_only_k_features <- function(input, k = 10) {
+select_only_k_features <- function(input, k = 10, use_default_filter = TRUE, ...) {
   x <- input[[1]]
   y <- input[[2]]
-
-  # filter-out redundant rows
-  contribution_sum <- tapply(x$contribution, x$variable_name, function(contribution) sum(abs(contribution), na.rm = TRUE))
-  contribution_ordered_vars <- names(sort(contribution_sum[!(names(contribution_sum) %in% c("", "intercept"))]))
-  variables_keep <- tail(contribution_ordered_vars, k)
-  variables_remove <- setdiff(contribution_ordered_vars, variables_keep)
+  
+  if(use_default_filter){
+    # filter-out redundant rows
+    contribution_sum <- tapply(x$contribution, x$variable_name, function(contribution) sum(abs(contribution), na.rm = TRUE))
+    contribution_ordered_vars <- names(sort(contribution_sum[!(names(contribution_sum) %in% c("", "intercept"))]))
+    variables_keep <- tail(contribution_ordered_vars, k)
+    variables_remove <- setdiff(contribution_ordered_vars, variables_keep)
+  } else {
+    vars <- x$variable_name[!(x$variable_name %in% c("", "intercept", "prediction"))]
+    variables_keep <- head(vars, k)
+    variables_remove <- setdiff(vars, variables_keep)
+  }
 
   if (length(variables_remove) > 0) {
     x_remove   <- x[x$variable_name %in% variables_remove,]
