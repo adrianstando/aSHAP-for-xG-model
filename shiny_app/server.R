@@ -24,7 +24,16 @@ server <- function(input, output) {
                                             output_transform$y_hat_full,
                                             output_transform$y_hat_subset,
                                             order_variables = variables)
-      p <- plot(aSHAP, max_features = length(input$variables_show), subtitle = nice_print(input$task), use_default_filter = FALSE)
+      p <- plot(aSHAP, 
+                max_features = ifelse(
+                  input$filtering_method == 'custom', 
+                  length(input$variables_show), 
+                  input$number_of_variables_default),
+                subtitle = nice_print(input$task), 
+                use_default_filter = ifelse(
+                  input$filtering_method == 'custom', 
+                  FALSE, 
+                  TRUE))
     } else {
       p <- ggplot() + theme_void()
     }
@@ -96,7 +105,15 @@ server <- function(input, output) {
       }
       
       out <- raw_to_aggregated(shaps, intercept, y_hat, variables, output_transform$label)
-      out <- select_only_k_features(list(out, data.frame()), k = length(input$variables_show), use_default_filter = FALSE)[[1]]
+      out <- select_only_k_features(list(out, data.frame()), 
+                                    k = ifelse(
+                                      input$filtering_method == 'custom', 
+                                      length(input$variables_show), 
+                                      input$number_of_variables_default), 
+                                    use_default_filter = ifelse(
+                                      input$filtering_method == 'custom', 
+                                      FALSE, 
+                                      TRUE))[[1]]
       
       path <-
         ifelse(

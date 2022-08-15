@@ -65,6 +65,9 @@ raw_to_aggregated <- function(ret_raw, mean_prediction, mean_subset, order, labe
   ret$cumulative <- cumsum(ret$contribution)
   ret$cumulative[nrow(ret)] <- ret$contribution[nrow(ret)]
   
+  # some numerical errors cause little translation of the last bars
+  ret$cumulative[nrow(ret) - 1] <- ret$cumulative[nrow(ret)]
+  
   ret$variable_name <- ret$variable
   ret$variable_name <- factor(ret$variable_name, levels=c(ret$variable_name, ''))
   ret$variable_name[nrow(ret)] <- ''
