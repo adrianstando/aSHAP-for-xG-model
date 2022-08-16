@@ -8,6 +8,8 @@ This repository contains codes for football xG (eXpected Goals) model analysis w
 
 ## Run the codes locally
 
+**TO RUN ONLY THE APP SCROLL DOWN**
+
 1. To install `R` and `Python`, you have to run a script from the project's main directory: 
 ```console
 ./create_environment_scripts/install_R_Python
@@ -33,7 +35,16 @@ This project relies on the same implementation, but here the functions are avail
 
 ## Interactive visulisations
 
+The app is available online: ![here](https://ashap-for-xg-model.herokuapp.com/). Because free heroku is used for this project, you will have to wait a few minutes after entering the website, since the project will have to be built.
+
+## Run the app locally
+
 You can use `shiny` app to explore results for different tasks. The app will create waterfall plots for both: aSHAP for a chosen task and SHAP for a chosen observation in a chosen task.
+
+To install all libraries needed by the app, run in a command line from the project's main directory:
+```console
+Rscript ./init.R
+```
 
 To run the app, run in a command line from the project's main directory:
 

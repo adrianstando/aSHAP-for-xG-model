@@ -1,6 +1,6 @@
 # install libraries for heroku
 
-my_packages <- c('shiny', 'DT', 'tidyr', 'iBreakDown', 'ggplot2', 'sortable', 'stringr', 'dplyr', 'tidyr')
+my_packages <- c('shiny', 'DT', 'tidyr', 'iBreakDown', 'ggplot2', 'sortable', 'stringr', 'dplyr', 'tidyr', 'DALEX')
 install_if_missing = function(p) {
   if (p %in% rownames(installed.packages()) == FALSE) {
     install.packages(p)
