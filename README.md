@@ -38,7 +38,7 @@ You can use `shiny` app to explore results for different tasks. The app will cre
 To run the app, run in a command line from the project's main directory:
 
 ```console
-R -e "shiny::runApp('./shiny_app')"
+Rscript ./run.R 
 ```
 
 By default, the app shows results from `./results` directory. If you want to change the directory, set the `results_dir` variable in `./shiny_app/utils.R` file to a path of your desired directory.
