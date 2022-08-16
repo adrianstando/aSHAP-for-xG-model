@@ -1,8 +1,8 @@
 .R
 /data
 /model
-/results
 /.ipynb_checkpoints
+/create_environment_scripts/.ipynb_checkpoints/
 /scripts/.ipynb_checkpoints
 /scripts/__pycache__/
 .Rhistory

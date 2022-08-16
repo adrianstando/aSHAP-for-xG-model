@@ -16,8 +16,6 @@ def calculate_shap_values(explainer, X):
 
 
 def calculate_shap_values_and_save(path, explainer, X, return_shaps = False):
-    create_task_directory(path)
-    
     out = calculate_shap_values(explainer, X)
     out.to_csv(os.path.join(path, 'shaps.csv'))
     
@@ -39,6 +37,7 @@ def extract_preprocessed__calculate__save(main_dir, task_hierarchy, explainer, s
         indexes = subset.index
         
     path = os.path.join(main_dir, os.path.join(*task_hierarchy))
+    create_task_directory(path)
     
     X = df_preprocessed.loc[list(indexes)]
     
