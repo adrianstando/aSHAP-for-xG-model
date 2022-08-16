@@ -115,12 +115,11 @@ server <- function(input, output) {
                                       FALSE, 
                                       TRUE))[[1]]
       
-      path <-
-        ifelse(
-          input$dataset_type == 'original',
-          'X_subset_original.csv',
-          'X_subset_preprocessed.csv'
-        )
+      path <- ifelse(
+        file.exists(file.path(input$task, 'X_subset_preprocessed.csv')),
+        'X_subset_preprocessed.csv',
+        'X_subset_original.csv'
+      )
       X <- read.csv(file.path(input$task, path))[, -1]
       rownames(X) <- 1:nrow(X)
       X <- X[row, ]
