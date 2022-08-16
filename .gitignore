@@ -1,5 +1,6 @@
 .R
-/data
+/data/*
+!/data/y_hat.csv
 /model
 /.ipynb_checkpoints
 /create_environment_scripts/.ipynb_checkpoints/
