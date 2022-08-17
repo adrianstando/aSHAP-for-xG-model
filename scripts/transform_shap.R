@@ -25,7 +25,12 @@ task_directories <- function(results_dir){
 }
 
 transform_shap <- function(data_dir, task_path, label){
-    shaps <- read.csv(file.path(task_path, 'shaps.csv'))[,-1]
+    if(file.exists(file.path(task_path, 'full_shaps.csv'))){
+        p <- file.path(task_path, 'full_shaps.csv')
+    } else {
+        p <- file.path(task_path, 'shaps.csv')
+    }
+    shaps <- read.csv(p)[,-1]
     
     shaps <- shaps %>%
         pivot_longer(cols = colnames(shaps), 
