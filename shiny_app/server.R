@@ -125,12 +125,23 @@ server <- function(input, output) {
       X <- X[row, ]
       
       out$variable <- lapply(out$variable, function(x){
+        # from iBreakDown
+        nice_format <- function(x) {
+          if (is.numeric(x)) {
+            as.character(signif(x, 4))
+          } else if ("tbl" %in% class(x)) {
+            as.character(x[[1]])
+          } else {
+            as.character(x)
+          }
+        }
+        
         if(x %in% c('prediction', 'intercept')){
           x
         } else if(!(x %in% input$variables_show)){
           x
         } else {
-          paste0(as.character(x), " = ", X[,as.character(x)])
+          paste0(as.character(x), " = ", nice_format(X[,as.character(x)]))
         }
       })
       
