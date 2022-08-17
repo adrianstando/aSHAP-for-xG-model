@@ -1,0 +1,6 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+218214,Bundesliga,425533,11,BlockedShot,0.874000015258789,0.542999992370605,Robert Lewandowski,a,227,OpenPlay,2021,Head,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Josip Stanisic,Aerial
+218215,Bundesliga,425534,13,SavedShot,0.85,0.442999992370605,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Leon Goretzka,HeadPass
+218216,Bundesliga,425536,25,SavedShot,0.946999969482422,0.472000007629395,Robert Lewandowski,a,227,OpenPlay,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Alphonso Davies,Throughball
+218222,Bundesliga,425543,41,Goal,0.916999969482422,0.429000015258789,Robert Lewandowski,a,227,FromCorner,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Joshua Kimmich,Cross
+218224,Bundesliga,425545,51,SavedShot,0.915999984741211,0.542000007629394,Robert Lewandowski,a,227,OpenPlay,2021,Head,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Leroy Sané,Cross
