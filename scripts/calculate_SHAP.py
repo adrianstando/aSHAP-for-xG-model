@@ -2,6 +2,11 @@ import os
 import pandas as pd
 from datetime import datetime
 
+# to make Python print logs immediately
+import functools
+print = functools.partial(print, flush = True)
+
+
 def create_task_directory(path):   
     if not os.path.exists(path):
         os.makedirs(path)
@@ -56,7 +61,7 @@ def calculate_shap_values_and_save(path, explainer, X, B, return_shaps = False, 
     
 
 def calculate_y_hat_save(path, model, X):   
-    y_hat_subset = pd.DataFrame(model.predict(X)[:, 1])
+    y_hat_subset = pd.DataFrame(model.predict_proba(X)[:, 1])
     y_hat_subset.to_csv(os.path.join(path, 'y_hat.csv'))
     
 

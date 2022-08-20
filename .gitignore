@@ -2,7 +2,7 @@
 /data/*
 !/data/y_hat.csv
 /model
-/.ipynb_checkpoints
+.ipynb_checkpoints
 /create_environment_scripts/.ipynb_checkpoints/
 /scripts/.ipynb_checkpoints
 /scripts/__pycache__/
@@ -11,3 +11,5 @@
 /create_environment_scripts/.Rhistory
 /virtualenv
 /shiny_app/.Rhistory
+/*.py
+/*.job
