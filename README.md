@@ -35,7 +35,7 @@ This project relies on the same implementation, but here the functions are avail
 
 ## Interactive visulisations
 
-The app is available online: ![here](https://ashap-for-xg-model.herokuapp.com/). Because free heroku is used for this project, you will have to wait a few minutes after entering the website, since the project will have to be built.
+The app is available online on the website: ![www.ashap-for-xg-model.herokuapp.com](https://ashap-for-xg-model.herokuapp.com/). Because free heroku is used for this project, you will have to wait a few minutes after entering the website, since the project will have to be built.
 
 ## Run the app locally
 
