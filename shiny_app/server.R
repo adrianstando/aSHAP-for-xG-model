@@ -175,5 +175,7 @@ server <- function(input, output) {
       })
     
   })
+
+  output$choose_text <- renderText({'Click on a row to see a plot'})
   
 }

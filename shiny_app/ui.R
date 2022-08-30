@@ -64,6 +64,7 @@ ui <- fluidPage(
               tabPanel(
                 "SHAP", fluidPage(
                   uiOutput('dynamic_dataset_selection'),
+                  textOutput('choose_text'),
                   DTOutput('table'),
                   plotOutput(outputId = "one_SHAP")
                 )
