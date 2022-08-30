@@ -1,133 +1,133 @@
 ,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
-226153,Bundesliga,378394,4,BlockedShot,0.914000015258789,0.565999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Leroy Sané,Pass
-226155,Bundesliga,378396,12,BlockedShot,0.851999969482422,0.395999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Leroy Sané,Pass
-226157,Bundesliga,378399,20,MissedShots,0.860999984741211,0.417999992370605,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Leroy Sané,Pass
-226159,Bundesliga,378401,30,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,,Standard
-226589,Bundesliga,379517,69,MissedShots,0.888000030517578,0.684000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Leroy Sané,BallTouch
-226808,Bundesliga,381402,8,BlockedShot,0.85,0.641999969482422,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Leon Goretzka,BallTouch
-226809,Bundesliga,381403,8,SavedShot,0.913000030517578,0.412000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Thomas Müller,Cross
-226813,Bundesliga,381412,39,SavedShot,0.925999984741211,0.527999992370605,Robert Lewandowski,h,227,OpenPlay,2020,Head,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Chris Richards,Aerial
-226814,Bundesliga,381413,39,Goal,0.934000015258789,0.522000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Rebound
-226815,Bundesliga,381414,43,BlockedShot,0.790999984741211,0.517999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Alphonso Davies,Pass
-226817,Bundesliga,381416,45,BlockedShot,0.808000030517578,0.700999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Lucas Hernández,Pass
-226818,Bundesliga,381417,47,MissedShots,0.928000030517578,0.492999992370605,Robert Lewandowski,h,227,FromCorner,2020,Head,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Serge Gnabry,Aerial
-226820,Bundesliga,381419,50,Goal,0.859000015258789,0.445,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Chris Richards,Cross
-226821,Bundesliga,381423,63,BlockedShot,0.803000030517578,0.734000015258789,Robert Lewandowski,h,227,DirectFreekick,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Standard
-226823,Bundesliga,381426,73,BlockedShot,0.818000030517578,0.517999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Thomas Müller,LayOff
-226824,Bundesliga,381427,75,SavedShot,0.771999969482422,0.65,Robert Lewandowski,h,227,DirectFreekick,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Standard
-226828,Bundesliga,381431,84,Goal,0.964000015258789,0.535999984741211,Robert Lewandowski,h,227,SetPiece,2020,LeftFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Thomas Müller,Pass
-226829,Bundesliga,381433,92,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Standard
-226968,Bundesliga,382041,14,MissedShots,0.896999969482422,0.550999984741211,Robert Lewandowski,a,227,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,CornerAwarded
-226970,Bundesliga,382043,24,Goal,0.824000015258789,0.507999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Leon Goretzka,Pass
-226971,Bundesliga,382044,28,SavedShot,0.916999969482422,0.515999984741211,Robert Lewandowski,a,227,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,Cross
-226973,Bundesliga,382049,34,MissedShots,0.93,0.44,Robert Lewandowski,a,227,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Corentin Tolisso,Cross
-226974,Bundesliga,382051,45,Goal,0.851999969482422,0.530999984741211,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Thomas Müller,Pass
-226975,Bundesliga,382054,48,ShotOnPost,0.916999969482422,0.519000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Serge Gnabry,Pass
-227179,Bundesliga,383279,9,Goal,0.864000015258789,0.512000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Kingsley Coman,Pass
-227181,Bundesliga,383281,25,Goal,0.92,0.505999984741211,Robert Lewandowski,h,227,FromCorner,2020,Head,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Joshua Kimmich,Cross
-227183,Bundesliga,383284,32,MissedShots,0.800999984741211,0.515,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Thomas Müller,Pass
-227184,Bundesliga,383287,37,SavedShot,0.865999984741211,0.630999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Lucas Hernández,Pass
-227188,Bundesliga,383293,59,Goal,0.875999984741211,0.472000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Douglas Costa,Pass
-227672,Bundesliga,386113,0,MissedShots,0.964000015258789,0.617000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Serge Gnabry,Pass
-227680,Bundesliga,386130,47,Goal,0.895,0.552000007629394,Robert Lewandowski,a,227,OpenPlay,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Lucas Hernández,Aerial
-227749,Bundesliga,387339,41,MissedShots,0.909000015258789,0.502999992370605,Robert Lewandowski,h,227,FromCorner,2020,Head,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,Douglas Costa,Cross
-227753,Bundesliga,387345,55,MissedShots,0.776999969482422,0.316000003814697,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,,None
-227757,Bundesliga,387350,80,MissedShots,0.930999984741211,0.502999992370605,Robert Lewandowski,h,227,OpenPlay,2020,Head,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,David Alaba,Cross
-228098,Bundesliga,388711,2,ShotOnPost,0.926999969482422,0.552000007629394,Robert Lewandowski,a,227,OpenPlay,2020,Head,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Cross
-228107,Bundesliga,388726,45,Goal,0.768000030517578,0.457999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Pass
-228305,Bundesliga,390313,18,MissedShots,0.945,0.452000007629395,Robert Lewandowski,h,227,FromCorner,2020,Head,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,Thomas Müller,HeadPass
-228310,Bundesliga,390322,67,SavedShot,0.896999969482422,0.630999984741211,Robert Lewandowski,h,227,OpenPlay,2020,Head,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,,Aerial
-228753,Bundesliga,393137,16,BlockedShot,0.931999969482422,0.377999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Thomas Müller,Chipped
-228757,Bundesliga,393143,45,Goal,0.949000015258789,0.474000015258789,Robert Lewandowski,h,227,OpenPlay,2020,Head,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Kingsley Coman,Cross
-228758,Bundesliga,393145,49,Goal,0.860999984741211,0.600999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Jérôme Boateng,Pass
-228948,Bundesliga,394086,20,MissedShots,0.875999984741211,0.430999984741211,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Alphonso Davies,Pass
-228951,Bundesliga,394092,42,Goal,0.933000030517578,0.53,Robert Lewandowski,a,227,OpenPlay,2020,Head,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Thomas Müller,Cross
-228953,Bundesliga,394093,46,MissedShots,0.915,0.492999992370605,Robert Lewandowski,a,227,SetPiece,2020,Head,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Serge Gnabry,Cross
-228954,Bundesliga,394094,49,BlockedShot,0.798000030517578,0.714000015258789,Robert Lewandowski,a,227,DirectFreekick,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,,Standard
-228955,Bundesliga,394095,49,BlockedShot,0.845999984741211,0.673000030517578,Robert Lewandowski,a,227,SetPiece,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,,Rebound
-228960,Bundesliga,394102,91,BlockedShot,0.714000015258789,0.615,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Thomas Müller,Pass
-228961,Bundesliga,394103,92,Goal,0.905,0.674000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Joshua Kimmich,Pass
-229235,Bundesliga,396971,35,SavedShot,0.851999969482422,0.45,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,Thomas Müller,Pass
-229243,Bundesliga,396984,75,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,,Standard
-229245,Bundesliga,396987,82,Goal,0.916999969482422,0.5,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,Thomas Müller,Cross
-229266,Bundesliga,397672,19,Goal,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,,Standard
-229267,Bundesliga,397673,24,MissedShots,0.944000015258789,0.394000015258789,Robert Lewandowski,a,227,OpenPlay,2020,Head,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Thomas Müller,Cross
-229273,Bundesliga,397686,64,MissedShots,0.761999969482422,0.600999984741211,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,,None
-229276,Bundesliga,397689,70,MissedShots,0.928000030517578,0.487999992370605,Robert Lewandowski,a,227,OpenPlay,2020,Head,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Kingsley Coman,Aerial
-229635,Bundesliga,399403,3,BlockedShot,0.900999984741211,0.467000007629395,Robert Lewandowski,h,227,FromCorner,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Joshua Kimmich,Cross
-229637,Bundesliga,399405,6,Goal,0.910999984741211,0.502000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Thomas Müller,Throughball
-229645,Bundesliga,399414,35,BlockedShot,0.738000030517578,0.382000007629395,Robert Lewandowski,h,227,FromCorner,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,None
-229647,Bundesliga,399418,49,MissedShots,0.899000015258789,0.715999984741211,Robert Lewandowski,h,227,SetPiece,2020,LeftFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,None
-229649,Bundesliga,399420,58,BlockedShot,0.921999969482422,0.497000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Alphonso Davies,Pass
-229656,Bundesliga,399430,78,SavedShot,0.933000030517578,0.347000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,TakeOn
-229876,Bundesliga,399997,12,Goal,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,,Standard
-229879,Bundesliga,400000,23,MissedShots,0.878000030517578,0.572000007629395,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Kingsley Coman,Pass
-229880,Bundesliga,400001,25,MissedShots,0.705999984741211,0.527999992370605,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Thomas Müller,Chipped
-229884,Bundesliga,400005,42,ShotOnPost,0.976999969482422,0.612000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Serge Gnabry,Cross
-230091,Bundesliga,400888,6,MissedShots,0.909000015258789,0.539000015258789,Robert Lewandowski,a,227,OpenPlay,2020,Head,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Joshua Kimmich,Cross
-230094,Bundesliga,400893,22,SavedShot,0.865999984741211,0.475,Robert Lewandowski,a,227,SetPiece,2020,RightFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Thomas Müller,Pass
-230107,Bundesliga,400909,53,Goal,0.936999969482422,0.357999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Joshua Kimmich,Throughball
-230111,Bundesliga,400917,70,MissedShots,0.835999984741211,0.497000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,David Alaba,Pass
-230177,Bundesliga,401650,56,Goal,0.964000015258789,0.462999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,,None
-230369,Bundesliga,402907,10,SavedShot,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,,Standard
-230374,Bundesliga,402915,36,MissedShots,0.923000030517578,0.539000015258789,Robert Lewandowski,a,227,OpenPlay,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Kingsley Coman,Aerial
-230375,Bundesliga,402918,44,MissedShots,0.771999969482422,0.427000007629395,Robert Lewandowski,a,227,OpenPlay,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Manuel Neuer,Chipped
-230378,Bundesliga,402921,61,MissedShots,0.950999984741211,0.502000007629395,Robert Lewandowski,a,227,FromCorner,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,,Aerial
-230379,Bundesliga,402923,68,MissedShots,0.914000015258789,0.382999992370605,Robert Lewandowski,a,227,OpenPlay,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Kingsley Coman,Aerial
-230380,Bundesliga,402924,75,SavedShot,0.785,0.273999996185303,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Thomas Müller,Pass
-230736,Bundesliga,405057,5,BlockedShot,0.939000015258789,0.49,Robert Lewandowski,h,227,SetPiece,2020,Head,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,Aerial
-230742,Bundesliga,405066,47,Goal,0.924000015258789,0.445999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,David Alaba,Chipped
-230747,Bundesliga,405073,64,SavedShot,0.883000030517578,0.400999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,Rebound
-230750,Bundesliga,405077,71,SavedShot,0.93,0.440999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,BallTouch
-230751,Bundesliga,405078,71,MissedShots,0.954000015258789,0.484000015258789,Robert Lewandowski,h,227,OpenPlay,2020,Head,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,None
-230841,Bundesliga,405495,39,MissedShots,0.899000015258789,0.367000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Kingsley Coman,Chipped
-230846,Bundesliga,405503,52,Goal,0.93,0.524000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Leroy Sané,Pass
-230977,Bundesliga,406733,24,MissedShots,0.889000015258789,0.435999984741211,Robert Lewandowski,h,227,OpenPlay,2020,Head,15338,Bayern Munich,FC Cologne,5,1,2021-02-27 14:30:00,Niklas Süle,Cross
-230979,Bundesliga,406735,32,Goal,0.883000030517578,0.405,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15338,Bayern Munich,FC Cologne,5,1,2021-02-27 14:30:00,Leon Goretzka,Pass
-230982,Bundesliga,406739,64,Goal,0.845,0.454000015258789,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15338,Bayern Munich,FC Cologne,5,1,2021-02-27 14:30:00,Thomas Müller,Pass
-231300,Bundesliga,408689,13,SavedShot,0.896999969482422,0.582000007629395,Robert Lewandowski,h,227,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Aerial
-231302,Bundesliga,408691,18,MissedShots,0.88,0.439000015258789,Robert Lewandowski,h,227,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Cross
-231303,Bundesliga,408692,18,MissedShots,0.925,0.387999992370605,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
-231307,Bundesliga,408696,25,Goal,0.965999984741211,0.53,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Rebound
-231310,Bundesliga,408699,32,BlockedShot,0.888000030517578,0.447000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Pass
-231311,Bundesliga,408700,38,MissedShots,0.864000015258789,0.412999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
-231312,Bundesliga,408701,43,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,Standard
-231316,Bundesliga,408706,61,MissedShots,0.82,0.452000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Pass
-231325,Bundesliga,408716,89,Goal,0.805,0.480999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Alphonso Davies,Pass
-231523,Bundesliga,409945,53,ShotOnPost,0.925999984741211,0.487000007629395,Robert Lewandowski,a,227,OpenPlay,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Kingsley Coman,Aerial
-231524,Bundesliga,409947,57,SavedShot,0.923000030517578,0.437000007629395,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Thomas Müller,Cross
-231525,Bundesliga,409948,57,SavedShot,0.963000030517578,0.419000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,,Rebound
-231526,Bundesliga,409949,57,MissedShots,0.905,0.542000007629394,Robert Lewandowski,a,227,OpenPlay,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Alphonso Davies,Cross
-231527,Bundesliga,409951,65,SavedShot,0.951999969482422,0.51,Robert Lewandowski,a,227,SetPiece,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Joshua Kimmich,Aerial
-231528,Bundesliga,409952,66,Goal,0.973000030517578,0.507999992370605,Robert Lewandowski,a,227,FromCorner,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,,BallTouch
-231531,Bundesliga,409955,77,ShotOnPost,0.975999984741211,0.46,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Thomas Müller,HeadPass
-231652,Bundesliga,411380,16,Goal,0.930999984741211,0.525,Robert Lewandowski,h,227,FromCorner,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Serge Gnabry,Cross
-231654,Bundesliga,411382,22,Goal,0.928000030517578,0.500999984741211,Robert Lewandowski,h,227,OpenPlay,2020,Head,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Thomas Müller,Cross
-231655,Bundesliga,411384,38,Goal,0.869000015258789,0.502000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,,BlockedPass
-231658,Bundesliga,411391,62,MissedShots,0.895,0.517999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Benjamin Pavard,Pass
-232801,Bundesliga,417231,14,MissedShots,0.84,0.562000007629395,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Leon Goretzka,BallRecovery
-232814,Bundesliga,417249,93,Goal,0.91,0.532000007629394,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,BallRecovery
-233095,Bundesliga,420257,1,Goal,0.875999984741211,0.324000015258789,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,David Alaba,Cross
-233097,Bundesliga,420260,11,MissedShots,0.910999984741211,0.547999992370605,Robert Lewandowski,h,227,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,Cross
-233099,Bundesliga,420263,16,MissedShots,0.935,0.562000007629395,Robert Lewandowski,h,227,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Kingsley Coman,Aerial
-233100,Bundesliga,420264,19,BlockedShot,0.85,0.402000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,LayOff
-233104,Bundesliga,420269,33,Goal,0.92,0.650999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
-233108,Bundesliga,420275,52,MissedShots,0.900999984741211,0.569000015258789,Robert Lewandowski,h,227,FromCorner,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Joshua Kimmich,Aerial
-233112,Bundesliga,420283,64,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,Standard
-233116,Bundesliga,420292,88,BlockedShot,0.896999969482422,0.465999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Benjamin Pavard,Cross
-233293,Bundesliga,421850,19,MissedShots,0.828000030517578,0.509000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,None
-233294,Bundesliga,421852,25,Goal,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,Standard
-233300,Bundesliga,421861,56,BlockedShot,0.833000030517578,0.517999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,BallRecovery
-233302,Bundesliga,421867,76,SavedShot,0.895999984741211,0.457999992370605,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,Pass
-233304,Bundesliga,421872,83,SavedShot,0.925999984741211,0.587999992370606,Robert Lewandowski,a,227,OpenPlay,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Joshua Kimmich,Cross
-233305,Bundesliga,421873,85,BlockedShot,0.868000030517578,0.577999992370606,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Kingsley Coman,Chipped
-233462,Bundesliga,423604,22,SavedShot,0.908000030517578,0.490999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Thomas Müller,Pass
-233466,Bundesliga,423609,29,SavedShot,0.959000015258789,0.651999969482422,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,Rebound
-233468,Bundesliga,423611,38,SavedShot,0.904000015258789,0.607999992370605,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Alphonso Davies,Pass
-233470,Bundesliga,423613,39,MissedShots,0.958000030517578,0.6,Robert Lewandowski,h,227,OpenPlay,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Kingsley Coman,Cross
-233472,Bundesliga,423616,53,MissedShots,0.931999969482422,0.504000015258789,Robert Lewandowski,h,227,FromCorner,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Joshua Kimmich,Cross
-233473,Bundesliga,423617,56,BlockedShot,0.975999984741211,0.567000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,David Alaba,SubstitutionOn
-233474,Bundesliga,423620,69,SavedShot,0.788000030517578,0.347999992370605,Robert Lewandowski,h,227,DirectFreekick,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,Standard
-233475,Bundesliga,423622,79,MissedShots,0.93,0.499000015258789,Robert Lewandowski,h,227,FromCorner,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Joshua Kimmich,Aerial
-233476,Bundesliga,423623,79,MissedShots,0.904000015258789,0.465999984741211,Robert Lewandowski,h,227,FromCorner,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Corentin Tolisso,Aerial
-233483,Bundesliga,423630,89,Goal,0.935,0.487000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,TakeOn
+225397,Bundesliga,378394,4,BlockedShot,0.914000015258789,0.565999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Leroy Sané,Pass
+225399,Bundesliga,378396,12,BlockedShot,0.851999969482422,0.395999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Leroy Sané,Pass
+225401,Bundesliga,378399,20,MissedShots,0.860999984741211,0.417999992370605,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Leroy Sané,Pass
+225403,Bundesliga,378401,30,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,,Standard
+225832,Bundesliga,379517,69,MissedShots,0.888000030517578,0.684000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Leroy Sané,BallTouch
+226050,Bundesliga,381402,8,BlockedShot,0.85,0.641999969482422,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Leon Goretzka,BallTouch
+226051,Bundesliga,381403,8,SavedShot,0.913000030517578,0.412000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Thomas Müller,Cross
+226055,Bundesliga,381412,39,SavedShot,0.925999984741211,0.527999992370605,Robert Lewandowski,h,227,OpenPlay,2020,Head,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Chris Richards,Aerial
+226056,Bundesliga,381413,39,Goal,0.934000015258789,0.522000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Rebound
+226057,Bundesliga,381414,43,BlockedShot,0.790999984741211,0.517999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Alphonso Davies,Pass
+226059,Bundesliga,381416,45,BlockedShot,0.808000030517578,0.700999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Lucas Hernández,Pass
+226060,Bundesliga,381417,47,MissedShots,0.928000030517578,0.492999992370605,Robert Lewandowski,h,227,FromCorner,2020,Head,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Serge Gnabry,Aerial
+226062,Bundesliga,381419,50,Goal,0.859000015258789,0.445,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Chris Richards,Cross
+226063,Bundesliga,381423,63,BlockedShot,0.803000030517578,0.734000015258789,Robert Lewandowski,h,227,DirectFreekick,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Standard
+226065,Bundesliga,381426,73,BlockedShot,0.818000030517578,0.517999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Thomas Müller,LayOff
+226066,Bundesliga,381427,75,SavedShot,0.771999969482422,0.65,Robert Lewandowski,h,227,DirectFreekick,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Standard
+226070,Bundesliga,381431,84,Goal,0.964000015258789,0.535999984741211,Robert Lewandowski,h,227,SetPiece,2020,LeftFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Thomas Müller,Pass
+226071,Bundesliga,381433,92,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,,Standard
+226210,Bundesliga,382041,14,MissedShots,0.896999969482422,0.550999984741211,Robert Lewandowski,a,227,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,CornerAwarded
+226212,Bundesliga,382043,24,Goal,0.824000015258789,0.507999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Leon Goretzka,Pass
+226213,Bundesliga,382044,28,SavedShot,0.916999969482422,0.515999984741211,Robert Lewandowski,a,227,OpenPlay,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Lucas Hernández,Cross
+226215,Bundesliga,382049,34,MissedShots,0.93,0.44,Robert Lewandowski,a,227,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Corentin Tolisso,Cross
+226216,Bundesliga,382051,45,Goal,0.851999969482422,0.530999984741211,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Thomas Müller,Pass
+226217,Bundesliga,382054,48,ShotOnPost,0.916999969482422,0.519000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Serge Gnabry,Pass
+226421,Bundesliga,383279,9,Goal,0.864000015258789,0.512000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Kingsley Coman,Pass
+226423,Bundesliga,383281,25,Goal,0.92,0.505999984741211,Robert Lewandowski,h,227,FromCorner,2020,Head,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Joshua Kimmich,Cross
+226425,Bundesliga,383284,32,MissedShots,0.800999984741211,0.515,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Thomas Müller,Pass
+226426,Bundesliga,383287,37,SavedShot,0.865999984741211,0.630999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Lucas Hernández,Pass
+226430,Bundesliga,383293,59,Goal,0.875999984741211,0.472000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Douglas Costa,Pass
+226912,Bundesliga,386113,0,MissedShots,0.964000015258789,0.617000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Serge Gnabry,Pass
+226920,Bundesliga,386130,47,Goal,0.895,0.552000007629394,Robert Lewandowski,a,227,OpenPlay,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Lucas Hernández,Aerial
+226989,Bundesliga,387339,41,MissedShots,0.909000015258789,0.502999992370605,Robert Lewandowski,h,227,FromCorner,2020,Head,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,Douglas Costa,Cross
+226993,Bundesliga,387345,55,MissedShots,0.776999969482422,0.316000003814697,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,,None
+226997,Bundesliga,387350,80,MissedShots,0.930999984741211,0.502999992370605,Robert Lewandowski,h,227,OpenPlay,2020,Head,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,David Alaba,Cross
+227336,Bundesliga,388711,2,ShotOnPost,0.926999969482422,0.552000007629394,Robert Lewandowski,a,227,OpenPlay,2020,Head,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Cross
+227345,Bundesliga,388726,45,Goal,0.768000030517578,0.457999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Kingsley Coman,Pass
+227543,Bundesliga,390313,18,MissedShots,0.945,0.452000007629395,Robert Lewandowski,h,227,FromCorner,2020,Head,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,Thomas Müller,HeadPass
+227548,Bundesliga,390322,67,SavedShot,0.896999969482422,0.630999984741211,Robert Lewandowski,h,227,OpenPlay,2020,Head,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,,Aerial
+227989,Bundesliga,393137,16,BlockedShot,0.931999969482422,0.377999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Thomas Müller,Chipped
+227993,Bundesliga,393143,45,Goal,0.949000015258789,0.474000015258789,Robert Lewandowski,h,227,OpenPlay,2020,Head,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Kingsley Coman,Cross
+227994,Bundesliga,393145,49,Goal,0.860999984741211,0.600999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Jérôme Boateng,Pass
+228183,Bundesliga,394086,20,MissedShots,0.875999984741211,0.430999984741211,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Alphonso Davies,Pass
+228186,Bundesliga,394092,42,Goal,0.933000030517578,0.53,Robert Lewandowski,a,227,OpenPlay,2020,Head,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Thomas Müller,Cross
+228188,Bundesliga,394093,46,MissedShots,0.915,0.492999992370605,Robert Lewandowski,a,227,SetPiece,2020,Head,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Serge Gnabry,Cross
+228189,Bundesliga,394094,49,BlockedShot,0.798000030517578,0.714000015258789,Robert Lewandowski,a,227,DirectFreekick,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,,Standard
+228190,Bundesliga,394095,49,BlockedShot,0.845999984741211,0.673000030517578,Robert Lewandowski,a,227,SetPiece,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,,Rebound
+228195,Bundesliga,394102,91,BlockedShot,0.714000015258789,0.615,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Thomas Müller,Pass
+228196,Bundesliga,394103,92,Goal,0.905,0.674000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Joshua Kimmich,Pass
+228468,Bundesliga,396971,35,SavedShot,0.851999969482422,0.45,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,Thomas Müller,Pass
+228476,Bundesliga,396984,75,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,,Standard
+228478,Bundesliga,396987,82,Goal,0.916999969482422,0.5,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,Thomas Müller,Cross
+228499,Bundesliga,397672,19,Goal,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,,Standard
+228500,Bundesliga,397673,24,MissedShots,0.944000015258789,0.394000015258789,Robert Lewandowski,a,227,OpenPlay,2020,Head,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Thomas Müller,Cross
+228506,Bundesliga,397686,64,MissedShots,0.761999969482422,0.600999984741211,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,,None
+228509,Bundesliga,397689,70,MissedShots,0.928000030517578,0.487999992370605,Robert Lewandowski,a,227,OpenPlay,2020,Head,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Kingsley Coman,Aerial
+228868,Bundesliga,399403,3,BlockedShot,0.900999984741211,0.467000007629395,Robert Lewandowski,h,227,FromCorner,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Joshua Kimmich,Cross
+228870,Bundesliga,399405,6,Goal,0.910999984741211,0.502000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Thomas Müller,Throughball
+228878,Bundesliga,399414,35,BlockedShot,0.738000030517578,0.382000007629395,Robert Lewandowski,h,227,FromCorner,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,None
+228880,Bundesliga,399418,49,MissedShots,0.899000015258789,0.715999984741211,Robert Lewandowski,h,227,SetPiece,2020,LeftFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,None
+228882,Bundesliga,399420,58,BlockedShot,0.921999969482422,0.497000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Alphonso Davies,Pass
+228889,Bundesliga,399430,78,SavedShot,0.933000030517578,0.347000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,TakeOn
+229108,Bundesliga,399997,12,Goal,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,,Standard
+229111,Bundesliga,400000,23,MissedShots,0.878000030517578,0.572000007629395,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Kingsley Coman,Pass
+229112,Bundesliga,400001,25,MissedShots,0.705999984741211,0.527999992370605,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Thomas Müller,Chipped
+229116,Bundesliga,400005,42,ShotOnPost,0.976999969482422,0.612000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Serge Gnabry,Cross
+229321,Bundesliga,400888,6,MissedShots,0.909000015258789,0.539000015258789,Robert Lewandowski,a,227,OpenPlay,2020,Head,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Joshua Kimmich,Cross
+229324,Bundesliga,400893,22,SavedShot,0.865999984741211,0.475,Robert Lewandowski,a,227,SetPiece,2020,RightFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Thomas Müller,Pass
+229337,Bundesliga,400909,53,Goal,0.936999969482422,0.357999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Joshua Kimmich,Throughball
+229341,Bundesliga,400917,70,MissedShots,0.835999984741211,0.497000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,David Alaba,Pass
+229407,Bundesliga,401650,56,Goal,0.964000015258789,0.462999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,,None
+229598,Bundesliga,402907,10,SavedShot,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,,Standard
+229603,Bundesliga,402915,36,MissedShots,0.923000030517578,0.539000015258789,Robert Lewandowski,a,227,OpenPlay,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Kingsley Coman,Aerial
+229604,Bundesliga,402918,44,MissedShots,0.771999969482422,0.427000007629395,Robert Lewandowski,a,227,OpenPlay,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Manuel Neuer,Chipped
+229607,Bundesliga,402921,61,MissedShots,0.950999984741211,0.502000007629395,Robert Lewandowski,a,227,FromCorner,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,,Aerial
+229608,Bundesliga,402923,68,MissedShots,0.914000015258789,0.382999992370605,Robert Lewandowski,a,227,OpenPlay,2020,Head,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Kingsley Coman,Aerial
+229609,Bundesliga,402924,75,SavedShot,0.785,0.273999996185303,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Thomas Müller,Pass
+229965,Bundesliga,405057,5,BlockedShot,0.939000015258789,0.49,Robert Lewandowski,h,227,SetPiece,2020,Head,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,Aerial
+229971,Bundesliga,405066,47,Goal,0.924000015258789,0.445999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,David Alaba,Chipped
+229976,Bundesliga,405073,64,SavedShot,0.883000030517578,0.400999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,Rebound
+229979,Bundesliga,405077,71,SavedShot,0.93,0.440999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,BallTouch
+229980,Bundesliga,405078,71,MissedShots,0.954000015258789,0.484000015258789,Robert Lewandowski,h,227,OpenPlay,2020,Head,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,None
+230070,Bundesliga,405495,39,MissedShots,0.899000015258789,0.367000007629395,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Kingsley Coman,Chipped
+230075,Bundesliga,405503,52,Goal,0.93,0.524000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Leroy Sané,Pass
+230206,Bundesliga,406733,24,MissedShots,0.889000015258789,0.435999984741211,Robert Lewandowski,h,227,OpenPlay,2020,Head,15338,Bayern Munich,FC Cologne,5,1,2021-02-27 14:30:00,Niklas Süle,Cross
+230208,Bundesliga,406735,32,Goal,0.883000030517578,0.405,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15338,Bayern Munich,FC Cologne,5,1,2021-02-27 14:30:00,Leon Goretzka,Pass
+230211,Bundesliga,406739,64,Goal,0.845,0.454000015258789,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15338,Bayern Munich,FC Cologne,5,1,2021-02-27 14:30:00,Thomas Müller,Pass
+230527,Bundesliga,408689,13,SavedShot,0.896999969482422,0.582000007629395,Robert Lewandowski,h,227,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Aerial
+230529,Bundesliga,408691,18,MissedShots,0.88,0.439000015258789,Robert Lewandowski,h,227,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Cross
+230530,Bundesliga,408692,18,MissedShots,0.925,0.387999992370605,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
+230534,Bundesliga,408696,25,Goal,0.965999984741211,0.53,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Rebound
+230537,Bundesliga,408699,32,BlockedShot,0.888000030517578,0.447000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Pass
+230538,Bundesliga,408700,38,MissedShots,0.864000015258789,0.412999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leon Goretzka,Pass
+230539,Bundesliga,408701,43,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,Standard
+230543,Bundesliga,408706,61,MissedShots,0.82,0.452000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Leroy Sané,Pass
+230552,Bundesliga,408716,89,Goal,0.805,0.480999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Alphonso Davies,Pass
+230749,Bundesliga,409945,53,ShotOnPost,0.925999984741211,0.487000007629395,Robert Lewandowski,a,227,OpenPlay,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Kingsley Coman,Aerial
+230750,Bundesliga,409947,57,SavedShot,0.923000030517578,0.437000007629395,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Thomas Müller,Cross
+230751,Bundesliga,409948,57,SavedShot,0.963000030517578,0.419000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,,Rebound
+230752,Bundesliga,409949,57,MissedShots,0.905,0.542000007629394,Robert Lewandowski,a,227,OpenPlay,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Alphonso Davies,Cross
+230753,Bundesliga,409951,65,SavedShot,0.951999969482422,0.51,Robert Lewandowski,a,227,SetPiece,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Joshua Kimmich,Aerial
+230754,Bundesliga,409952,66,Goal,0.973000030517578,0.507999992370605,Robert Lewandowski,a,227,FromCorner,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,,BallTouch
+230757,Bundesliga,409955,77,ShotOnPost,0.975999984741211,0.46,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Thomas Müller,HeadPass
+230877,Bundesliga,411380,16,Goal,0.930999984741211,0.525,Robert Lewandowski,h,227,FromCorner,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Serge Gnabry,Cross
+230879,Bundesliga,411382,22,Goal,0.928000030517578,0.500999984741211,Robert Lewandowski,h,227,OpenPlay,2020,Head,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Thomas Müller,Cross
+230880,Bundesliga,411384,38,Goal,0.869000015258789,0.502000007629395,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,,BlockedPass
+230883,Bundesliga,411391,62,MissedShots,0.895,0.517999992370605,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Benjamin Pavard,Pass
+232019,Bundesliga,417231,14,MissedShots,0.84,0.562000007629395,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Leon Goretzka,BallRecovery
+232032,Bundesliga,417249,93,Goal,0.91,0.532000007629394,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,,BallRecovery
+232313,Bundesliga,420257,1,Goal,0.875999984741211,0.324000015258789,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,David Alaba,Cross
+232315,Bundesliga,420260,11,MissedShots,0.910999984741211,0.547999992370605,Robert Lewandowski,h,227,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,Cross
+232317,Bundesliga,420263,16,MissedShots,0.935,0.562000007629395,Robert Lewandowski,h,227,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Kingsley Coman,Aerial
+232318,Bundesliga,420264,19,BlockedShot,0.85,0.402000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Thomas Müller,LayOff
+232322,Bundesliga,420269,33,Goal,0.92,0.650999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
+232326,Bundesliga,420275,52,MissedShots,0.900999984741211,0.569000015258789,Robert Lewandowski,h,227,FromCorner,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Joshua Kimmich,Aerial
+232330,Bundesliga,420283,64,Goal,0.885,0.5,Robert Lewandowski,h,227,Penalty,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,Standard
+232334,Bundesliga,420292,88,BlockedShot,0.896999969482422,0.465999984741211,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Benjamin Pavard,Cross
+232511,Bundesliga,421850,19,MissedShots,0.828000030517578,0.509000015258789,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,None
+232512,Bundesliga,421852,25,Goal,0.885,0.5,Robert Lewandowski,a,227,Penalty,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,,Standard
+232518,Bundesliga,421861,56,BlockedShot,0.833000030517578,0.517999992370605,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,BallRecovery
+232520,Bundesliga,421867,76,SavedShot,0.895999984741211,0.457999992370605,Robert Lewandowski,a,227,OpenPlay,2020,LeftFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Serge Gnabry,Pass
+232522,Bundesliga,421872,83,SavedShot,0.925999984741211,0.587999992370606,Robert Lewandowski,a,227,OpenPlay,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Joshua Kimmich,Cross
+232523,Bundesliga,421873,85,BlockedShot,0.868000030517578,0.577999992370606,Robert Lewandowski,a,227,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Kingsley Coman,Chipped
+232680,Bundesliga,423604,22,SavedShot,0.908000030517578,0.490999984741211,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Thomas Müller,Pass
+232684,Bundesliga,423609,29,SavedShot,0.959000015258789,0.651999969482422,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,Rebound
+232686,Bundesliga,423611,38,SavedShot,0.904000015258789,0.607999992370605,Robert Lewandowski,h,227,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Alphonso Davies,Pass
+232688,Bundesliga,423613,39,MissedShots,0.958000030517578,0.6,Robert Lewandowski,h,227,OpenPlay,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Kingsley Coman,Cross
+232690,Bundesliga,423616,53,MissedShots,0.931999969482422,0.504000015258789,Robert Lewandowski,h,227,FromCorner,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Joshua Kimmich,Cross
+232691,Bundesliga,423617,56,BlockedShot,0.975999984741211,0.567000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,David Alaba,SubstitutionOn
+232692,Bundesliga,423620,69,SavedShot,0.788000030517578,0.347999992370605,Robert Lewandowski,h,227,DirectFreekick,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,Standard
+232693,Bundesliga,423622,79,MissedShots,0.93,0.499000015258789,Robert Lewandowski,h,227,FromCorner,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Joshua Kimmich,Aerial
+232694,Bundesliga,423623,79,MissedShots,0.904000015258789,0.465999984741211,Robert Lewandowski,h,227,FromCorner,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Corentin Tolisso,Aerial
+232701,Bundesliga,423630,89,Goal,0.935,0.487000007629395,Robert Lewandowski,h,227,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,TakeOn
