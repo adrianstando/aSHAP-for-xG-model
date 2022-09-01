@@ -60,7 +60,15 @@ ui <- fluidPage(
     )
   ),
   tabsetPanel(tabPanel("aSHAP",
-                       plotOutput(outputId = "aSHAP")),
+                       fluidPage(
+                         radioButtons(
+                           inputId = "show_boxplot",
+                           label = "Show boxplots on the plot:",
+                           choices = c('Yes' = TRUE, 'No' = FALSE),
+                           selected = TRUE
+                         ),
+                         plotOutput(outputId = "aSHAP"))
+                       ),
               tabPanel(
                 "SHAP", fluidPage(
                   uiOutput('dynamic_dataset_selection'),

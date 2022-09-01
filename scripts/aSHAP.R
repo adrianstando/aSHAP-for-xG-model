@@ -152,7 +152,7 @@ calculate_order <- function(x, mean_prediction, new_data, predict_function) {
   order(diffs_1d, decreasing = TRUE)
 }
 
-plot.shap_aggregated <- function(x, ..., shift_contributions = 0.05, add_contributions = TRUE, max_features = 10, title = "Aggregated SHAP") {
+plot.shap_aggregated <- function(x, ..., shift_contributions = 0.05, add_contributions = TRUE, add_boxplots = TRUE, max_features = 10, title = "Aggregated SHAP") {
   x <- select_only_k_features(x, k = max_features, ...)
   aggregate <- x[[1]]
   raw <- x[[2]]
@@ -165,16 +165,18 @@ plot.shap_aggregated <- function(x, ..., shift_contributions = 0.05, add_contrib
   # max_features = max_features + 1 because we have one more class already - "+ all other features"
   p <- plot(aggregate, ..., add_contributions = FALSE, max_features = max_features + 1, title = title)
 
-  p <- p + geom_boxplot(data = raw,
-                        aes(y = contribution + mean_boxplot,
-                            x = position + 0.5,
-                            group = position,
-                            fill = "#371ea3",
-                            xmin = min(contribution) - 0.85,
-                            xmax = max(contribution) + 0.85),
-                        color = "#371ea3",
-                        fill = "#371ea3",
-                        width = 0.15)
+  if(add_boxplots){
+    p <- p + geom_boxplot(data = raw,
+                          aes(y = contribution + mean_boxplot,
+                              x = position + 0.5,
+                              group = position,
+                              fill = "#371ea3",
+                              xmin = min(contribution) - 0.85,
+                              xmax = max(contribution) + 0.85),
+                          color = "#371ea3",
+                          fill = "#371ea3",
+                          width = 0.15)
+  }
 
   if (add_contributions) {
     aggregate$right_side <- pmax(aggregate$cumulative,  aggregate$cumulative - aggregate$contribution)

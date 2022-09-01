@@ -33,7 +33,8 @@ server <- function(input, output) {
                 use_default_filter = ifelse(
                   input$filtering_method == 'custom', 
                   FALSE, 
-                  TRUE))
+                  TRUE),
+                add_boxplots = input$show_boxplot)
     } else {
       p <- ggplot() + theme_void()
     }
