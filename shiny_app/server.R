@@ -7,7 +7,7 @@ source('./scripts/aSHAP.R')
 source('./scripts/transform_shap.R')
 source('./shiny_app/utils.R')
 
-server <- function(input, output) {
+server <- function(input, output, session) {
   output$aSHAP <- renderPlot({
     p <- NULL
     
@@ -178,5 +178,11 @@ server <- function(input, output) {
   })
 
   output$choose_text <- renderText({'Click on a row to see a plot'})
+  
+  observeEvent(input$expand,{
+    if(input$filtering_method == 'default'){
+      updateNumericInput(session, 'number_of_variables_default', value = length(variables))
+    }
+  })
   
 }

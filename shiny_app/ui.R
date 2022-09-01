@@ -32,7 +32,8 @@ ui <- fluidPage(
                          value = as.integer(0.6 * length(variables)),
                          min = 0,
                          max = length(variables),
-                         step = 1)
+                         step = 1),
+                       actionButton("expand", "Expand the plot")
       )
                        
     ),
