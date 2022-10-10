@@ -41,6 +41,42 @@ server <- function(input, output, session) {
     
     p
   })
+    
+
+  output$aSHAP_col_value <- renderPlot({
+    p <- NULL
+    
+    if(file.exists(file.path(input$task, 'shaps_transformed.RDS'))){
+        
+      column <- input$selected_column_name
+        
+      column_vals <- 
+        read.csv(file.path(input$task, 'X_subset_preprocessed.csv'))[,column]
+        
+      ashaps <-
+        read.csv(file.path(input$task, 'shaps.csv'))[,column]
+        
+      df <- data.frame(
+          c1 = ashaps,
+          c2 = column_vals
+      )
+    
+      if(length(colnames(df)) == 2){
+        colnames(df) <- c('SHAP', column)
+        
+        p <- ggplot(df, aes_string(x=column, y='SHAP')) + 
+          geom_point(col='#4c72b0') + 
+          theme_bw()
+      } else {
+          p <- ggplot() + theme_void()
+      }
+      
+    } else {
+      p <- ggplot() + theme_void()
+    }
+    
+    p
+  })
   
   
   output$table <- renderDT({
@@ -175,6 +211,13 @@ server <- function(input, output, session) {
         }
       })
     
+  })
+    
+  output$dynamic_column_selection <- renderUI({
+    selectInput(
+      inputId = "selected_column_name",
+      label = "Select column to be shown:",
+      choices = colnames(read.csv(file.path(input$task, 'X_subset_preprocessed.csv'))[,-1]))
   })
 
   output$choose_text <- renderText({'Click on a row to see a plot'})

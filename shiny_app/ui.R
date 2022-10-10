@@ -77,5 +77,11 @@ ui <- fluidPage(
                   DTOutput('table'),
                   plotOutput(outputId = "one_SHAP")
                 )
+              ),
+              tabPanel(
+                "SHAP vs. column value", fluidPage(
+                  uiOutput('dynamic_column_selection'),
+                  plotOutput(outputId = "aSHAP_col_value")
+                )
               ))
 )
