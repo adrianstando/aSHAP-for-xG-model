@@ -1,0 +1,112 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+71032,EPL,429888,8,MissedShots,0.978000030517578,0.337999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,None
+71033,EPL,429889,10,MissedShots,0.971999969482422,0.72,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Jadon Sancho,Pass
+71035,EPL,429892,22,BlockedShot,0.765999984741211,0.520999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,None
+71042,EPL,429903,38,BlockedShot,0.94,0.342000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Nemanja Matic,Pass
+71045,EPL,429906,46,Goal,0.975999984741211,0.515999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,,Rebound
+71048,EPL,429910,61,Goal,0.923000030517578,0.632000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Luke Shaw,Pass
+71446,EPL,431750,23,SavedShot,0.855,0.664000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Paul Pogba,Pass
+71449,EPL,431754,31,MissedShots,0.883000030517578,0.587999992370606,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Luke Shaw,HeadPass
+71451,EPL,431756,34,SavedShot,0.923000030517578,0.509000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Bruno Fernandes,Cross
+71452,EPL,431757,34,Goal,0.97,0.51,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,,Rebound
+71453,EPL,431758,41,SavedShot,0.905999984741211,0.291000003814697,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Mason Greenwood,Pass
+71455,EPL,431761,46,SavedShot,0.891999969482422,0.562999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Bruno Fernandes,Pass
+71456,EPL,431762,46,BlockedShot,0.871999969482422,0.482000007629395,Cristiano Ronaldo,a,2371,FromCorner,2021,LeftFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Paul Pogba,Pass
+71513,EPL,433133,10,MissedShots,0.714000015258789,0.617999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16431,Manchester United,Aston Villa,0,1,2021-09-25 11:30:00,Bruno Fernandes,Pass
+71519,EPL,433141,24,BlockedShot,0.878000030517578,0.763000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16431,Manchester United,Aston Villa,0,1,2021-09-25 11:30:00,Luke Shaw,TakeOn
+71523,EPL,433147,45,BlockedShot,0.760999984741211,0.658000030517578,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16431,Manchester United,Aston Villa,0,1,2021-09-25 11:30:00,,Standard
+71528,EPL,433153,69,BlockedShot,0.816999969482422,0.301000003814697,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16431,Manchester United,Aston Villa,0,1,2021-09-25 11:30:00,Mason Greenwood,Pass
+71764,EPL,434665,73,MissedShots,0.959000015258789,0.656999969482422,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Jadon Sancho,Throughball
+72080,EPL,436219,27,SavedShot,0.863000030517578,0.570999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,Jadon Sancho,Pass
+72083,EPL,436223,32,BlockedShot,0.805999984741211,0.317999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,,None
+72093,EPL,436249,88,MissedShots,0.91,0.449000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,Bruno Fernandes,Cross
+72510,EPL,438507,18,MissedShots,0.866999969482422,0.67,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Bruno Fernandes,Pass
+72515,EPL,438518,45,SavedShot,0.914000015258789,0.355,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Mason Greenwood,Pass
+72517,EPL,438529,92,BlockedShot,0.875,0.402000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Diogo Dalot,Cross
+72518,EPL,438530,92,MissedShots,0.873000030517578,0.320999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Scott McTominay,HeadPass
+72697,EPL,439901,38,BlockedShot,0.858000030517578,0.5,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,,Rebound
+72698,EPL,439902,38,Goal,0.960999984741211,0.34,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Bruno Fernandes,Chipped
+72806,EPL,440826,25,SavedShot,0.88,0.540999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16483,Manchester United,Manchester City,0,2,2021-11-06 12:30:00,Luke Shaw,Cross
+73158,EPL,442507,12,BlockedShot,0.916999969482422,0.664000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16494,Watford,Manchester United,4,1,2021-11-20 15:00:00,,None
+73162,EPL,442520,56,SavedShot,0.91,0.355,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16494,Watford,Manchester United,4,1,2021-11-20 15:00:00,Donny van de Beek,Throughball
+73164,EPL,442525,71,MissedShots,0.931999969482422,0.305,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16494,Watford,Manchester United,4,1,2021-11-20 15:00:00,Donny van de Beek,Pass
+73165,EPL,442526,75,MissedShots,0.913000030517578,0.464000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,Head,16494,Watford,Manchester United,4,1,2021-11-20 15:00:00,Jadon Sancho,Cross
+73713,EPL,445791,10,MissedShots,0.755,0.46,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Fred,Pass
+73714,EPL,445794,18,SavedShot,0.855999984741211,0.744000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Scott McTominay,TakeOn
+73719,EPL,445805,47,SavedShot,0.954000015258789,0.334000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Bruno Fernandes,TakeOn
+73720,EPL,445802,48,MissedShots,0.86,0.46,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Bruno Fernandes,Cross
+73722,EPL,445807,51,Goal,0.896999969482422,0.462000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Marcus Rashford,Pass
+73723,EPL,445811,69,Goal,0.885,0.5,Cristiano Ronaldo,h,2371,Penalty,2021,RightFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,,Standard
+73910,EPL,446708,11,MissedShots,0.753000030517578,0.646999969482422,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,,Standard
+73911,EPL,446709,17,BlockedShot,0.955999984741211,0.607999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,Bruno Fernandes,Chipped
+73912,EPL,446710,18,MissedShots,0.865,0.504000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,Head,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,Diogo Dalot,Aerial
+73913,EPL,446711,21,SavedShot,0.85,0.637999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,Marcus Rashford,Pass
+73918,EPL,446716,28,BlockedShot,0.910999984741211,0.539000015258789,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,Alex Telles,Cross
+74143,EPL,447864,36,SavedShot,0.926999969482422,0.412000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,Scott McTominay,TakeOn
+74149,EPL,447876,74,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2021,RightFoot,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,,Standard
+74150,EPL,447881,85,MissedShots,0.938000030517578,0.54,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,Marcus Rashford,Pass
+74665,EPL,450698,20,BlockedShot,0.961999969482422,0.455999984741211,Cristiano Ronaldo,a,2371,FromCorner,2021,Head,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Alex Telles,Cross
+74670,EPL,450706,51,MissedShots,0.778000030517578,0.650999984741211,Cristiano Ronaldo,a,2371,SetPiece,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,None
+74840,EPL,450886,5,MissedShots,0.86,0.525,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,Luke Shaw,Throughball
+74846,EPL,450895,29,BlockedShot,0.880999984741211,0.435999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,Scott McTominay,Pass
+74849,EPL,450899,34,Goal,0.929000015258789,0.542000007629394,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,,Rebound
+74850,EPL,450901,40,MissedShots,0.954000015258789,0.472000007629395,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,Mason Greenwood,Aerial
+74852,EPL,450903,48,MissedShots,0.908000030517578,0.439000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,Head,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,Mason Greenwood,Cross
+74855,EPL,450908,78,BlockedShot,0.766999969482422,0.557000007629395,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,,Standard
+74857,EPL,450911,89,MissedShots,0.920999984741211,0.247000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,,None
+75061,EPL,451335,25,SavedShot,0.735,0.62,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16583,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03 17:30:00,Scott McTominay,Pass
+75065,EPL,451348,68,MissedShots,0.868000030517578,0.695999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16583,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03 17:30:00,Bruno Fernandes,Chipped
+75416,EPL,454215,45,BlockedShot,0.953000030517578,0.307000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16537,Brentford,Manchester United,1,3,2022-01-19 20:00:00,Mason Greenwood,Pass
+75417,EPL,454216,46,ShotOnPost,0.958000030517578,0.605999984741211,Cristiano Ronaldo,a,2371,FromCorner,2021,Head,16537,Brentford,Manchester United,1,3,2022-01-19 20:00:00,Bruno Fernandes,Cross
+75420,EPL,454223,60,BlockedShot,0.861999969482422,0.66,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16537,Brentford,Manchester United,1,3,2022-01-19 20:00:00,Anthony Elanga,BallTouch
+75517,EPL,454625,8,BlockedShot,0.745999984741211,0.680999984741211,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16603,Manchester United,West Ham,1,0,2022-01-22 15:00:00,,Standard
+75519,EPL,454627,13,BlockedShot,0.763000030517578,0.629000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16603,Manchester United,West Ham,1,0,2022-01-22 15:00:00,Bruno Fernandes,Pass
+75531,EPL,454644,89,SavedShot,0.859000015258789,0.454000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16603,Manchester United,West Ham,1,0,2022-01-22 15:00:00,Bruno Fernandes,Pass
+75765,EPL,456581,78,MissedShots,0.920999984741211,0.512000007629395,Cristiano Ronaldo,a,2371,FromCorner,2021,Head,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,Luke Shaw,Cross
+75766,EPL,456583,90,MissedShots,0.909000015258789,0.522000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2021,Head,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,Anthony Elanga,Aerial
+75768,EPL,456585,93,BlockedShot,0.935999984741211,0.664000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,Luke Shaw,Pass
+75923,EPL,456803,6,BlockedShot,0.9,0.653000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Jadon Sancho,TakeOn
+75930,EPL,456819,60,SavedShot,0.9,0.658000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,,None
+76133,EPL,457914,43,BlockedShot,0.798000030517578,0.355,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16549,Manchester United,Brighton,2,0,2022-02-15 20:15:00,,Standard
+76134,EPL,457915,50,Goal,0.825,0.485999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16549,Manchester United,Brighton,2,0,2022-02-15 20:15:00,Scott McTominay,TakeOn
+76139,EPL,457920,65,SavedShot,0.969000015258789,0.430999984741211,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16549,Manchester United,Brighton,2,0,2022-02-15 20:15:00,Bruno Fernandes,Cross
+76143,EPL,457924,74,MissedShots,0.953000030517578,0.572000007629395,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16549,Manchester United,Brighton,2,0,2022-02-15 20:15:00,Bruno Fernandes,Cross
+76148,EPL,457930,86,BlockedShot,0.768000030517578,0.699000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16549,Manchester United,Brighton,2,0,2022-02-15 20:15:00,,None
+76388,EPL,458638,25,SavedShot,0.961999969482422,0.512999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16630,Leeds,Manchester United,2,4,2022-02-20 14:00:00,Paul Pogba,Pass
+76392,EPL,458642,37,BlockedShot,0.919000015258789,0.317999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16630,Leeds,Manchester United,2,4,2022-02-20 14:00:00,Luke Shaw,Pass
+76646,EPL,459830,4,ShotOnPost,0.886999969482422,0.427000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16643,Manchester United,Watford,0,0,2022-02-26 15:00:00,Aaron Wan-Bissaka,Cross
+76659,EPL,459848,60,BlockedShot,0.911999969482422,0.452000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16643,Manchester United,Watford,0,0,2022-02-26 15:00:00,Bruno Fernandes,Pass
+76660,EPL,459849,63,SavedShot,0.875999984741211,0.500999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,Head,16643,Manchester United,Watford,0,0,2022-02-26 15:00:00,Aaron Wan-Bissaka,Aerial
+76662,EPL,459852,72,MissedShots,0.923000030517578,0.360999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,Head,16643,Manchester United,Watford,0,0,2022-02-26 15:00:00,Alex Telles,Aerial
+77160,EPL,462651,8,BlockedShot,0.875999984741211,0.635,Cristiano Ronaldo,h,2371,OpenPlay,2021,LeftFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Jadon Sancho,Pass
+77161,EPL,462652,11,Goal,0.726999969482422,0.442999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Fred,Pass
+77163,EPL,462656,22,MissedShots,0.905999984741211,0.517000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,Head,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Alex Telles,Aerial
+77164,EPL,462663,37,Goal,0.935,0.449000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Jadon Sancho,Pass
+77166,EPL,462667,62,MissedShots,0.911999969482422,0.427000007629395,Cristiano Ronaldo,h,2371,SetPiece,2021,Head,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,,Aerial
+77167,EPL,462668,65,SavedShot,0.868000030517578,0.292000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Jadon Sancho,Pass
+77168,EPL,462670,76,SavedShot,0.86,0.427000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Jadon Sancho,Pass
+77169,EPL,462671,80,Goal,0.901999969482422,0.5,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Alex Telles,Aerial
+77832,EPL,466524,13,BlockedShot,0.871999969482422,0.632000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16692,Everton,Manchester United,1,0,2022-04-09 11:30:00,Bruno Fernandes,Pass
+77841,EPL,466540,92,SavedShot,0.894000015258789,0.572000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16692,Everton,Manchester United,1,0,2022-04-09 11:30:00,Harry Maguire,HeadPass
+78125,EPL,468119,6,SavedShot,0.760999984741211,0.24,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Jesse Lingard,Pass
+78126,EPL,468120,6,Goal,0.91,0.449000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Anthony Elanga,Pass
+78133,EPL,468127,31,Goal,0.938000030517578,0.44,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Alex Telles,Aerial
+78134,EPL,468130,38,MissedShots,0.855999984741211,0.602000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Diogo Dalot,Chipped
+78135,EPL,468134,45,MissedShots,0.87,0.641999969482422,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Jesse Lingard,Pass
+78138,EPL,468139,60,SavedShot,0.924000015258789,0.509000015258789,Cristiano Ronaldo,h,2371,FromCorner,2021,Head,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Alex Telles,Aerial
+78139,EPL,468144,75,Goal,0.700999984741211,0.362999992370605,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,,Standard
+78141,EPL,468147,82,BlockedShot,0.876999969482422,0.655,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,,None
+78365,EPL,469772,19,MissedShots,0.886999969482422,0.296000003814697,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16715,Arsenal,Manchester United,3,1,2022-04-23 11:30:00,Diogo Dalot,Pass
+78367,EPL,469776,33,Goal,0.935,0.48,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16715,Arsenal,Manchester United,3,1,2022-04-23 11:30:00,Nemanja Matic,Cross
+78368,EPL,469777,36,BlockedShot,0.911999969482422,0.324000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16715,Arsenal,Manchester United,3,1,2022-04-23 11:30:00,Bruno Fernandes,Chipped
+78594,EPL,471116,12,MissedShots,0.926999969482422,0.607999992370605,Cristiano Ronaldo,h,2371,FromCorner,2021,RightFoot,16742,Manchester United,Chelsea,1,1,2022-04-28 18:45:00,Raphael Varane,HeadPass
+78595,EPL,471117,13,BlockedShot,0.695,0.664000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16742,Manchester United,Chelsea,1,1,2022-04-28 18:45:00,Nemanja Matic,Pass
+78596,EPL,471129,61,Goal,0.929000015258789,0.335999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2021,RightFoot,16742,Manchester United,Chelsea,1,1,2022-04-28 18:45:00,Nemanja Matic,Throughball
+78851,EPL,472570,23,SavedShot,0.720999984741211,0.605,Cristiano Ronaldo,h,2371,DirectFreekick,2021,RightFoot,16722,Manchester United,Brentford,3,0,2022-05-02 19:00:00,,Standard
+78854,EPL,472578,60,Goal,0.885,0.5,Cristiano Ronaldo,h,2371,Penalty,2021,RightFoot,16722,Manchester United,Brentford,3,0,2022-05-02 19:00:00,,Standard
+79007,EPL,474676,20,MissedShots,0.843000030517578,0.515,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16733,Brighton,Manchester United,4,0,2022-05-07 16:30:00,Anthony Elanga,Pass
+79008,EPL,474681,38,MissedShots,0.745999984741211,0.505999984741211,Cristiano Ronaldo,a,2371,DirectFreekick,2021,RightFoot,16733,Brighton,Manchester United,4,0,2022-05-07 16:30:00,,Standard
+79014,EPL,474695,69,MissedShots,0.91,0.342000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16733,Brighton,Manchester United,4,0,2022-05-07 16:30:00,Bruno Fernandes,Pass
+79018,EPL,474699,81,MissedShots,0.800999984741211,0.285,Cristiano Ronaldo,a,2371,OpenPlay,2021,LeftFoot,16733,Brighton,Manchester United,4,0,2022-05-07 16:30:00,Edinson Cavani,Pass
+79019,EPL,474702,91,BlockedShot,0.843000030517578,0.540999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2021,RightFoot,16733,Brighton,Manchester United,4,0,2022-05-07 16:30:00,Bruno Fernandes,Pass
+280682,Serie_A,427851,62,MissedShots,0.903000030517578,0.5,Cristiano Ronaldo,a,2371,SetPiece,2021,Head,16761,Udinese,Juventus,2,2,2021-08-22 16:30:00,Paulo Dybala,Cross

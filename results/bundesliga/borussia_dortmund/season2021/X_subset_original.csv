@@ -1,0 +1,454 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+217646,Bundesliga,426010,1,MissedShots,0.916999969482422,0.415999984741211,Erling Haaland,h,8260,SetPiece,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,Pass
+217647,Bundesliga,426011,7,BlockedShot,0.869000015258789,0.286000003814697,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Jude Bellingham,Pass
+217648,Bundesliga,426012,7,MissedShots,0.929000015258789,0.532000007629394,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Thorgan Hazard,Pass
+217649,Bundesliga,426014,22,Goal,0.908000030517578,0.620999984741211,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+217650,Bundesliga,426016,31,Goal,0.924000015258789,0.345,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+217651,Bundesliga,426017,33,Goal,0.820999984741211,0.550999984741211,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,TakeOn
+217652,Bundesliga,426018,35,SavedShot,0.915,0.673000030517578,Nico Schulz,h,433,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+217653,Bundesliga,426020,49,BlockedShot,0.891999969482422,0.545999984741211,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Giovanni Reyna,None
+217654,Bundesliga,426022,57,BlockedShot,0.873000030517578,0.430999984741211,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None
+217655,Bundesliga,426023,57,Goal,0.92,0.565999984741211,Giovanni Reyna,h,8191,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Rebound
+217656,Bundesliga,426024,61,MissedShots,0.753000030517578,0.681999969482422,Manuel Akanji,h,6490,DirectFreekick,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Standard
+217657,Bundesliga,426027,69,Goal,0.875,0.567000007629395,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,Pass
+217658,Bundesliga,426033,90,SavedShot,0.866999969482422,0.562999992370605,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None
+217836,Bundesliga,426889,3,SavedShot,0.9,0.450999984741211,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Felix Passlack,Pass
+217837,Bundesliga,426891,10,MissedShots,0.818000030517578,0.325999984741211,Giovanni Reyna,a,8191,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Jude Bellingham,Pass
+217838,Bundesliga,426892,10,SavedShot,0.9,0.490999984741211,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Mahmoud Dahoud,TakeOn
+217839,Bundesliga,426893,13,SavedShot,0.875,0.352999992370605,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Pass
+217840,Bundesliga,426895,28,MissedShots,0.903000030517578,0.54,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Nico Schulz,Cross
+217841,Bundesliga,426897,31,ShotOnPost,0.908000030517578,0.582000007629395,Jude Bellingham,a,8824,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Cross
+217842,Bundesliga,426899,33,BlockedShot,0.705,0.614000015258789,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Donyell Malen,Pass
+217843,Bundesliga,426900,36,SavedShot,0.796999969482422,0.599000015258789,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Pass
+217844,Bundesliga,426901,37,MissedShots,0.694000015258789,0.509000015258789,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,LayOff
+217845,Bundesliga,426902,38,BlockedShot,0.855,0.584000015258789,Giovanni Reyna,a,8191,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Donyell Malen,Pass
+217846,Bundesliga,426903,40,MissedShots,0.715,0.303999996185303,Axel Witsel,a,3059,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Manuel Akanji,Pass
+217847,Bundesliga,426904,47,MissedShots,0.926999969482422,0.515,Erling Haaland,a,8260,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Cross
+217848,Bundesliga,426906,52,MissedShots,0.76,0.562999992370605,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,,None
+217849,Bundesliga,426908,56,MissedShots,0.781999969482422,0.671999969482422,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Mahmoud Dahoud,Pass
+217850,Bundesliga,426911,67,BlockedShot,0.815,0.549000015258789,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Erling Haaland,TakeOn
+217851,Bundesliga,426912,67,MissedShots,0.859000015258789,0.615,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Chipped
+217852,Bundesliga,426913,86,BlockedShot,0.908000030517578,0.532999992370605,Erling Haaland,a,8260,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Julian Brandt,Cross
+217853,Bundesliga,426914,87,MissedShots,0.925,0.572999992370606,Manuel Akanji,a,6490,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Marco Reus,Cross
+217949,Bundesliga,428363,3,SavedShot,0.894000015258789,0.645999984741211,Giovanni Reyna,h,8191,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Erling Haaland,Pass
+217950,Bundesliga,428364,8,SavedShot,0.925999984741211,0.505,Manuel Akanji,h,6490,SetPiece,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Aerial
+217951,Bundesliga,428365,19,BlockedShot,0.925999984741211,0.634000015258789,Thomas Meunier,h,5680,SetPiece,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Cross
+217952,Bundesliga,428366,25,BlockedShot,0.915,0.592999992370606,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Giovanni Reyna,Pass
+217953,Bundesliga,428367,26,MissedShots,0.794000015258789,0.472000007629395,Marco Reus,h,319,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Giovanni Reyna,Pass
+217954,Bundesliga,428368,28,BlockedShot,0.900999984741211,0.6,Axel Witsel,h,3059,FromCorner,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Cross
+217955,Bundesliga,428369,29,SavedShot,0.924000015258789,0.495999984741211,Erling Haaland,h,8260,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Aerial
+217956,Bundesliga,428370,32,MissedShots,0.925,0.519000015258789,Giovanni Reyna,h,8191,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Thomas Meunier,Cross
+217957,Bundesliga,428371,35,MissedShots,0.928000030517578,0.460999984741211,Erling Haaland,h,8260,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Marco Reus,Cross
+217958,Bundesliga,428373,39,SavedShot,0.904000015258789,0.678000030517578,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Marco Reus,Pass
+217959,Bundesliga,428374,43,BlockedShot,0.751999969482422,0.560999984741211,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Donyell Malen,TakeOn
+217960,Bundesliga,428377,48,Goal,0.840999984741211,0.500999984741211,Giovanni Reyna,h,8191,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Jude Bellingham,Pass
+217961,Bundesliga,428381,64,MissedShots,0.86,0.454000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Jude Bellingham,Dispossessed
+217962,Bundesliga,428382,65,SavedShot,0.794000015258789,0.651999969482422,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Marco Reus,Pass
+217963,Bundesliga,428383,66,MissedShots,0.961999969482422,0.512999992370605,Manuel Akanji,h,6490,FromCorner,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Julian Brandt,Aerial
+217964,Bundesliga,428384,68,Goal,0.848000030517578,0.417999992370605,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,None
+217965,Bundesliga,428385,69,SavedShot,0.938000030517578,0.675999984741211,Donyell Malen,h,9749,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Julian Brandt,Pass
+217966,Bundesliga,428387,80,SavedShot,0.87,0.641999969482422,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Pass
+217967,Bundesliga,428388,81,SavedShot,0.855999984741211,0.539000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Donyell Malen,BallTouch
+217968,Bundesliga,428389,86,MissedShots,0.946999969482422,0.307000007629395,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Marius Wolf,Pass
+217969,Bundesliga,428392,90,SavedShot,0.925,0.500999984741211,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,None
+217970,Bundesliga,428393,90,SavedShot,0.955999984741211,0.524000015258789,Youssoufa Moukoko,h,9133,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,Rebound
+217971,Bundesliga,428394,90,Goal,0.97,0.584000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,Rebound
+217972,Bundesliga,428395,94,MissedShots,0.915999984741211,0.455,Marco Reus,h,319,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Thomas Meunier,Pass
+218306,Bundesliga,429778,3,MissedShots,0.901999969482422,0.449000015258789,Manuel Akanji,a,6490,SetPiece,2021,Head,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Raphael Guerreiro,Cross
+218307,Bundesliga,429780,10,MissedShots,0.869000015258789,0.427999992370605,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Erling Haaland,Pass
+218308,Bundesliga,429781,16,BlockedShot,0.845999984741211,0.415999984741211,Marco Reus,a,319,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,None
+218309,Bundesliga,429782,17,MissedShots,0.758000030517578,0.372999992370605,Axel Witsel,a,3059,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Rebound
+218310,Bundesliga,429784,24,SavedShot,0.864000015258789,0.557000007629395,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass
+218311,Bundesliga,429786,36,Goal,0.925,0.487999992370605,Erling Haaland,a,8260,OpenPlay,2021,Head,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Thomas Meunier,Cross
+218312,Bundesliga,429788,46,MissedShots,0.918000030517578,0.675,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Julian Brandt,Pass
+218313,Bundesliga,429789,48,Goal,0.933000030517578,0.35,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Erling Haaland,Pass
+218314,Bundesliga,429790,52,MissedShots,0.785,0.632999992370605,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass
+218315,Bundesliga,429793,61,MissedShots,0.746999969482422,0.460999984741211,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Julian Brandt,Pass
+218316,Bundesliga,429794,63,BlockedShot,0.861999969482422,0.655999984741211,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Mahmoud Dahoud,BallTouch
+218317,Bundesliga,429796,70,Goal,0.763000030517578,0.318999996185303,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+218318,Bundesliga,429797,76,Goal,0.885,0.5,Erling Haaland,a,8260,Penalty,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+218319,Bundesliga,429801,91,SavedShot,0.859000015258789,0.355999984741211,Marius Wolf,a,2693,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass
+218601,Bundesliga,431996,9,Goal,0.881999969482422,0.731999969482422,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,None
+218602,Bundesliga,431997,15,BlockedShot,0.720999984741211,0.39,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,Standard
+218603,Bundesliga,432000,18,SavedShot,0.731999969482422,0.725,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,None
+218604,Bundesliga,432001,23,Goal,0.93,0.515,Erling Haaland,h,8260,OpenPlay,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Thomas Meunier,Cross
+218605,Bundesliga,432004,43,MissedShots,0.808000030517578,0.49,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Jude Bellingham,TakeOn
+218606,Bundesliga,432005,48,MissedShots,0.695999984741211,0.584000015258789,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Axel Witsel,Pass
+218607,Bundesliga,432009,58,SavedShot,0.768000030517578,0.562999992370605,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Raphael Guerreiro,Pass
+218608,Bundesliga,432010,60,MissedShots,0.876999969482422,0.47,Marco Reus,h,319,FromCorner,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Mahmoud Dahoud,Pass
+218609,Bundesliga,432013,82,Goal,0.845999984741211,0.643000030517578,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Mats Hummels,Chipped
+218610,Bundesliga,432014,85,ShotOnPost,0.703000030517578,0.397999992370605,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,Standard
+218611,Bundesliga,432015,85,BlockedShot,0.884000015258789,0.392000007629395,Marius Wolf,h,2693,SetPiece,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,Rebound
+218612,Bundesliga,432016,86,MissedShots,0.918000030517578,0.4,Erling Haaland,h,8260,OpenPlay,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Thomas Meunier,Cross
+218613,Bundesliga,432018,91,BlockedShot,0.886999969482422,0.51,Erling Haaland,h,8260,SetPiece,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Thomas Meunier,Cross
+218806,Bundesliga,433633,15,MissedShots,0.885999984741211,0.247999992370605,Youssoufa Moukoko,a,9133,OpenPlay,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Jude Bellingham,Pass
+218807,Bundesliga,433640,46,MissedShots,0.895999984741211,0.445,Donyell Malen,a,9749,OpenPlay,2021,Head,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Thomas Meunier,Cross
+218808,Bundesliga,433639,47,MissedShots,0.788000030517578,0.305,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,Standard
+218809,Bundesliga,433641,52,MissedShots,0.795999984741211,0.315,Thomas Meunier,a,5680,OpenPlay,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Raphael Guerreiro,Pass
+218810,Bundesliga,433647,67,BlockedShot,0.740999984741211,0.502999992370605,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,None
+218811,Bundesliga,433651,88,BlockedShot,0.755999984741211,0.53,Thorgan Hazard,a,213,DirectFreekick,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,Standard
+218812,Bundesliga,433652,90,MissedShots,0.951999969482422,0.404000015258789,Thorgan Hazard,a,213,OpenPlay,2021,Head,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,None
+218813,Bundesliga,433653,92,MissedShots,0.88,0.32,Marius Wolf,a,2693,OpenPlay,2021,LeftFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Jude Bellingham,Chipped
+218970,Bundesliga,434745,5,MissedShots,0.549000015258789,0.899000015258789,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,BallRecovery
+218971,Bundesliga,434746,7,MissedShots,0.89,0.47,Manuel Akanji,h,6490,FromCorner,2021,Head,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Raphael Guerreiro,Aerial
+218972,Bundesliga,434747,9,Goal,0.885,0.5,Raphael Guerreiro,h,3455,Penalty,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Standard
+218973,Bundesliga,434748,20,MissedShots,0.815,0.322000007629395,Marco Reus,h,319,FromCorner,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Raphael Guerreiro,Chipped
+218974,Bundesliga,434749,25,MissedShots,0.795999984741211,0.397000007629395,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Raphael Guerreiro,Chipped
+218975,Bundesliga,434750,29,MissedShots,0.900999984741211,0.645,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Marius Wolf,Cross
+218976,Bundesliga,434753,50,Goal,0.815999984741211,0.397999992370605,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Marco Reus,Pass
+218977,Bundesliga,434754,56,SavedShot,0.736999969482422,0.425,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Thorgan Hazard,Chipped
+218978,Bundesliga,434755,56,ShotOnPost,0.950999984741211,0.597000007629395,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Rebound
+218979,Bundesliga,434756,56,BlockedShot,0.96,0.605999984741211,Donyell Malen,h,9749,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Thorgan Hazard,Pass
+218980,Bundesliga,434757,56,MissedShots,0.855999984741211,0.755,Raphael Guerreiro,h,3455,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Rebound
+218981,Bundesliga,434758,56,MissedShots,0.950999984741211,0.490999984741211,Marco Reus,h,319,OpenPlay,2021,Head,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Donyell Malen,CornerAwarded
+218982,Bundesliga,434761,61,BlockedShot,0.938000030517578,0.650999984741211,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Jude Bellingham,Pass
+218983,Bundesliga,434763,65,ShotOnPost,0.813000030517578,0.564000015258789,Thorgan Hazard,h,213,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Donyell Malen,Pass
+218984,Bundesliga,434764,69,MissedShots,0.885,0.46,Marco Reus,h,319,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Julian Brandt,Pass
+218985,Bundesliga,434765,76,SavedShot,0.983000030517578,0.600999984741211,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Marco Reus,TakeOn
+218986,Bundesliga,434766,76,BlockedShot,0.915999984741211,0.587999992370606,Reinier,h,8825,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Rebound
+218987,Bundesliga,434767,77,MissedShots,0.771999969482422,0.382000007629395,Emre Can,h,604,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Rebound
+218988,Bundesliga,434768,82,BlockedShot,0.945,0.725,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Thorgan Hazard,Chipped
+218989,Bundesliga,434769,89,MissedShots,0.698000030517578,0.412000007629395,Emre Can,h,604,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Thorgan Hazard,BallRecovery
+219218,Bundesliga,436134,2,Goal,0.848000030517578,0.449000015258789,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,None
+219219,Bundesliga,436135,7,MissedShots,0.921999969482422,0.5,Erling Haaland,h,8260,OpenPlay,2021,Head,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Julian Brandt,Aerial
+219220,Bundesliga,436136,8,BlockedShot,0.888000030517578,0.522000007629395,Thomas Meunier,h,5680,SetPiece,2021,RightFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,None
+219221,Bundesliga,436137,21,MissedShots,0.818000030517578,0.445999984741211,Thomas Meunier,h,5680,OpenPlay,2021,RightFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Erling Haaland,Pass
+219222,Bundesliga,436138,27,MissedShots,0.911999969482422,0.475,Thomas Meunier,h,5680,FromCorner,2021,Head,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Julian Brandt,Aerial
+219223,Bundesliga,436139,30,MissedShots,0.78,0.397999992370605,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,None
+219224,Bundesliga,436141,45,SavedShot,0.934000015258789,0.675,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Donyell Malen,Pass
+219225,Bundesliga,436142,46,BlockedShot,0.944000015258789,0.517999992370605,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Erling Haaland,HeadPass
+219226,Bundesliga,436143,53,Goal,0.885,0.5,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,Standard
+219227,Bundesliga,436145,65,ShotOnPost,0.941999969482422,0.407000007629395,Mats Hummels,h,373,FromCorner,2021,OtherBodyPart,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Julian Brandt,Cross
+219228,Bundesliga,436149,93,Goal,0.844000015258789,0.549000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Jude Bellingham,Pass
+219370,Bundesliga,437697,6,SavedShot,0.710999984741211,0.479000015258789,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,Pass
+219371,Bundesliga,437698,7,MissedShots,0.975999984741211,0.545999984741211,Donyell Malen,a,9749,FromCorner,2021,Head,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Thorgan Hazard,Cross
+219372,Bundesliga,437700,10,BlockedShot,0.721999969482422,0.641999969482422,Emre Can,a,604,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Donyell Malen,Pass
+219373,Bundesliga,437701,11,BlockedShot,0.793000030517578,0.689000015258789,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+219374,Bundesliga,437706,30,Goal,0.885,0.5,Emre Can,a,604,Penalty,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Standard
+219375,Bundesliga,437707,34,SavedShot,0.918000030517578,0.271000003814697,Marius Wolf,a,2693,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,Pass
+219376,Bundesliga,437708,34,MissedShots,0.923000030517578,0.512999992370605,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Rebound
+219377,Bundesliga,437709,34,MissedShots,0.970999984741211,0.656999969482422,Thorgan Hazard,a,213,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,None
+219378,Bundesliga,437710,43,SavedShot,0.946999969482422,0.337000007629395,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Donyell Malen,Pass
+219379,Bundesliga,437711,44,Goal,0.805999984741211,0.499000015258789,Mats Hummels,a,373,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+219380,Bundesliga,437714,56,MissedShots,0.920999984741211,0.272000007629395,Marco Reus,a,319,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Julian Brandt,Pass
+219381,Bundesliga,437717,60,SavedShot,0.805999984741211,0.475999984741211,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,Pass
+219382,Bundesliga,437721,71,BlockedShot,0.845999984741211,0.43,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marius Wolf,Pass
+219383,Bundesliga,437722,71,Goal,0.964000015258789,0.605,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,TakeOn
+219675,Bundesliga,439580,3,SavedShot,0.883000030517578,0.315,Thomas Meunier,h,5680,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Thorgan Hazard,Pass
+219676,Bundesliga,439586,24,MissedShots,0.926999969482422,0.532999992370605,Marco Reus,h,319,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Marius Wolf,Pass
+219677,Bundesliga,439589,39,Goal,0.935,0.502999992370605,Thorgan Hazard,h,213,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jude Bellingham,Chipped
+219678,Bundesliga,439597,62,Goal,0.944000015258789,0.599000015258789,Steffen Tigges,h,9227,FromCorner,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,Aerial
+219679,Bundesliga,439602,70,SavedShot,0.723000030517578,0.794000015258789,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,TakeOn
+219680,Bundesliga,439603,71,MissedShots,0.955,0.575,Mats Hummels,h,373,FromCorner,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,Cross
+219681,Bundesliga,439605,82,SavedShot,0.8,0.723000030517578,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,Standard
+219682,Bundesliga,439606,83,MissedShots,0.920999984741211,0.515,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Steffen Tigges,Cross
+219940,Bundesliga,441246,35,BlockedShot,0.899000015258789,0.492999992370605,Jude Bellingham,a,8824,FromCorner,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thomas Meunier,Pass
+219941,Bundesliga,441247,41,BlockedShot,0.75,0.365999984741211,Marco Reus,a,319,FromCorner,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thorgan Hazard,Pass
+219942,Bundesliga,441251,51,Goal,0.86,0.419000015258789,Marco Reus,a,319,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thomas Meunier,Throughball
+219943,Bundesliga,441257,75,SavedShot,0.885,0.645,Thomas Meunier,a,5680,SetPiece,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Marco Reus,Cross
+219944,Bundesliga,441258,77,BlockedShot,0.743000030517578,0.715,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Jude Bellingham,Pass
+219945,Bundesliga,441259,78,SavedShot,0.905,0.527999992370605,Mats Hummels,a,373,OpenPlay,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Julian Brandt,Aerial
+219946,Bundesliga,441260,86,BlockedShot,0.881999969482422,0.632999992370605,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Youssoufa Moukoko,BallTouch
+219947,Bundesliga,441261,86,BlockedShot,0.906999969482422,0.435999984741211,Dan-Axel Zagadou,a,6103,FromCorner,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thorgan Hazard,Aerial
+219948,Bundesliga,441262,86,BlockedShot,0.905,0.532999992370605,Manuel Akanji,a,6490,FromCorner,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,,None
+219949,Bundesliga,441263,91,BlockedShot,0.879000015258789,0.597999992370605,Dan-Axel Zagadou,a,6103,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thorgan Hazard,Cross
+219950,Bundesliga,441264,91,MissedShots,0.744000015258789,0.432999992370605,Thomas Meunier,a,5680,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,,Rebound
+220167,Bundesliga,442365,6,MissedShots,0.729000015258789,0.515,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Standard
+220168,Bundesliga,442366,11,BlockedShot,0.804000015258789,0.635999984741211,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Jude Bellingham,Pass
+220169,Bundesliga,442367,12,MissedShots,0.906999969482422,0.492999992370605,Donyell Malen,h,9749,FromCorner,2021,Head,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Julian Brandt,Chipped
+220170,Bundesliga,442369,17,BlockedShot,0.913000030517578,0.412000007629395,Marco Reus,h,319,SetPiece,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Julian Brandt,Cross
+220171,Bundesliga,442373,24,BlockedShot,0.904000015258789,0.395,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+220172,Bundesliga,442374,30,MissedShots,0.725,0.297000007629395,Raphael Guerreiro,h,3455,SetPiece,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,Pass
+220173,Bundesliga,442375,36,MissedShots,0.846999969482422,0.759000015258789,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Jude Bellingham,Pass
+220174,Bundesliga,442377,44,BlockedShot,0.735999984741211,0.490999984741211,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+220175,Bundesliga,442378,48,SavedShot,0.749000015258789,0.549000015258789,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Standard
+220176,Bundesliga,442379,52,BlockedShot,0.71,0.567000007629395,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Julian Brandt,Pass
+220177,Bundesliga,442380,52,BlockedShot,0.819000015258789,0.615,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+220178,Bundesliga,442381,53,MissedShots,0.944000015258789,0.467000007629395,Manuel Akanji,h,6490,SetPiece,2021,Head,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Raphael Guerreiro,Cross
+220179,Bundesliga,442382,55,Goal,0.790999984741211,0.422999992370605,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Raphael Guerreiro,Pass
+220180,Bundesliga,442385,65,MissedShots,0.858000030517578,0.624000015258789,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,Pass
+220181,Bundesliga,442386,66,BlockedShot,0.784000015258789,0.62,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Thorgan Hazard,TakeOn
+220182,Bundesliga,442387,66,SavedShot,0.724000015258789,0.442999992370605,Manuel Akanji,h,6490,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,Pass
+220183,Bundesliga,442388,66,MissedShots,0.845,0.525999984741211,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Rebound
+220184,Bundesliga,442391,73,MissedShots,0.92,0.342000007629395,Marco Reus,h,319,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+220185,Bundesliga,442392,79,MissedShots,0.855,0.648000030517578,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Thorgan Hazard,Pass
+220186,Bundesliga,442394,84,SavedShot,0.916999969482422,0.587999992370606,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,TakeOn
+220187,Bundesliga,442395,84,Goal,0.935999984741211,0.484000015258789,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Rebound
+220451,Bundesliga,443944,1,SavedShot,0.816999969482422,0.442999992370605,Marco Reus,a,319,FromCorner,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,None
+220452,Bundesliga,443946,4,BlockedShot,0.914000015258789,0.663000030517578,Emre Can,a,604,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,Pass
+220453,Bundesliga,443947,11,BlockedShot,0.781999969482422,0.542000007629394,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Marco Reus,Pass
+220454,Bundesliga,443948,15,SavedShot,0.81,0.25,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Emre Can,TakeOn
+220455,Bundesliga,443951,25,MissedShots,0.795999984741211,0.796999969482422,Marco Reus,a,319,DirectFreekick,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Standard
+220456,Bundesliga,443952,30,BlockedShot,0.811999969482422,0.532999992370605,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,BlockedPass
+220457,Bundesliga,443953,30,MissedShots,0.864000015258789,0.545,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Rebound
+220458,Bundesliga,443954,34,Goal,0.885,0.5,Emre Can,a,604,Penalty,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Standard
+220459,Bundesliga,443957,47,ShotOnPost,0.858000030517578,0.66,Nico Schulz,a,433,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,None
+220460,Bundesliga,443959,54,Goal,0.785,0.562999992370605,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Marco Reus,TakeOn
+220461,Bundesliga,443964,72,SavedShot,0.806999969482422,0.500999984741211,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Ansgar Knauff,LayOff
+220462,Bundesliga,443968,79,Goal,0.955,0.472000007629395,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Julian Brandt,Cross
+220463,Bundesliga,443969,84,SavedShot,0.921999969482422,0.562999992370605,Mats Hummels,a,373,FromCorner,2021,Head,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,Cross
+220464,Bundesliga,443970,86,SavedShot,0.903000030517578,0.605,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,Pass
+220465,Bundesliga,443973,91,BlockedShot,0.865999984741211,0.355,Ansgar Knauff,a,8989,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,Chipped
+220695,Bundesliga,446350,1,MissedShots,0.674000015258789,0.741999969482422,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,BallRecovery
+220696,Bundesliga,446351,4,Goal,0.906999969482422,0.497000007629395,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Jude Bellingham,TakeOn
+220697,Bundesliga,446360,28,MissedShots,0.919000015258789,0.645,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,Pass
+220698,Bundesliga,446362,31,MissedShots,0.756999969482422,0.564000015258789,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Julian Brandt,TakeOn
+220699,Bundesliga,446364,37,BlockedShot,0.806999969482422,0.349000015258789,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Emre Can,Pass
+220700,Bundesliga,446366,47,Goal,0.900999984741211,0.655,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Jude Bellingham,Pass
+220701,Bundesliga,446369,57,BlockedShot,0.925999984741211,0.696999969482422,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+220702,Bundesliga,446370,57,BlockedShot,0.818000030517578,0.502999992370605,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,Rebound
+220703,Bundesliga,446372,69,BlockedShot,0.855999984741211,0.357000007629395,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,None
+220704,Bundesliga,446374,84,MissedShots,0.950999984741211,0.527999992370605,Jude Bellingham,h,8824,SetPiece,2021,Head,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,Cross
+220705,Bundesliga,446375,94,SavedShot,0.885,0.685,Donyell Malen,h,9749,SetPiece,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+220706,Bundesliga,446376,95,SavedShot,0.935,0.337999992370605,Thomas Meunier,h,5680,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+220810,Bundesliga,447651,17,SavedShot,0.845,0.499000015258789,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Erling Haaland,Pass
+220811,Bundesliga,447652,18,SavedShot,0.958000030517578,0.460999984741211,Marco Reus,a,319,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+220812,Bundesliga,447654,24,BlockedShot,0.848000030517578,0.504000015258789,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Nico Schulz,Pass
+220813,Bundesliga,447655,26,SavedShot,0.85,0.452000007629395,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,Throughball
+220814,Bundesliga,447657,37,BlockedShot,0.858000030517578,0.46,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Pass
+220815,Bundesliga,447659,50,MissedShots,0.844000015258789,0.442999992370605,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,Pass
+220816,Bundesliga,447660,51,BlockedShot,0.899000015258789,0.427999992370605,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+220817,Bundesliga,447661,51,MissedShots,0.949000015258789,0.422000007629395,Dan-Axel Zagadou,a,6103,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+220818,Bundesliga,447662,53,BlockedShot,0.804000015258789,0.53,Emre Can,a,604,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+220819,Bundesliga,447663,61,BlockedShot,0.818000030517578,0.550999984741211,Marius Wolf,a,2693,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+220820,Bundesliga,447664,61,BlockedShot,0.91,0.612000007629395,Thomas Meunier,a,5680,FromCorner,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+220821,Bundesliga,447665,65,MissedShots,0.933000030517578,0.572000007629395,Mats Hummels,a,373,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+220822,Bundesliga,447666,77,BlockedShot,0.92,0.542999992370605,Erling Haaland,a,8260,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Thorgan Hazard,Aerial
+220823,Bundesliga,447667,77,BlockedShot,0.870999984741211,0.417999992370605,Thomas Meunier,a,5680,FromCorner,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,BallTouch
+220824,Bundesliga,447668,78,SavedShot,0.925999984741211,0.387999992370605,Emre Can,a,604,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Cross
+220825,Bundesliga,447669,81,SavedShot,0.739000015258789,0.605,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+220826,Bundesliga,447670,82,MissedShots,0.804000015258789,0.512999992370605,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+220827,Bundesliga,447671,84,Goal,0.966999969482422,0.407000007629395,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Erling Haaland,Chipped
+220828,Bundesliga,447672,85,BlockedShot,0.924000015258789,0.377999992370605,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Chipped
+220829,Bundesliga,447673,86,BlockedShot,0.840999984741211,0.5,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Marco Reus,Pass
+221255,Bundesliga,448976,2,MissedShots,0.870999984741211,0.7,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,None
+221256,Bundesliga,448979,29,BlockedShot,0.895,0.385,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Thomas Meunier,Cross
+221257,Bundesliga,448980,32,Goal,0.885,0.5,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard
+221258,Bundesliga,448981,35,SavedShot,0.91,0.349000015258789,Marco Reus,h,319,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Throughball
+221259,Bundesliga,448982,35,MissedShots,0.881999969482422,0.439000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Rebound
+221260,Bundesliga,448985,43,SavedShot,0.769000015258789,0.375999984741211,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard
+221261,Bundesliga,448986,44,BlockedShot,0.770999984741211,0.725999984741211,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jude Bellingham,Pass
+221262,Bundesliga,448987,57,BlockedShot,0.856999969482422,0.567000007629395,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Thomas Meunier,Cross
+221263,Bundesliga,448988,57,BlockedShot,0.763000030517578,0.402999992370605,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Rebound
+221264,Bundesliga,448992,77,BlockedShot,0.91,0.492999992370605,Mats Hummels,h,373,FromCorner,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Emre Can,HeadPass
+221265,Bundesliga,448993,81,Goal,0.883000030517578,0.500999984741211,Erling Haaland,h,8260,SetPiece,2021,Head,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Cross
+221266,Bundesliga,448994,88,Goal,0.951999969482422,0.577999992370606,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Cross
+221440,Bundesliga,449550,8,MissedShots,0.989000015258789,0.357000007629395,Thomas Meunier,a,5680,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,None
+221441,Bundesliga,449551,10,SavedShot,0.908000030517578,0.43,Marco Reus,a,319,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Thomas Meunier,Throughball
+221442,Bundesliga,449552,12,MissedShots,0.903000030517578,0.51,Marco Reus,a,319,OpenPlay,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Thomas Meunier,Aerial
+221443,Bundesliga,449554,20,MissedShots,0.81,0.629000015258789,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Julian Brandt,Pass
+221444,Bundesliga,449556,30,Goal,0.943000030517578,0.658000030517578,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,BallTouch
+221445,Bundesliga,449558,42,BlockedShot,0.853000030517578,0.485,Thomas Meunier,a,5680,FromCorner,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,OffsidePass
+221446,Bundesliga,449561,55,SavedShot,0.943000030517578,0.714000015258789,Nico Schulz,a,433,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,None
+221447,Bundesliga,449563,65,MissedShots,0.871999969482422,0.469000015258789,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Donyell Malen,Pass
+221448,Bundesliga,449567,82,Goal,0.905999984741211,0.475,Steffen Tigges,a,9227,FromCorner,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Raphael Guerreiro,Cross
+221449,Bundesliga,449568,86,MissedShots,0.911999969482422,0.447999992370605,Erling Haaland,a,8260,FromCorner,2021,OtherBodyPart,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Raphael Guerreiro,Aerial
+221450,Bundesliga,449569,89,BlockedShot,0.785999984741211,0.303999996185303,Marius Wolf,a,2693,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,BallTouch
+221665,Bundesliga,452235,1,SavedShot,0.885999984741211,0.322000007629395,Thomas Meunier,a,5680,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Mats Hummels,Chipped
+221666,Bundesliga,452236,3,SavedShot,0.845999984741211,0.634000015258789,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,BallTouch
+221667,Bundesliga,452237,8,MissedShots,0.879000015258789,0.617999992370605,Erling Haaland,a,8260,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Emre Can,None
+221668,Bundesliga,452245,32,BlockedShot,0.945,0.342000007629395,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,TakeOn
+221669,Bundesliga,452247,42,MissedShots,0.815999984741211,0.569000015258789,Julian Brandt,a,261,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,Pass
+221670,Bundesliga,452248,46,SavedShot,0.919000015258789,0.502999992370605,Mats Hummels,a,373,FromCorner,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Julian Brandt,Aerial
+221671,Bundesliga,452249,46,ShotOnPost,0.974000015258789,0.552999992370605,Donyell Malen,a,9749,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+221672,Bundesliga,452252,61,MissedShots,0.874000015258789,0.382000007629395,Erling Haaland,a,8260,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+221673,Bundesliga,452253,62,MissedShots,0.858000030517578,0.384000015258789,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Marco Reus,Pass
+221674,Bundesliga,452254,64,MissedShots,0.89,0.420999984741211,Donyell Malen,a,9749,SetPiece,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Raphael Guerreiro,Cross
+221675,Bundesliga,452255,67,MissedShots,0.871999969482422,0.614000015258789,Raphael Guerreiro,a,3455,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thorgan Hazard,Pass
+221676,Bundesliga,452256,69,MissedShots,0.9,0.452000007629395,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,Cross
+221677,Bundesliga,452257,70,Goal,0.855999984741211,0.509000015258789,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Erling Haaland,Pass
+221678,Bundesliga,452258,71,SavedShot,0.895999984741211,0.693000030517578,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Jude Bellingham,Pass
+221679,Bundesliga,452259,72,MissedShots,0.955999984741211,0.507000007629395,Erling Haaland,a,8260,FromCorner,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thorgan Hazard,Cross
+221680,Bundesliga,452260,76,SavedShot,0.923000030517578,0.25,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Marco Reus,TakeOn
+221681,Bundesliga,452262,78,MissedShots,0.746999969482422,0.44,Mahmoud Dahoud,a,205,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None
+221682,Bundesliga,452263,83,MissedShots,0.899000015258789,0.545,Thomas Meunier,a,5680,SetPiece,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Raphael Guerreiro,Cross
+221683,Bundesliga,452264,86,Goal,0.945999984741211,0.507000007629395,Jude Bellingham,a,8824,OpenPlay,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thomas Meunier,Cross
+221684,Bundesliga,452266,88,Goal,0.805,0.504000015258789,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,TakeOn
+221734,Bundesliga,452971,10,MissedShots,0.843000030517578,0.617999992370605,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Mahmoud Dahoud,Pass
+221735,Bundesliga,452972,13,Goal,0.951999969482422,0.577000007629395,Thomas Meunier,h,5680,FromCorner,2021,Head,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Julian Brandt,Aerial
+221736,Bundesliga,452973,27,BlockedShot,0.931999969482422,0.419000015258789,Mats Hummels,h,373,FromCorner,2021,Head,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Julian Brandt,Dispossessed
+221737,Bundesliga,452974,28,Goal,0.931999969482422,0.500999984741211,Thomas Meunier,h,5680,FromCorner,2021,Head,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Julian Brandt,Aerial
+221738,Bundesliga,452975,31,BlockedShot,0.905,0.387000007629395,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Marco Reus,TakeOn
+221739,Bundesliga,452976,31,MissedShots,0.861999969482422,0.407999992370605,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Donyell Malen,None
+221740,Bundesliga,452977,34,SavedShot,0.734000015258789,0.3,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,,Standard
+221741,Bundesliga,452978,35,MissedShots,0.855999984741211,0.460999984741211,Thomas Meunier,h,5680,FromCorner,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,,None
+221742,Bundesliga,452979,35,MissedShots,0.976999969482422,0.337999992370605,Erling Haaland,h,8260,FromCorner,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Thomas Meunier,None
+221743,Bundesliga,452980,39,BlockedShot,0.915999984741211,0.420999984741211,Marco Reus,h,319,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Donyell Malen,Pass
+221744,Bundesliga,452981,40,MissedShots,0.878000030517578,0.612000007629395,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Jude Bellingham,Pass
+221745,Bundesliga,452983,45,Goal,0.923000030517578,0.450999984741211,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Jude Bellingham,Pass
+221746,Bundesliga,452984,46,MissedShots,0.926999969482422,0.334000015258789,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Marco Reus,Chipped
+221747,Bundesliga,452985,48,SavedShot,0.754000015258789,0.412000007629395,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,,None
+221748,Bundesliga,452986,52,BlockedShot,0.845999984741211,0.515999984741211,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Marco Reus,BallTouch
+221749,Bundesliga,452987,52,MissedShots,0.950999984741211,0.542000007629394,Manuel Akanji,h,6490,FromCorner,2021,Head,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Julian Brandt,Cross
+221750,Bundesliga,452992,74,Goal,0.915,0.614000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Mahmoud Dahoud,Throughball
+221751,Bundesliga,452993,76,MissedShots,0.899000015258789,0.699000015258789,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Jude Bellingham,Pass
+221752,Bundesliga,452994,79,MissedShots,0.820999984741211,0.49,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Erling Haaland,Pass
+221753,Bundesliga,452995,85,Goal,0.881999969482422,0.602000007629395,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Nico Schulz,Pass
+222043,Bundesliga,454547,5,Goal,0.969000015258789,0.482000007629395,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Donyell Malen,Pass
+222044,Bundesliga,454549,14,MissedShots,0.914000015258789,0.49,Erling Haaland,a,8260,SetPiece,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Julian Brandt,BallTouch
+222045,Bundesliga,454561,57,Goal,0.900999984741211,0.449000015258789,Marco Reus,a,319,OpenPlay,2021,RightFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Donyell Malen,Throughball
+222046,Bundesliga,454565,85,MissedShots,0.71,0.569000015258789,Axel Witsel,a,3059,OpenPlay,2021,RightFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Mahmoud Dahoud,Pass
+222403,Bundesliga,456272,40,SavedShot,0.746999969482422,0.760999984741211,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,None
+222404,Bundesliga,456273,49,SavedShot,0.695999984741211,0.395999984741211,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Donyell Malen,Pass
+222405,Bundesliga,456277,56,SavedShot,0.851999969482422,0.720999984741211,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Julian Brandt,Pass
+222406,Bundesliga,456278,61,MissedShots,0.87,0.734000015258789,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Donyell Malen,Pass
+222407,Bundesliga,456279,63,MissedShots,0.840999984741211,0.485999984741211,Mahmoud Dahoud,h,205,OpenPlay,2021,LeftFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,None
+222408,Bundesliga,456280,66,BlockedShot,0.734000015258789,0.455999984741211,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Julian Brandt,BallTouch
+222409,Bundesliga,456281,68,BlockedShot,0.841999969482422,0.515,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Giovanni Reyna,Pass
+222410,Bundesliga,456282,69,BlockedShot,0.950999984741211,0.821999969482422,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,Standard
+222411,Bundesliga,456283,71,MissedShots,0.708000030517578,0.535,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Donyell Malen,Pass
+222412,Bundesliga,456284,73,MissedShots,0.840999984741211,0.684000015258789,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Julian Brandt,Pass
+222413,Bundesliga,456285,79,SavedShot,0.845,0.449000015258789,Giovanni Reyna,h,8191,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Jude Bellingham,Throughball
+222414,Bundesliga,456286,82,SavedShot,0.81,0.489000015258789,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Youssoufa Moukoko,Pass
+222415,Bundesliga,456288,85,BlockedShot,0.956999969482422,0.685999984741211,Steffen Tigges,h,9227,OpenPlay,2021,LeftFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Julian Brandt,Pass
+222416,Bundesliga,456290,88,Goal,0.983000030517578,0.497000007629395,Steffen Tigges,h,9227,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,None
+222672,Bundesliga,457586,13,MissedShots,0.741999969482422,0.765999984741211,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Axel Witsel,Pass
+222673,Bundesliga,457587,15,MissedShots,0.855,0.517000007629395,Donyell Malen,a,9749,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Julian Brandt,Pass
+222674,Bundesliga,457588,17,Goal,0.931999969482422,0.557999992370605,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Mahmoud Dahoud,Pass
+222675,Bundesliga,457590,24,Goal,0.971999969482422,0.614000015258789,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Donyell Malen,TakeOn
+222676,Bundesliga,457592,35,SavedShot,0.844000015258789,0.597999992370605,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,,None
+222677,Bundesliga,457593,41,BlockedShot,0.941999969482422,0.352000007629395,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Mahmoud Dahoud,Pass
+222678,Bundesliga,457597,59,SavedShot,0.75,0.560999984741211,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,,Standard
+222679,Bundesliga,457599,67,BlockedShot,0.85,0.584000015258789,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Manuel Akanji,Pass
+222680,Bundesliga,457600,70,SavedShot,0.981999969482422,0.532000007629394,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Jude Bellingham,Pass
+222681,Bundesliga,457601,70,Goal,0.978000030517578,0.532999992370605,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,,Rebound
+222896,Bundesliga,458873,4,MissedShots,0.91,0.714000015258789,Donyell Malen,h,9749,OpenPlay,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Marco Reus,Pass
+222897,Bundesliga,458874,5,SavedShot,0.819000015258789,0.369000015258789,Giovanni Reyna,h,8191,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,None
+222898,Bundesliga,458876,21,MissedShots,0.695,0.98,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,None
+222899,Bundesliga,458878,25,SavedShot,0.89,0.665999984741211,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Raphael Guerreiro,Pass
+222900,Bundesliga,458879,25,Goal,0.918000030517578,0.495999984741211,Marco Reus,h,319,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,Rebound
+222901,Bundesliga,458881,31,Goal,0.848000030517578,0.557000007629395,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Marco Reus,Throughball
+222902,Bundesliga,458885,50,SavedShot,0.783000030517578,0.272999992370605,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,Standard
+222903,Bundesliga,458887,60,MissedShots,0.868000030517578,0.192000007629395,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Mahmoud Dahoud,Pass
+222904,Bundesliga,458889,69,Goal,0.905,0.325,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Marco Reus,Pass
+222905,Bundesliga,458890,72,BlockedShot,0.924000015258789,0.480999984741211,Mats Hummels,h,373,FromCorner,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,None
+222906,Bundesliga,458891,73,Goal,0.956999969482422,0.515,Youssoufa Moukoko,h,9133,OpenPlay,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Marco Reus,Pass
+222907,Bundesliga,458892,78,SavedShot,0.788000030517578,0.622999992370605,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Marco Reus,Pass
+222908,Bundesliga,458893,78,MissedShots,0.756999969482422,0.69,Mahmoud Dahoud,h,205,FromCorner,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Julian Brandt,Pass
+222909,Bundesliga,458894,80,Goal,0.904000015258789,0.422999992370605,Marco Reus,h,319,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Mats Hummels,Throughball
+222910,Bundesliga,458895,86,MissedShots,0.905999984741211,0.700999984741211,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Mahmoud Dahoud,Pass
+222911,Bundesliga,458896,90,Goal,0.885,0.5,Emre Can,h,604,Penalty,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,Standard
+223175,Bundesliga,460441,2,SavedShot,0.725999984741211,0.335,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Mahmoud Dahoud,Pass
+223176,Bundesliga,460443,10,BlockedShot,0.861999969482422,0.562999992370605,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Raphael Guerreiro,Pass
+223177,Bundesliga,460444,12,SavedShot,0.855,0.56,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Raphael Guerreiro,Pass
+223178,Bundesliga,460446,34,Goal,0.923000030517578,0.350999984741211,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Mahmoud Dahoud,TakeOn
+223179,Bundesliga,460448,46,SavedShot,0.78,0.415,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Donyell Malen,BallTouch
+223180,Bundesliga,460449,48,SavedShot,0.776999969482422,0.342000007629395,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,,Standard
+223181,Bundesliga,460450,50,SavedShot,0.851999969482422,0.714000015258789,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Mahmoud Dahoud,Pass
+223182,Bundesliga,460451,54,MissedShots,0.933000030517578,0.327999992370605,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Axel Witsel,TakeOn
+223183,Bundesliga,460457,85,BlockedShot,0.875999984741211,0.261000003814697,Youssoufa Moukoko,a,9133,OpenPlay,2021,LeftFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Marin Pongracic,Pass
+223184,Bundesliga,460459,91,MissedShots,0.8,0.515,Youssoufa Moukoko,a,9133,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Raphael Guerreiro,Pass
+223509,Bundesliga,463226,7,BlockedShot,0.856999969482422,0.464000015258789,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Marius Wolf,Pass
+223510,Bundesliga,463227,8,MissedShots,0.850999984741211,0.44,Donyell Malen,h,9749,FromCorner,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Thorgan Hazard,Pass
+223511,Bundesliga,463230,20,Goal,0.954000015258789,0.450999984741211,Marius Wolf,h,2693,SetPiece,2021,LeftFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Thorgan Hazard,Pass
+223512,Bundesliga,463231,26,MissedShots,0.745,0.663000030517578,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,None
+223513,Bundesliga,463232,29,SavedShot,0.874000015258789,0.535999984741211,Marius Wolf,h,2693,OpenPlay,2021,LeftFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,None
+223514,Bundesliga,463233,30,BlockedShot,0.929000015258789,0.404000015258789,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,None
+223515,Bundesliga,463234,35,MissedShots,0.878000030517578,0.318999996185303,Axel Witsel,h,3059,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Jude Bellingham,Pass
+223516,Bundesliga,463236,39,MissedShots,0.778000030517578,0.524000015258789,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,Tackle
+223517,Bundesliga,463237,41,MissedShots,0.825,0.31,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Thorgan Hazard,Pass
+223518,Bundesliga,463238,45,BlockedShot,0.969000015258789,0.387000007629395,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Mahmoud Dahoud,Throughball
+223519,Bundesliga,463241,55,MissedShots,0.848000030517578,0.699000015258789,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Mahmoud Dahoud,Pass
+223520,Bundesliga,463243,58,ShotOnPost,0.868000030517578,0.301000003814697,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Marius Wolf,Pass
+223521,Bundesliga,463244,60,BlockedShot,0.866999969482422,0.317999992370605,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,TakeOn
+223522,Bundesliga,463245,60,BlockedShot,0.906999969482422,0.454000015258789,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,Rebound
+223523,Bundesliga,463248,68,BlockedShot,0.813000030517578,0.362999992370605,Felix Passlack,h,2663,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,BallTouch
+223524,Bundesliga,463249,77,MissedShots,0.931999969482422,0.445,Jude Bellingham,h,8824,FromCorner,2021,Head,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Giovanni Reyna,Cross
+223525,Bundesliga,463252,81,MissedShots,0.920999984741211,0.605,Giovanni Reyna,h,8191,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Erling Haaland,Pass
+223526,Bundesliga,463254,84,MissedShots,0.893000030517578,0.529000015258789,Giovanni Reyna,h,8191,OpenPlay,2021,Head,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Lennard Maloney,Aerial
+223527,Bundesliga,463255,90,SavedShot,0.909000015258789,0.273999996185303,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Jude Bellingham,HeadPass
+223570,Bundesliga,463546,19,BlockedShot,0.84,0.372999992370605,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,,BallRecovery
+223571,Bundesliga,463548,21,SavedShot,0.951999969482422,0.700999984741211,Thorgan Hazard,a,213,OpenPlay,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Nico Schulz,Pass
+223572,Bundesliga,463555,58,BlockedShot,0.81,0.522000007629395,Jude Bellingham,a,8824,OpenPlay,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Mahmoud Dahoud,Pass
+223573,Bundesliga,463556,58,MissedShots,0.864000015258789,0.307999992370605,Felix Passlack,a,2663,FromCorner,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,,None
+223574,Bundesliga,463558,64,MissedShots,0.890999984741211,0.71,Donyell Malen,a,9749,OpenPlay,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Thorgan Hazard,Pass
+223575,Bundesliga,463559,67,SavedShot,0.89,0.515,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Nico Schulz,Cross
+223576,Bundesliga,463560,69,BlockedShot,0.943000030517578,0.305,Julian Brandt,a,261,FromCorner,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Giovanni Reyna,Cross
+223577,Bundesliga,463561,73,MissedShots,0.796999969482422,0.69,Thorgan Hazard,a,213,DirectFreekick,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,,Standard
+223578,Bundesliga,463565,86,Goal,0.950999984741211,0.475999984741211,Axel Witsel,a,3059,SetPiece,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Giovanni Reyna,Chipped
+223579,Bundesliga,463566,94,MissedShots,0.973000030517578,0.585,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Erling Haaland,Cross
+223580,Bundesliga,463567,95,SavedShot,0.720999984741211,0.447000007629395,Giovanni Reyna,a,8191,DirectFreekick,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,,Standard
+223790,Bundesliga,464766,0,MissedShots,0.708000030517578,0.681999969482422,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Axel Witsel,Pass
+223791,Bundesliga,464767,5,SavedShot,0.725999984741211,0.435999984741211,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,,None
+223792,Bundesliga,464769,7,Goal,0.911999969482422,0.668000030517578,Marius Wolf,a,2693,OpenPlay,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Jude Bellingham,Chipped
+223793,Bundesliga,464770,24,MissedShots,0.899000015258789,0.412000007629395,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Jude Bellingham,Chipped
+223794,Bundesliga,464776,45,BlockedShot,0.826999969482422,0.699000015258789,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Giovanni Reyna,Pass
+223795,Bundesliga,464777,46,BlockedShot,0.743000030517578,0.710999984741211,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,,None
+223796,Bundesliga,464778,55,SavedShot,0.896999969482422,0.522000007629395,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Giovanni Reyna,Pass
+223797,Bundesliga,464779,67,MissedShots,0.890999984741211,0.547999992370605,Mats Hummels,a,373,SetPiece,2021,Head,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Giovanni Reyna,Cross
+223798,Bundesliga,464781,76,MissedShots,0.924000015258789,0.465999984741211,Mats Hummels,a,373,FromCorner,2021,Head,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Julian Brandt,Aerial
+223956,Bundesliga,465407,12,MissedShots,0.9,0.632000007629395,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,None
+223957,Bundesliga,465408,13,BlockedShot,0.858000030517578,0.382999992370605,Raphael Guerreiro,h,3455,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Thorgan Hazard,Pass
+223958,Bundesliga,465409,13,BlockedShot,0.855,0.435999984741211,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,Rebound
+223959,Bundesliga,465410,15,BlockedShot,0.774000015258789,0.612000007629395,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,None
+223960,Bundesliga,465411,19,SavedShot,0.755,0.728000030517578,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,Standard
+223961,Bundesliga,465415,38,MissedShots,0.771999969482422,0.562999992370605,Raphael Guerreiro,h,3455,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,TakeOn
+223962,Bundesliga,465417,44,BlockedShot,0.840999984741211,0.297999992370605,Marius Wolf,h,2693,OpenPlay,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Thorgan Hazard,Pass
+223963,Bundesliga,465421,70,BlockedShot,0.854000015258789,0.635,Donyell Malen,h,9749,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Thorgan Hazard,Pass
+223964,Bundesliga,465424,83,MissedShots,0.924000015258789,0.480999984741211,Donyell Malen,h,9749,FromCorner,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Jude Bellingham,BallTouch
+223965,Bundesliga,465425,83,Goal,0.950999984741211,0.535999984741211,Donyell Malen,h,9749,FromCorner,2021,Head,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Emre Can,Chipped
+224084,Bundesliga,466382,7,ShotOnPost,0.776999969482422,0.690999984741211,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,,None
+224085,Bundesliga,466383,10,MissedShots,0.906999969482422,0.475,Mats Hummels,a,373,FromCorner,2021,Head,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Raphael Guerreiro,Aerial
+224086,Bundesliga,466384,11,Goal,0.97,0.465999984741211,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Erling Haaland,Pass
+224087,Bundesliga,466385,16,SavedShot,0.968000030517578,0.445,Marco Reus,a,319,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Julian Brandt,Cross
+224088,Bundesliga,466388,20,MissedShots,0.745999984741211,0.66,Mahmoud Dahoud,a,205,FromCorner,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,,Aerial
+224089,Bundesliga,466390,23,MissedShots,0.873000030517578,0.522000007629395,Marco Reus,a,319,OpenPlay,2021,Head,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Mahmoud Dahoud,Throughball
+224090,Bundesliga,466392,37,BlockedShot,0.834000015258789,0.627000007629395,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Marco Reus,Pass
+224091,Bundesliga,466396,59,MissedShots,0.788000030517578,0.552999992370605,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Jude Bellingham,Pass
+224092,Bundesliga,466398,64,SavedShot,0.720999984741211,0.688000030517578,Marco Reus,a,319,SetPiece,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Raphael Guerreiro,Pass
+224093,Bundesliga,466399,64,MissedShots,0.91,0.650999984741211,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Marco Reus,Pass
+224094,Bundesliga,466400,70,Goal,0.774000015258789,0.405,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Marco Reus,Pass
+224095,Bundesliga,466401,77,MissedShots,0.881999969482422,0.454000015258789,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Emre Can,Pass
+224345,Bundesliga,468027,9,BlockedShot,0.819000015258789,0.519000015258789,Tom Rothe,h,10550,OpenPlay,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,,None
+224346,Bundesliga,468028,16,BlockedShot,0.754000015258789,0.318999996185303,Marco Reus,h,319,FromCorner,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,,Aerial
+224347,Bundesliga,468029,20,MissedShots,0.755999984741211,0.572000007629395,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Axel Witsel,Pass
+224348,Bundesliga,468030,20,MissedShots,0.878000030517578,0.337999992370605,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Marco Reus,Pass
+224349,Bundesliga,468031,23,Goal,0.960999984741211,0.592999992370606,Tom Rothe,h,10550,FromCorner,2021,Head,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Julian Brandt,Cross
+224350,Bundesliga,468032,25,Goal,0.895,0.605,Axel Witsel,h,3059,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Erling Haaland,Pass
+224351,Bundesliga,468033,27,Goal,0.964000015258789,0.530999984741211,Manuel Akanji,h,6490,SetPiece,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Marco Reus,Cross
+224352,Bundesliga,468034,33,Goal,0.705,0.286000003814697,Emre Can,h,604,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Marius Wolf,Pass
+224353,Bundesliga,468036,37,Goal,0.929000015258789,0.512000007629395,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Marco Reus,Pass
+224354,Bundesliga,468038,50,SavedShot,0.905,0.609000015258789,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Axel Witsel,Throughball
+224355,Bundesliga,468039,53,Goal,0.939000015258789,0.655999984741211,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Julian Brandt,Throughball
+224356,Bundesliga,468041,60,SavedShot,0.950999984741211,0.360999984741211,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Jude Bellingham,Throughball
+224648,Bundesliga,470145,8,BlockedShot,0.696999969482422,0.602000007629395,Jude Bellingham,a,8824,OpenPlay,2021,RightFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,,None
+224649,Bundesliga,470147,26,MissedShots,0.854000015258789,0.656999969482422,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Julian Brandt,Pass
+224650,Bundesliga,470151,51,Goal,0.885,0.5,Emre Can,a,604,Penalty,2021,RightFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,,Standard
+224651,Bundesliga,470153,53,SavedShot,0.971999969482422,0.640999984741211,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Erling Haaland,Pass
+224652,Bundesliga,470154,54,BlockedShot,0.889000015258789,0.610999984741211,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Erling Haaland,Pass
+224653,Bundesliga,470161,79,BlockedShot,0.84,0.654000015258789,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Jamie Bynoe-Gittens,Throughball
+224654,Bundesliga,470162,80,MissedShots,0.885,0.512000007629395,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Marius Wolf,Chipped
+224831,Bundesliga,471529,1,SavedShot,0.879000015258789,0.547999992370605,Jamie Bynoe-Gittens,h,10542,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Erling Haaland,Pass
+224832,Bundesliga,471532,11,MissedShots,0.716999969482422,0.609000015258789,Axel Witsel,h,3059,FromCorner,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Raphael Guerreiro,Pass
+224833,Bundesliga,471533,17,Goal,0.885,0.5,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,Standard
+224834,Bundesliga,471536,20,SavedShot,0.88,0.527000007629395,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jude Bellingham,TakeOn
+224835,Bundesliga,471537,22,MissedShots,0.921999969482422,0.504000015258789,Manuel Akanji,h,6490,FromCorner,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Julian Brandt,Aerial
+224836,Bundesliga,471538,25,SavedShot,0.874000015258789,0.424000015258789,Marco Reus,h,319,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Erling Haaland,Throughball
+224837,Bundesliga,471539,29,Goal,0.885,0.5,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,Standard
+224838,Bundesliga,471540,35,SavedShot,0.945999984741211,0.325999984741211,Marius Wolf,h,2693,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,None
+224839,Bundesliga,471541,35,MissedShots,0.914000015258789,0.455,Manuel Akanji,h,6490,FromCorner,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Julian Brandt,Cross
+224840,Bundesliga,471544,46,MissedShots,0.881999969482422,0.545999984741211,Erling Haaland,h,8260,OpenPlay,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jude Bellingham,Aerial
+224841,Bundesliga,471546,55,BlockedShot,0.878000030517578,0.63,Jude Bellingham,h,8824,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jamie Bynoe-Gittens,Pass
+224842,Bundesliga,471547,56,MissedShots,0.835999984741211,0.656999969482422,Raphael Guerreiro,h,3455,FromCorner,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,None
+224843,Bundesliga,471548,57,SavedShot,0.886999969482422,0.585,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jude Bellingham,Pass
+224844,Bundesliga,471549,61,Goal,0.933000030517578,0.49,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Marco Reus,Pass
+224845,Bundesliga,471551,66,BlockedShot,0.775,0.432999992370605,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Erling Haaland,Pass
+224846,Bundesliga,471554,76,SavedShot,0.820999984741211,0.519000015258789,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Marius Wolf,Pass
+224847,Bundesliga,471555,79,MissedShots,0.898000030517578,0.547999992370605,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Raphael Guerreiro,Pass
+224848,Bundesliga,471558,90,MissedShots,0.818000030517578,0.640999984741211,Youssoufa Moukoko,h,9133,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Tom Rothe,Pass
+224971,Bundesliga,474868,25,SavedShot,0.881999969482422,0.723000030517578,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Erling Haaland,Pass
+224972,Bundesliga,474869,25,Goal,0.969000015258789,0.404000015258789,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,Rebound
+224973,Bundesliga,474873,58,BlockedShot,0.761999969482422,0.507000007629395,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Jude Bellingham,Pass
+224974,Bundesliga,474874,58,MissedShots,0.868000030517578,0.46,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,Rebound
+224975,Bundesliga,474875,61,BlockedShot,0.87,0.645,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Julian Brandt,Pass
+224976,Bundesliga,474877,71,Goal,0.919000015258789,0.597999992370605,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Nico Schulz,TakeOn
+224977,Bundesliga,474879,76,Goal,0.921999969482422,0.342000007629395,Felix Passlack,a,2663,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Marco Reus,Pass
+224978,Bundesliga,474881,93,MissedShots,0.875999984741211,0.602000007629395,Youssoufa Moukoko,a,9133,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Nico Schulz,HeadPass
+225384,Bundesliga,475571,36,MissedShots,0.874000015258789,0.542999992370605,Marius Wolf,h,2693,SetPiece,2021,Head,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Marco Reus,Chipped
+225385,Bundesliga,475572,43,MissedShots,0.881999969482422,0.372000007629395,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Marius Wolf,TakeOn
+225386,Bundesliga,475573,59,MissedShots,0.900999984741211,0.540999984741211,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Raphael Guerreiro,Cross
+225387,Bundesliga,475575,63,BlockedShot,0.791999969482422,0.374000015258789,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,,Standard
+225388,Bundesliga,475576,67,Goal,0.885,0.5,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,,Standard
+225389,Bundesliga,475578,75,MissedShots,0.929000015258789,0.507999992370605,Erling Haaland,h,8260,OpenPlay,2021,Head,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Marco Reus,Cross
+225390,Bundesliga,475579,76,BlockedShot,0.735999984741211,0.505999984741211,Jude Bellingham,h,8824,OpenPlay,2021,RightFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Julian Brandt,Pass
+225391,Bundesliga,475580,83,Goal,0.916999969482422,0.701999969482422,Youssoufa Moukoko,h,9133,OpenPlay,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Jude Bellingham,Throughball

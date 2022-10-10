@@ -1,0 +1,168 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+290563,Serie_A,378309,4,BlockedShot,0.735,0.774000015258789,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,,Standard
+290565,Serie_A,378311,10,SavedShot,0.941999969482422,0.641999969482422,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Aaron Ramsey,Pass
+290567,Serie_A,378313,23,ShotOnPost,0.935999984741211,0.668000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Aaron Ramsey,Pass
+290568,Serie_A,378317,33,MissedShots,0.878000030517578,0.552000007629394,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,,None
+290571,Serie_A,378323,52,BlockedShot,0.813000030517578,0.648000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Aaron Ramsey,Pass
+290572,Serie_A,378326,58,MissedShots,0.9,0.487999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Juan Cuadrado,Pass
+290573,Serie_A,378328,66,BlockedShot,0.768000030517578,0.505,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Aaron Ramsey,Pass
+290575,Serie_A,378331,72,MissedShots,0.919000015258789,0.475999984741211,Cristiano Ronaldo,h,2371,FromCorner,2020,Head,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Dejan Kulusevski,Aerial
+290576,Serie_A,378332,74,SavedShot,0.705,0.602000007629395,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,,Standard
+290582,Serie_A,378343,87,Goal,0.890999984741211,0.337999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,14121,Juventus,Sampdoria,3,0,2020-09-20 18:45:00,Aaron Ramsey,Pass
+290852,Serie_A,379810,7,BlockedShot,0.845999984741211,0.815999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,14131,Roma,Juventus,2,2,2020-09-27 18:45:00,Juan Cuadrado,Pass
+290854,Serie_A,379816,43,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,14131,Roma,Juventus,2,2,2020-09-27 18:45:00,,Standard
+290855,Serie_A,379822,56,SavedShot,0.878000030517578,0.522000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,14131,Roma,Juventus,2,2,2020-09-27 18:45:00,Álvaro Morata,None
+290857,Serie_A,379825,68,Goal,0.958000030517578,0.507000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,14131,Roma,Juventus,2,2,2020-09-27 18:45:00,Danilo,Cross
+291821,Serie_A,385035,58,Goal,0.895,0.445999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Álvaro Morata,TakeOn
+291823,Serie_A,385042,75,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,,Standard
+292039,Serie_A,386313,7,SavedShot,0.855,0.684000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15491,Lazio,Juventus,1,1,2020-11-08 11:30:00,Adrien Rabiot,Pass
+292041,Serie_A,386316,14,Goal,0.968000030517578,0.497999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15491,Lazio,Juventus,1,1,2020-11-08 11:30:00,Juan Cuadrado,Chipped
+292042,Serie_A,386320,36,MissedShots,0.775999984741211,0.66,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15491,Lazio,Juventus,1,1,2020-11-08 11:30:00,Álvaro Morata,Pass
+292043,Serie_A,386322,42,ShotOnPost,0.85,0.515,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15491,Lazio,Juventus,1,1,2020-11-08 11:30:00,Dejan Kulusevski,Pass
+292045,Serie_A,386323,46,SavedShot,0.778000030517578,0.427000007629395,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15491,Lazio,Juventus,1,1,2020-11-08 11:30:00,,Standard
+292225,Serie_A,387586,22,BlockedShot,0.846999969482422,0.352000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15499,Juventus,Cagliari,2,0,2020-11-21 19:45:00,Dejan Kulusevski,Pass
+292232,Serie_A,387593,37,Goal,0.864000015258789,0.595999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15499,Juventus,Cagliari,2,0,2020-11-21 19:45:00,Álvaro Morata,Pass
+292235,Serie_A,387597,41,Goal,0.963000030517578,0.542999992370605,Cristiano Ronaldo,h,2371,FromCorner,2020,RightFoot,15499,Juventus,Cagliari,2,0,2020-11-21 19:45:00,Merih Demiral,Rebound
+292236,Serie_A,387598,46,BlockedShot,0.785,0.681999969482422,Cristiano Ronaldo,h,2371,FromCorner,2020,RightFoot,15499,Juventus,Cagliari,2,0,2020-11-21 19:45:00,Arthur,Pass
+292240,Serie_A,387605,62,MissedShots,0.809000015258789,0.395,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15499,Juventus,Cagliari,2,0,2020-11-21 19:45:00,Álvaro Morata,Pass
+292679,Serie_A,390285,0,MissedShots,0.482000007629395,0.545,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15519,Juventus,Torino,2,1,2020-12-05 17:00:00,Paulo Dybala,Pass
+292684,Serie_A,390296,55,BlockedShot,0.916999969482422,0.650999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15519,Juventus,Torino,2,1,2020-12-05 17:00:00,Paulo Dybala,Pass
+292687,Serie_A,390299,71,BlockedShot,0.880999984741211,0.69,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15519,Juventus,Torino,2,1,2020-12-05 17:00:00,Paulo Dybala,Pass
+293068,Serie_A,392340,35,BlockedShot,0.879000015258789,0.69,Cristiano Ronaldo,a,2371,FromCorner,2020,LeftFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,,Aerial
+293069,Serie_A,392341,40,SavedShot,0.804000015258789,0.7,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,Paulo Dybala,Chipped
+293072,Serie_A,392344,46,MissedShots,0.895,0.714000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,,None
+293074,Serie_A,392347,62,BlockedShot,0.785999984741211,0.630999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,Federico Chiesa,TakeOn
+293076,Serie_A,392349,64,SavedShot,0.968000030517578,0.530999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,Weston McKennie,OffsidePass
+293077,Serie_A,392351,71,SavedShot,0.955999984741211,0.449000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,Federico Chiesa,Cross
+293078,Serie_A,392352,77,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,,Standard
+293081,Serie_A,392355,88,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,15530,Genoa,Juventus,1,3,2020-12-13 17:00:00,,Standard
+293159,Serie_A,392860,4,MissedShots,0.903000030517578,0.537000007629394,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,Álvaro Morata,Pass
+293164,Serie_A,392872,60,SavedShot,0.885,0.5,Cristiano Ronaldo,h,2371,Penalty,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Standard
+293170,Serie_A,392884,84,MissedShots,0.783000030517578,0.675999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15540,Juventus,Atalanta,1,1,2020-12-16 17:30:00,,Rebound
+293397,Serie_A,394196,25,Goal,0.928000030517578,0.494000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15552,Parma Calcio 1913,Juventus,0,4,2020-12-19 19:45:00,Álvaro Morata,Cross
+293398,Serie_A,394197,28,MissedShots,0.785999984741211,0.655,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15552,Parma Calcio 1913,Juventus,0,4,2020-12-19 19:45:00,Danilo,Pass
+293399,Serie_A,394199,38,MissedShots,0.749000015258789,0.57,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15552,Parma Calcio 1913,Juventus,0,4,2020-12-19 19:45:00,,None
+293404,Serie_A,394204,47,Goal,0.908000030517578,0.679000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15552,Parma Calcio 1913,Juventus,0,4,2020-12-19 19:45:00,Aaron Ramsey,Pass
+293407,Serie_A,394208,57,MissedShots,0.89,0.534000015258789,Cristiano Ronaldo,a,2371,FromCorner,2020,Head,15552,Parma Calcio 1913,Juventus,0,4,2020-12-19 19:45:00,Rodrigo Bentancur,Cross
+293596,Serie_A,395005,4,BlockedShot,0.723000030517578,0.711999969482422,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15558,Juventus,Fiorentina,0,3,2020-12-22 19:45:00,,Standard
+293597,Serie_A,395006,5,BlockedShot,0.751999969482422,0.607999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15558,Juventus,Fiorentina,0,3,2020-12-22 19:45:00,Aaron Ramsey,Pass
+293599,Serie_A,395011,31,MissedShots,0.909000015258789,0.694000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15558,Juventus,Fiorentina,0,3,2020-12-22 19:45:00,Weston McKennie,TakeOn
+293600,Serie_A,395012,36,SavedShot,0.691999969482422,0.562999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15558,Juventus,Fiorentina,0,3,2020-12-22 19:45:00,Weston McKennie,Pass
+293601,Serie_A,395014,46,BlockedShot,0.959000015258789,0.89,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15558,Juventus,Fiorentina,0,3,2020-12-22 19:45:00,,Standard
+293606,Serie_A,395020,68,BlockedShot,0.753000030517578,0.542000007629394,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15558,Juventus,Fiorentina,0,3,2020-12-22 19:45:00,,TakeOn
+294064,Serie_A,397058,3,MissedShots,0.805999984741211,0.648000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15572,Juventus,Udinese,4,1,2021-01-03 19:45:00,Alex Sandro,TakeOn
+294069,Serie_A,397064,30,Goal,0.878000030517578,0.641999969482422,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15572,Juventus,Udinese,4,1,2021-01-03 19:45:00,Aaron Ramsey,BallRecovery
+294077,Serie_A,397076,68,BlockedShot,0.778000030517578,0.455,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15572,Juventus,Udinese,4,1,2021-01-03 19:45:00,Federico Chiesa,LayOff
+294079,Serie_A,397078,69,Goal,0.869000015258789,0.592999992370606,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15572,Juventus,Udinese,4,1,2021-01-03 19:45:00,Rodrigo Bentancur,Pass
+294359,Serie_A,397517,17,BlockedShot,0.855999984741211,0.708000030517578,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,Paulo Dybala,Pass
+294361,Serie_A,397519,20,BlockedShot,0.879000015258789,0.455,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,Federico Chiesa,Cross
+294583,Serie_A,398458,7,MissedShots,0.923000030517578,0.474000015258789,Cristiano Ronaldo,h,2371,FromCorner,2020,Head,15589,Juventus,Sassuolo,3,1,2021-01-10 19:45:00,Paulo Dybala,Aerial
+294585,Serie_A,398461,24,BlockedShot,0.91,0.345,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15589,Juventus,Sassuolo,3,1,2021-01-10 19:45:00,Leonardo Bonucci,Throughball
+294594,Serie_A,398473,64,MissedShots,0.906999969482422,0.429000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15589,Juventus,Sassuolo,3,1,2021-01-10 19:45:00,Aaron Ramsey,Chipped
+294599,Serie_A,398478,70,SavedShot,0.714000015258789,0.512000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15589,Juventus,Sassuolo,3,1,2021-01-10 19:45:00,Arthur,Pass
+294600,Serie_A,398480,73,SavedShot,0.885,0.519000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15589,Juventus,Sassuolo,3,1,2021-01-10 19:45:00,Dejan Kulusevski,Pass
+294605,Serie_A,398488,91,Goal,0.925999984741211,0.32,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15589,Juventus,Sassuolo,3,1,2021-01-10 19:45:00,Danilo,Chipped
+294842,Serie_A,399555,32,MissedShots,0.694000015258789,0.253999996185303,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15600,Inter,Juventus,2,0,2021-01-17 19:45:00,Federico Chiesa,Pass
+294843,Serie_A,399556,36,SavedShot,0.716999969482422,0.359000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15600,Inter,Juventus,2,0,2021-01-17 19:45:00,Adrien Rabiot,Pass
+294847,Serie_A,399568,80,BlockedShot,0.825999984741211,0.635,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15600,Inter,Juventus,2,0,2021-01-17 19:45:00,Federico Bernardeschi,None
+295021,Serie_A,400696,27,SavedShot,0.815,0.472000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15609,Juventus,Bologna,2,0,2021-01-24 11:30:00,Weston McKennie,Pass
+295026,Serie_A,400701,34,BlockedShot,0.894000015258789,0.714000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15609,Juventus,Bologna,2,0,2021-01-24 11:30:00,Dejan Kulusevski,Pass
+295030,Serie_A,400710,62,BlockedShot,0.770999984741211,0.395,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15609,Juventus,Bologna,2,0,2021-01-24 11:30:00,,Standard
+295037,Serie_A,400717,81,SavedShot,0.806999969482422,0.515999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15609,Juventus,Bologna,2,0,2021-01-24 11:30:00,,None
+295039,Serie_A,400721,89,SavedShot,0.888000030517578,0.449000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15609,Juventus,Bologna,2,0,2021-01-24 11:30:00,Juan Cuadrado,Pass
+295206,Serie_A,401766,30,BlockedShot,0.733000030517578,0.524000015258789,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15617,Sampdoria,Juventus,0,2,2021-01-30 17:00:00,,Standard
+295207,Serie_A,401768,38,SavedShot,0.770999984741211,0.4,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15617,Sampdoria,Juventus,0,2,2021-01-30 17:00:00,Federico Chiesa,Pass
+295208,Serie_A,401769,39,MissedShots,0.941999969482422,0.267999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15617,Sampdoria,Juventus,0,2,2021-01-30 17:00:00,Federico Chiesa,Pass
+295209,Serie_A,401773,58,BlockedShot,0.745999984741211,0.36,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15617,Sampdoria,Juventus,0,2,2021-01-30 17:00:00,Weston McKennie,Pass
+295212,Serie_A,401776,92,BlockedShot,0.869000015258789,0.632999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15617,Sampdoria,Juventus,0,2,2021-01-30 17:00:00,Weston McKennie,TakeOn
+295433,Serie_A,403321,12,Goal,0.816999969482422,0.564000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15631,Juventus,Roma,2,0,2021-02-06 17:00:00,Álvaro Morata,Pass
+295434,Serie_A,403324,21,BlockedShot,0.916999969482422,0.397999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15631,Juventus,Roma,2,0,2021-02-06 17:00:00,Arthur,Pass
+295435,Serie_A,403327,40,SavedShot,0.910999984741211,0.312999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15631,Juventus,Roma,2,0,2021-02-06 17:00:00,Álvaro Morata,Chipped
+295660,Serie_A,404356,5,SavedShot,0.770999984741211,0.375999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,Álvaro Morata,Pass
+295665,Serie_A,404369,46,BlockedShot,0.815999984741211,0.552999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,Federico Bernardeschi,Pass
+295666,Serie_A,404370,46,MissedShots,0.818000030517578,0.537000007629394,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,,Rebound
+295667,Serie_A,404367,47,BlockedShot,0.74,0.703000030517578,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,,Standard
+295669,Serie_A,404372,48,SavedShot,0.958000030517578,0.507000007629395,Cristiano Ronaldo,a,2371,FromCorner,2020,LeftFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,,None
+295670,Serie_A,404373,50,MissedShots,0.785999984741211,0.696999969482422,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,,Standard
+295673,Serie_A,404377,73,SavedShot,0.923000030517578,0.724000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,Álvaro Morata,Pass
+295679,Serie_A,404383,89,SavedShot,0.931999969482422,0.469000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15640,Napoli,Juventus,1,0,2021-02-13 17:00:00,Alex Sandro,Cross
+296072,Serie_A,406273,10,BlockedShot,0.88,0.592999992370606,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Alex Sandro,Pass
+296076,Serie_A,406278,25,BlockedShot,0.809000015258789,0.479000015258789,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,,Standard
+296077,Serie_A,406279,27,MissedShots,0.97,0.557000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,,None
+296079,Serie_A,406281,32,BlockedShot,0.859000015258789,0.442999992370605,Cristiano Ronaldo,h,2371,FromCorner,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Aaron Ramsey,BallTouch
+296082,Serie_A,406285,37,Goal,0.960999984741211,0.447000007629395,Cristiano Ronaldo,h,2371,FromCorner,2020,Head,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Alex Sandro,Cross
+296084,Serie_A,406289,45,SavedShot,0.721999969482422,0.676999969482422,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Aaron Ramsey,Pass
+296085,Serie_A,406290,45,Goal,0.929000015258789,0.455,Cristiano Ronaldo,h,2371,OpenPlay,2020,Head,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Aaron Ramsey,Cross
+296086,Serie_A,406291,47,MissedShots,0.903000030517578,0.389000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Aaron Ramsey,Pass
+296089,Serie_A,406295,62,MissedShots,0.891999969482422,0.66,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Weston McKennie,Pass
+296090,Serie_A,406297,64,SavedShot,0.899000015258789,0.322000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Federico Chiesa,Pass
+296097,Serie_A,406310,87,MissedShots,0.74,0.635999984741211,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,,Standard
+296183,Serie_A,406928,4,BlockedShot,0.951999969482422,0.347000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,Rodrigo Bentancur,BallRecovery
+296187,Serie_A,406933,24,MissedShots,0.783000030517578,0.589000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,Aaron Ramsey,TakeOn
+296188,Serie_A,406936,45,BlockedShot,0.685,0.673000030517578,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,,Standard
+296189,Serie_A,406937,48,Goal,0.875999984741211,0.447000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,Federico Chiesa,Pass
+296191,Serie_A,406943,66,SavedShot,0.781999969482422,0.64,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,Federico Bernardeschi,Pass
+296192,Serie_A,406945,78,BlockedShot,0.789000015258789,0.460999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,Rodrigo Bentancur,Pass
+296194,Serie_A,406952,90,BlockedShot,0.773000030517578,0.425999984741211,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15661,Verona,Juventus,1,1,2021-02-27 19:45:00,,Standard
+296350,Serie_A,407700,34,BlockedShot,0.895,0.741999969482422,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,,TakeOn
+296355,Serie_A,407705,41,SavedShot,0.865999984741211,0.69,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Dejan Kulusevski,Pass
+296356,Serie_A,407706,51,MissedShots,0.893000030517578,0.539000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,Head,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Dejan Kulusevski,Cross
+296359,Serie_A,407711,69,BlockedShot,0.855,0.442999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Álvaro Morata,Pass
+296362,Serie_A,407714,74,MissedShots,0.930999984741211,0.509000015258789,Cristiano Ronaldo,h,2371,FromCorner,2020,Head,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Federico Bernardeschi,Cross
+296363,Serie_A,407715,77,SavedShot,0.775999984741211,0.637000007629395,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,,Standard
+296364,Serie_A,407719,88,Goal,0.830999984741211,0.557000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Rodrigo Bentancur,Pass
+296989,Serie_A,410635,8,BlockedShot,0.968000030517578,0.397000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15689,Cagliari,Juventus,1,3,2021-03-14 17:00:00,Federico Chiesa,Aerial
+296990,Serie_A,410636,9,Goal,0.935999984741211,0.509000015258789,Cristiano Ronaldo,a,2371,FromCorner,2020,Head,15689,Cagliari,Juventus,1,3,2021-03-14 17:00:00,Juan Cuadrado,Cross
+296992,Serie_A,410639,24,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,15689,Cagliari,Juventus,1,3,2021-03-14 17:00:00,,Standard
+296993,Serie_A,410640,31,Goal,0.884000015258789,0.350999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15689,Cagliari,Juventus,1,3,2021-03-14 17:00:00,Federico Chiesa,Pass
+296994,Serie_A,410645,62,MissedShots,0.87,0.66,Cristiano Ronaldo,a,2371,FromCorner,2020,RightFoot,15689,Cagliari,Juventus,1,3,2021-03-14 17:00:00,Federico Chiesa,Pass
+296997,Serie_A,410655,93,SavedShot,0.875999984741211,0.425,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15689,Cagliari,Juventus,1,3,2021-03-14 17:00:00,Dejan Kulusevski,Pass
+297189,Serie_A,411759,2,MissedShots,0.880999984741211,0.256000003814697,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,Dejan Kulusevski,Pass
+297195,Serie_A,411769,46,SavedShot,0.776999969482422,0.273999996185303,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,Arthur,Pass
+297196,Serie_A,411770,53,BlockedShot,0.73,0.505999984741211,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,,Standard
+297198,Serie_A,411772,65,MissedShots,0.818000030517578,0.627000007629395,Cristiano Ronaldo,h,2371,FromCorner,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,Federico Bernardeschi,Pass
+297202,Serie_A,411779,79,SavedShot,0.960999984741211,0.62,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,,BlockedPass
+297204,Serie_A,411781,80,MissedShots,0.904000015258789,0.517999992370605,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,Federico Chiesa,Cross
+297205,Serie_A,411782,86,BlockedShot,0.768000030517578,0.527000007629395,Cristiano Ronaldo,h,2371,DirectFreekick,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,,Standard
+297206,Serie_A,411783,88,SavedShot,0.926999969482422,0.699000015258789,Cristiano Ronaldo,h,2371,FromCorner,2020,LeftFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,,None
+297208,Serie_A,411785,89,SavedShot,0.955999984741211,0.335999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15704,Juventus,Benevento,0,1,2021-03-21 14:00:00,Dejan Kulusevski,Cross
+297487,Serie_A,412667,1,MissedShots,0.720999984741211,0.233999996185303,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Matthijs de Ligt,TakeOn
+297491,Serie_A,412676,33,BlockedShot,0.73,0.439000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,,None
+297493,Serie_A,412678,44,BlockedShot,0.938000030517578,0.44,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Juan Cuadrado,Pass
+297497,Serie_A,412683,52,SavedShot,0.95,0.560999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Dejan Kulusevski,Cross
+297500,Serie_A,412686,69,MissedShots,0.91,0.455,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Alex Sandro,Aerial
+297503,Serie_A,412690,75,MissedShots,0.956999969482422,0.485,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Juan Cuadrado,Rebound
+297505,Serie_A,412692,78,Goal,0.97,0.477999992370605,Cristiano Ronaldo,a,2371,SetPiece,2020,Head,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Giorgio Chiellini,None
+297507,Serie_A,412694,83,SavedShot,0.883000030517578,0.569000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15709,Torino,Juventus,2,2,2021-04-03 16:00:00,Aaron Ramsey,Aerial
+297534,Serie_A,413491,1,MissedShots,0.948000030517578,0.487000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,Head,15455,Juventus,Napoli,2,1,2021-04-07 18:45:00,Danilo,Cross
+297539,Serie_A,413497,12,Goal,0.898000030517578,0.464000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15455,Juventus,Napoli,2,1,2021-04-07 18:45:00,Federico Chiesa,Cross
+297675,Serie_A,414370,10,MissedShots,0.774000015258789,0.552000007629394,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15720,Juventus,Genoa,3,1,2021-04-11 13:00:00,Álvaro Morata,Pass
+297678,Serie_A,414375,21,ShotOnPost,0.978000030517578,0.595999984741211,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15720,Juventus,Genoa,3,1,2021-04-11 13:00:00,,Rebound
+297680,Serie_A,414377,25,SavedShot,0.775,0.322000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15720,Juventus,Genoa,3,1,2021-04-11 13:00:00,Rodrigo Bentancur,TakeOn
+297686,Serie_A,414388,56,MissedShots,0.873000030517578,0.57,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15720,Juventus,Genoa,3,1,2021-04-11 13:00:00,Alex Sandro,Pass
+297688,Serie_A,414391,76,BlockedShot,0.908000030517578,0.301000003814697,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15720,Juventus,Genoa,3,1,2021-04-11 13:00:00,Paulo Dybala,Pass
+297694,Serie_A,414398,92,SavedShot,0.849000015258789,0.723000030517578,Cristiano Ronaldo,h,2371,FromCorner,2020,LeftFoot,15720,Juventus,Genoa,3,1,2021-04-11 13:00:00,,None
+298208,Serie_A,416612,7,MissedShots,0.795999984741211,0.286000003814697,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15742,Juventus,Parma Calcio 1913,3,1,2021-04-21 18:45:00,Danilo,Pass
+298209,Serie_A,416613,7,SavedShot,0.898000030517578,0.534000015258789,Cristiano Ronaldo,h,2371,FromCorner,2020,RightFoot,15742,Juventus,Parma Calcio 1913,3,1,2021-04-21 18:45:00,Paulo Dybala,Cross
+298217,Serie_A,416623,53,BlockedShot,0.811999969482422,0.643000030517578,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15742,Juventus,Parma Calcio 1913,3,1,2021-04-21 18:45:00,Rodrigo Bentancur,Pass
+298222,Serie_A,416632,84,BlockedShot,0.809000015258789,0.499000015258789,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15742,Juventus,Parma Calcio 1913,3,1,2021-04-21 18:45:00,Arthur,Pass
+298223,Serie_A,416634,88,MissedShots,0.755999984741211,0.57,Cristiano Ronaldo,h,2371,OpenPlay,2020,RightFoot,15742,Juventus,Parma Calcio 1913,3,1,2021-04-21 18:45:00,Alex Sandro,Pass
+298457,Serie_A,417667,21,BlockedShot,0.876999969482422,0.72,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15748,Fiorentina,Juventus,1,1,2021-04-25 13:00:00,Aaron Ramsey,TakeOn
+298461,Serie_A,417677,58,MissedShots,0.866999969482422,0.739000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15748,Fiorentina,Juventus,1,1,2021-04-25 13:00:00,Álvaro Morata,TakeOn
+298463,Serie_A,417679,63,BlockedShot,0.855999984741211,0.622999992370605,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15748,Fiorentina,Juventus,1,1,2021-04-25 13:00:00,Álvaro Morata,Pass
+298464,Serie_A,417680,63,BlockedShot,0.898000030517578,0.69,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15748,Fiorentina,Juventus,1,1,2021-04-25 13:00:00,,Rebound
+298465,Serie_A,417683,83,MissedShots,0.963000030517578,0.547999992370605,Cristiano Ronaldo,a,2371,FromCorner,2020,Head,15748,Fiorentina,Juventus,1,1,2021-04-25 13:00:00,Dejan Kulusevski,Cross
+298820,Serie_A,419276,36,MissedShots,0.966999969482422,0.467000007629395,Cristiano Ronaldo,a,2371,SetPiece,2020,Head,15762,Udinese,Juventus,1,2,2021-05-02 16:00:00,Matthijs de Ligt,Cross
+298822,Serie_A,419280,53,MissedShots,0.900999984741211,0.256000003814697,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15762,Udinese,Juventus,1,2,2021-05-02 16:00:00,Weston McKennie,Chipped
+298824,Serie_A,419282,58,SavedShot,0.754000015258789,0.530999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15762,Udinese,Juventus,1,2,2021-05-02 16:00:00,Rodrigo Bentancur,Pass
+298827,Serie_A,419289,81,BlockedShot,0.730999984741211,0.500999984741211,Cristiano Ronaldo,a,2371,DirectFreekick,2020,RightFoot,15762,Udinese,Juventus,1,2,2021-05-02 16:00:00,,Standard
+298828,Serie_A,419290,82,Goal,0.885,0.5,Cristiano Ronaldo,a,2371,Penalty,2020,RightFoot,15762,Udinese,Juventus,1,2,2021-05-02 16:00:00,,Standard
+298829,Serie_A,419291,88,Goal,0.968000030517578,0.449000015258789,Cristiano Ronaldo,a,2371,OpenPlay,2020,Head,15762,Udinese,Juventus,1,2,2021-05-02 16:00:00,Adrien Rabiot,Cross
+299105,Serie_A,420879,66,MissedShots,0.879000015258789,0.332000007629395,Cristiano Ronaldo,h,2371,OpenPlay,2020,LeftFoot,15771,Juventus,AC Milan,0,3,2021-05-09 18:45:00,Dejan Kulusevski,Pass
+299112,Serie_A,420890,93,BlockedShot,0.860999984741211,0.833000030517578,Cristiano Ronaldo,h,2371,FromCorner,2020,RightFoot,15771,Juventus,AC Milan,0,3,2021-05-09 18:45:00,Paulo Dybala,Pass
+299231,Serie_A,421353,19,BlockedShot,0.746999969482422,0.765999984741211,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15779,Sassuolo,Juventus,1,3,2021-05-12 18:45:00,Paulo Dybala,Pass
+299234,Serie_A,421362,41,SavedShot,0.805999984741211,0.701999969482422,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15779,Sassuolo,Juventus,1,3,2021-05-12 18:45:00,,BallRecovery
+299235,Serie_A,421363,44,Goal,0.871999969482422,0.437000007629395,Cristiano Ronaldo,a,2371,OpenPlay,2020,LeftFoot,15779,Sassuolo,Juventus,1,3,2021-05-12 18:45:00,Adrien Rabiot,TakeOn
+299242,Serie_A,421374,77,ShotOnPost,0.86,0.715,Cristiano Ronaldo,a,2371,OpenPlay,2020,RightFoot,15779,Sassuolo,Juventus,1,3,2021-05-12 18:45:00,Dejan Kulusevski,Pass
+299430,Serie_A,422004,23,SavedShot,0.885,0.5,Cristiano Ronaldo,h,2371,Penalty,2020,RightFoot,15790,Juventus,Inter,3,2,2021-05-15 16:00:00,,Standard
+299431,Serie_A,422005,23,Goal,0.939000015258789,0.527999992370605,Cristiano Ronaldo,h,2371,SetPiece,2020,RightFoot,15790,Juventus,Inter,3,2,2021-05-15 16:00:00,,Rebound

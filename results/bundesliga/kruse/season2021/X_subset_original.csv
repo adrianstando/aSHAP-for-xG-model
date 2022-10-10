@@ -1,0 +1,51 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+217911,Bundesliga,427678,16,ShotOnPost,0.733000030517578,0.655999984741211,Max Kruse,a,155,DirectFreekick,2021,LeftFoot,17532,Hoffenheim,Union Berlin,2,2,2021-08-22 13:30:00,,Standard
+217917,Bundesliga,427688,62,SavedShot,0.849000015258789,0.505,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17532,Hoffenheim,Union Berlin,2,2,2021-08-22 13:30:00,Taiwo Awoniyi,Pass
+218156,Bundesliga,429234,64,BlockedShot,0.776999969482422,0.542000007629394,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,None
+218269,Bundesliga,429721,36,BlockedShot,0.774000015258789,0.374000015258789,Max Kruse,h,155,DirectFreekick,2021,LeftFoot,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,,Standard
+218619,Bundesliga,432008,56,Goal,0.885,0.5,Max Kruse,a,155,Penalty,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,Standard
+218667,Bundesliga,433265,16,MissedShots,0.781999969482422,0.688000030517578,Max Kruse,h,155,OpenPlay,2021,RightFoot,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Niko Gießelmann,Pass
+218668,Bundesliga,433266,18,SavedShot,0.895,0.472999992370605,Max Kruse,h,155,OpenPlay,2021,Head,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Taiwo Awoniyi,Cross
+219033,Bundesliga,435549,0,MissedShots,0.788000030517578,0.65,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,Aerial
+219034,Bundesliga,435550,14,MissedShots,0.665,0.38,Max Kruse,a,155,DirectFreekick,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,Standard
+219040,Bundesliga,435563,48,MissedShots,0.799000015258789,0.650999984741211,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,Genki Haraguchi,Pass
+219044,Bundesliga,435567,60,MissedShots,0.868000030517578,0.509000015258789,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,None
+220203,Bundesliga,442814,21,SavedShot,0.973000030517578,0.63,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,,None
+220207,Bundesliga,442821,57,SavedShot,0.821999969482422,0.649000015258789,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,Genki Haraguchi,Pass
+220210,Bundesliga,442825,62,BlockedShot,0.811999969482422,0.450999984741211,Max Kruse,h,155,FromCorner,2021,LeftFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,,None
+220511,Bundesliga,444737,44,BlockedShot,0.813000030517578,0.487999992370605,Max Kruse,a,155,OpenPlay,2021,RightFoot,17629,Eintracht Frankfurt,Union Berlin,2,1,2021-11-28 14:30:00,Christopher Trimmel,Chipped
+220513,Bundesliga,444740,61,Goal,0.885,0.5,Max Kruse,a,155,Penalty,2021,LeftFoot,17629,Eintracht Frankfurt,Union Berlin,2,1,2021-11-28 14:30:00,,Standard
+220544,Bundesliga,445843,11,MissedShots,0.899000015258789,0.6,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Taiwo Awoniyi,None
+220546,Bundesliga,445851,56,BlockedShot,0.85,0.557000007629395,Max Kruse,h,155,FromCorner,2021,LeftFoot,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Niko Gießelmann,Foul
+220980,Bundesliga,448370,12,SavedShot,0.915999984741211,0.704000015258789,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,,BallRecovery
+220981,Bundesliga,448372,19,SavedShot,0.716999969482422,0.557000007629395,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Sheraldo Becker,LayOff
+221339,Bundesliga,449441,15,Goal,0.85,0.467999992370605,Max Kruse,a,155,OpenPlay,2021,RightFoot,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,Grischa Prömel,HeadPass
+221621,Bundesliga,452165,49,MissedShots,0.894000015258789,0.605,Max Kruse,a,155,SetPiece,2021,LeftFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,,TakeOn
+221623,Bundesliga,452167,54,BlockedShot,0.885,0.419000015258789,Max Kruse,a,155,OpenPlay,2021,RightFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Andreas Voglsammer,Cross
+221624,Bundesliga,452168,55,BlockedShot,0.863000030517578,0.344000015258789,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,,None
+221629,Bundesliga,452180,77,ShotOnPost,0.853000030517578,0.238999996185303,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Paul Jäckel,Pass
+221848,Bundesliga,453196,16,MissedShots,0.916999969482422,0.442999992370605,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,None
+221854,Bundesliga,453206,72,BlockedShot,0.919000015258789,0.572000007629395,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Sheraldo Becker,Pass
+222082,Bundesliga,454513,17,Goal,0.885,0.5,Max Kruse,a,155,Penalty,2021,LeftFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,,Standard
+222084,Bundesliga,454524,83,Goal,0.925,0.648000030517578,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,Niko Gießelmann,Throughball
+222435,Bundesliga,456349,47,MissedShots,0.911999969482422,0.515,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Renato Steffen,Cross
+222624,Bundesliga,456953,27,Goal,0.885,0.5,Max Kruse,a,155,Penalty,2021,LeftFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,,Standard
+222627,Bundesliga,456957,36,BlockedShot,0.888000030517578,0.268999996185303,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,Maximilian Philipp,Pass
+222823,Bundesliga,458118,8,BlockedShot,0.951999969482422,0.661999969482422,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Aster Vranckx,Throughball
+222824,Bundesliga,458121,17,MissedShots,0.881999969482422,0.352000007629395,Max Kruse,h,155,OpenPlay,2021,RightFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Bote Baku,Pass
+222829,Bundesliga,458127,40,SavedShot,0.818000030517578,0.661999969482422,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Jonas Wind,Pass
+223067,Bundesliga,459702,59,MissedShots,0.93,0.445999984741211,Max Kruse,a,155,OpenPlay,2021,Head,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,Jérôme Roussillon,Aerial
+223407,Bundesliga,462469,50,MissedShots,0.540999984741211,0.31,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17744,Freiburg,Wolfsburg,3,2,2022-03-12 14:30:00,Jonas Wind,Pass
+223408,Bundesliga,462470,51,Goal,0.898000030517578,0.579000015258789,Max Kruse,a,155,OpenPlay,2021,RightFoot,17744,Freiburg,Wolfsburg,3,2,2022-03-12 14:30:00,Maximilian Arnold,Pass
+223415,Bundesliga,462482,83,MissedShots,0.86,0.684000015258789,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17744,Freiburg,Wolfsburg,3,2,2022-03-12 14:30:00,,None
+223757,Bundesliga,464689,30,BlockedShot,0.806999969482422,0.470999984741211,Max Kruse,h,155,OpenPlay,2021,RightFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Xaver Schlager,Pass
+223992,Bundesliga,465840,23,BlockedShot,0.805999984741211,0.585,Max Kruse,a,155,FromCorner,2021,RightFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,,Rebound
+223998,Bundesliga,465857,70,SavedShot,0.773000030517578,0.650999984741211,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Jonas Wind,Pass
+224152,Bundesliga,466638,52,Goal,0.945999984741211,0.51,Max Kruse,h,155,OpenPlay,2021,Head,17774,Wolfsburg,Arminia Bielefeld,4,0,2022-04-09 13:30:00,Bote Baku,Cross
+224495,Bundesliga,469723,23,Goal,0.885,0.5,Max Kruse,h,155,Penalty,2021,LeftFoot,17792,Wolfsburg,Mainz 05,5,0,2022-04-22 18:30:00,,Standard
+224498,Bundesliga,469726,34,Goal,0.919000015258789,0.54,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17792,Wolfsburg,Mainz 05,5,0,2022-04-22 18:30:00,Bote Baku,Cross
+224502,Bundesliga,469730,44,SavedShot,0.855,0.400999984741211,Max Kruse,h,155,OpenPlay,2021,RightFoot,17792,Wolfsburg,Mainz 05,5,0,2022-04-22 18:30:00,Bote Baku,Pass
+224503,Bundesliga,469731,46,Goal,0.880999984741211,0.430999984741211,Max Kruse,h,155,OpenPlay,2021,LeftFoot,17792,Wolfsburg,Mainz 05,5,0,2022-04-22 18:30:00,Yannick Gerhardt,Cross
+224820,Bundesliga,471500,23,BlockedShot,0.815,0.350999984741211,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17799,VfB Stuttgart,Wolfsburg,1,1,2022-04-30 13:30:00,Yannick Gerhardt,Cross
+224998,Bundesliga,473149,29,SavedShot,0.919000015258789,0.420999984741211,Max Kruse,a,155,OpenPlay,2021,LeftFoot,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,Lukas Nmecha,Pass
+225355,Bundesliga,475600,57,Goal,0.970999984741211,0.499000015258789,Max Kruse,h,155,OpenPlay,2021,RightFoot,17820,Wolfsburg,Bayern Munich,2,2,2022-05-14 13:30:00,Micky van de Ven,Cross
