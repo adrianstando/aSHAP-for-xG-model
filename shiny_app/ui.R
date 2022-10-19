@@ -79,8 +79,14 @@ ui <- fluidPage(
                 )
               ),
               tabPanel(
-                "SHAP vs. column value", fluidPage(
+                "Dependence scatter plot", fluidPage(
                   uiOutput('dynamic_column_selection'),
+                  radioButtons(
+                    inputId = "show_points",
+                    label = "Show points on the plots of categorical variables:",
+                    choices = c('Yes' = TRUE, 'No' = FALSE),
+                    selected = TRUE
+                  ),
                   plotOutput(outputId = "aSHAP_col_value")
                 )
               ))

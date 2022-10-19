@@ -1,6 +1,7 @@
 .R
 /data/*
 !/data/y_hat.csv
+!/data/level_vector.RDS
 /model
 .ipynb_checkpoints
 /create_environment_scripts/.ipynb_checkpoints/

@@ -49,9 +49,20 @@ server <- function(input, output, session) {
     if(file.exists(file.path(input$task, 'shaps_transformed.RDS'))){
         
       column <- input$selected_column_name
+      
+      level_vectors <- readRDS(file.path("data", "level_vector.RDS"))
         
       column_vals <- 
         read.csv(file.path(input$task, 'X_subset_preprocessed.csv'))[,column]
+      
+      transform_values <- column %in% names(level_vectors)
+      if(length(transform_values) == 0){
+        transform_values <- FALSE
+      }
+      if(transform_values){
+        column_vals <- lapply(column_vals, FUN=function(x){unname(unlist(level_vectors[column]))[x]})
+        column_vals <- unlist(column_vals)
+      }
         
       ashaps <-
         read.csv(file.path(input$task, 'shaps.csv'))[,column]
@@ -64,9 +75,20 @@ server <- function(input, output, session) {
       if(length(colnames(df)) == 2){
         colnames(df) <- c('SHAP', column)
         
-        p <- ggplot(df, aes_string(x=column, y='SHAP')) + 
-          geom_point(col='#4c72b0') + 
-          theme_bw()
+        if(transform_values){
+          p <- ggplot(df, aes_string(x=column, y='SHAP')) + 
+            geom_boxplot(fill='#4c72b0', color='black') +
+            theme_bw()
+          if(input$show_points){
+            p <- p + geom_jitter(alpha=0.6)
+          }
+        } else {
+          p <- ggplot(df, aes_string(x=column, y='SHAP')) + 
+            geom_point(col='#4c72b0') + 
+            theme_bw()
+        }
+        p <- p +
+          ggtitle(paste0("Dependence scatter plot for ", column, " variable"))
       } else {
           p <- ggplot() + theme_void()
       }
