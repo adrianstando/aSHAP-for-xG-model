@@ -183,6 +183,9 @@ server <- function(input, output, session) {
       rownames(X) <- 1:nrow(X)
       X <- X[row, ]
       
+      level_vectors <- readRDS(file.path("data", "level_vector.RDS"))
+      transform_values <- intersect(names(level_vectors), colnames(X))
+      
       out$variable <- lapply(out$variable, function(x){
         # from iBreakDown
         nice_format <- function(x) {
@@ -200,7 +203,14 @@ server <- function(input, output, session) {
         } else if(!(x %in% input$variables_show)){
           x
         } else {
-          paste0(as.character(x), " = ", nice_format(X[,as.character(x)]))
+          
+          val <- if(x %in% transform_values){
+            unname(unlist(level_vectors[x]))[X[,as.character(x)]]
+          } else {
+            X[,as.character(x)]
+          }
+          
+          paste0(as.character(x), " = ", nice_format(val))
         }
       })
       
