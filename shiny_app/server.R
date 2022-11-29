@@ -35,6 +35,7 @@ server <- function(input, output, session) {
                   FALSE, 
                   TRUE),
                 add_boxplots = input$show_boxplot)
+      p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
     } else {
       p <- ggplot() + theme_void()
     }
@@ -88,7 +89,7 @@ server <- function(input, output, session) {
             theme_bw()
         }
         p <- p +
-          ggtitle(paste0("Dependence scatter plot for ", column, " variable"))
+          ggtitle(paste0("SHAP Dependence Scatter Plot for ", column, " variable"))
       } else {
           p <- ggplot() + theme_void()
       }
@@ -96,6 +97,8 @@ server <- function(input, output, session) {
     } else {
       p <- ggplot() + theme_void()
     }
+    
+    p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
     
     p
   })
@@ -221,6 +224,8 @@ server <- function(input, output, session) {
     } else {
       p <- ggplot() + theme_void()
     }
+    
+    p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
     
     p
   })
