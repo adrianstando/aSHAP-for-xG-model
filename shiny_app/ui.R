@@ -62,16 +62,27 @@ ui <- fluidPage(
   ),
   tabsetPanel(tabPanel("aSHAP",
                        fluidPage(
-                         radioButtons(
-                           inputId = "show_boxplot",
-                           label = "Show boxplots on the plot:",
-                           choices = c('Yes' = TRUE, 'No' = FALSE),
-                           selected = TRUE
+                         selectInput(
+                           inputId = "aSHAP_plot_type",
+                           label = "Select plot type:",
+                           choices = c('DALEX - break down', 
+                                       'DALEX - break down with boxplot',
+                                       'shapviz - waterfall plot',
+                                       'shapviz - force plot'
+                                       ),
                          ),
                          plotOutput(outputId = "aSHAP"))
                        ),
-              tabPanel(
-                "SHAP", fluidPage(
+              tabPanel("SHAP", 
+                fluidPage(
+                  selectInput(
+                    inputId = "one_SHAP_plot_type",
+                    label = "Select plot type:",
+                    choices = c('DALEX - break down',
+                                'shapviz - waterfall plot',
+                                'shapviz - force plot'
+                    ),
+                  ),
                   uiOutput('dynamic_dataset_selection'),
                   textOutput('choose_text'),
                   DTOutput('table'),

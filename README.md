@@ -29,13 +29,9 @@ jupyter lab
 
 ## aSHAP
 
-`DALEX` package in `R` was extended with `aSHAP` implementation during summer internship (![repo link](https://github.com/adrianstando/DALEX-aggregated-SHAP-extension)). 
+`DALEX` package in `R` was extended with `aSHAP` implementation during summer internship (![repo link](https://github.com/ModelOriented/DALEX/commit/9643f29c26668ec7e790a56b5d78da6838d248b6)).
 
 This project relies on the same implementation, but here the functions are available in a script, not as a part of `DALEX` package.
-
-## Interactive visulisations
-
-The app is available online on the website: ![www.ashap-for-xg-model.herokuapp.com](https://ashap-for-xg-model.herokuapp.com/). Because free heroku is used for this project, you will have to wait a few minutes after entering the website, since the project will have to be built.
 
 ## Run the app locally
 

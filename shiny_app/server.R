@@ -2,6 +2,7 @@ library(DT)
 library(tidyr)
 library(iBreakDown)
 library(ggplot2)
+library(shapviz)
 
 source('./scripts/aSHAP.R')
 source('./scripts/transform_shap.R')
@@ -24,18 +25,51 @@ server <- function(input, output, session) {
                                             output_transform$y_hat_full,
                                             output_transform$y_hat_subset,
                                             order_variables = variables)
-      p <- plot(aSHAP, 
-                max_features = ifelse(
-                  input$filtering_method == 'custom', 
-                  length(input$variables_show), 
-                  input$number_of_variables_default),
-                subtitle = nice_print(input$task), 
-                use_default_filter = ifelse(
-                  input$filtering_method == 'custom', 
-                  FALSE, 
-                  TRUE),
-                add_boxplots = input$show_boxplot)
-      p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
+      
+      if(input$aSHAP_plot_type == 'DALEX - break down' || 
+         input$aSHAP_plot_type == 'DALEX - break down with boxplot'){
+        p <- plot(aSHAP, 
+                  max_features = ifelse(
+                    input$filtering_method == 'custom', 
+                    length(input$variables_show), 
+                    input$number_of_variables_default),
+                  subtitle = nice_print(input$task), 
+                  use_default_filter = ifelse(
+                    input$filtering_method == 'custom', 
+                    FALSE, 
+                    TRUE),
+                  add_boxplots = input$aSHAP_plot_type == 'DALEX - break down with boxplot')
+        p <- p + theme(axis.text.y=element_text(size=14), 
+                       title=element_text(size=15), 
+                       axis.text.x=element_text(size=14))
+      } else if(input$aSHAP_plot_type == 'shapviz - waterfall plot'){
+        aSHAP <- select_only_k_features(list(aSHAP$aggregated, data.frame()), 
+                                        k = ifelse(
+                                          input$filtering_method == 'custom', 
+                                          length(input$variables_show), 
+                                          input$number_of_variables_default), 
+                                        use_default_filter = ifelse(
+                                          input$filtering_method == 'custom', 
+                                          FALSE, 
+                                          TRUE))[[1]]
+        class(aSHAP) <- c('break_down', 'predict_parts', 'data.frame')
+        obj <- shapviz(aSHAP)
+        p <- sv_waterfall(obj)
+      } else if(input$aSHAP_plot_type == 'shapviz - force plot'){
+        aSHAP <- select_only_k_features(list(aSHAP$aggregated, data.frame()), 
+                                        k = ifelse(
+                                          input$filtering_method == 'custom', 
+                                          length(input$variables_show), 
+                                          input$number_of_variables_default), 
+                                        use_default_filter = ifelse(
+                                          input$filtering_method == 'custom', 
+                                          FALSE, 
+                                          TRUE))[[1]]
+        class(aSHAP) <- c('break_down', 'predict_parts', 'data.frame')
+        obj <- shapviz(aSHAP)
+        p <- sv_force(obj)
+      }
+      
     } else {
       p <- ggplot() + theme_void()
     }
@@ -189,7 +223,9 @@ server <- function(input, output, session) {
       level_vectors <- readRDS(file.path("data", "level_vector.RDS"))
       transform_values <- intersect(names(level_vectors), colnames(X))
       
-      out$variable <- lapply(out$variable, function(x){
+      var <- out$variable
+      
+      out$variable <- lapply(var, function(x){
         # from iBreakDown
         nice_format <- function(x) {
           if (is.numeric(x)) {
@@ -217,10 +253,45 @@ server <- function(input, output, session) {
         }
       })
       
-      class(out) <- c('break_down', class(out))
+      out$variable_value <- lapply(var, function(x){
+        # from iBreakDown
+        nice_format <- function(x) {
+          if (is.numeric(x)) {
+            as.character(signif(x, 4))
+          } else if ("tbl" %in% class(x)) {
+            as.character(x[[1]])
+          } else {
+            as.character(x)
+          }
+        }
+        
+        if(x %in% c('prediction', 'intercept', '')){
+          ''
+        } else {
+          val <- if(x %in% transform_values){
+            unname(unlist(level_vectors[x]))[X[,as.character(x)]]
+          } else {
+            X[,as.character(x)]
+          }
+          nice_format(val)
+        }
+      })
+      print(out)
       
-      p <- plot(out, subtitle = paste(
+      class(out) <- c('break_down', 'predict_parts', class(out))
+      
+      plot_type <- input$one_SHAP_plot_type
+      if(plot_type == 'DALEX - break down'){
+        p <- plot(out, subtitle = paste(
         nice_print(input$task), paste('--- observation:', as.character(row))))
+      } else if(plot_type == 'shapviz - waterfall plot'){
+        obj <- shapviz(out)
+        p <- sv_waterfall(obj)
+      } else if(plot_type == 'shapviz - force plot'){
+        obj <- shapviz(out)
+        p <- sv_force(obj)
+      }
+      
     } else {
       p <- ggplot() + theme_void()
     }
