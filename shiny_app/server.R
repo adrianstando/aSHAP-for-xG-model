@@ -54,7 +54,7 @@ server <- function(input, output, session) {
                                           TRUE))[[1]]
         class(aSHAP) <- c('break_down', 'predict_parts', 'data.frame')
         obj <- shapviz(aSHAP)
-        p <- sv_waterfall(obj)
+        p <- sv_waterfall(obj, annotation_size=4.5)
       } else if(input$aSHAP_plot_type == 'shapviz - force plot'){
         aSHAP <- select_only_k_features(list(aSHAP$aggregated, data.frame()), 
                                         k = ifelse(
@@ -74,7 +74,7 @@ server <- function(input, output, session) {
       p <- ggplot() + theme_void()
     }
     
-    p
+    p + theme(text = element_text(size = 20))
   })
     
 
