@@ -132,9 +132,9 @@ server <- function(input, output, session) {
       p <- ggplot() + theme_void()
     }
     
-    p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
+    #p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
     
-    p
+    p + theme(text = element_text(size = 20))
   })
   
   
@@ -298,7 +298,7 @@ server <- function(input, output, session) {
     
     p <- p + theme(axis.text.y=element_text(size=14), title=element_text(size=15), axis.text.x=element_text(size=14))
     
-    p
+    p + theme(text = element_text(size = 20))
   })
   
   output$dynamic_dataset_selection <- renderUI({
