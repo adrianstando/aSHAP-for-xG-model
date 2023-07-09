@@ -1,0 +1,569 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+0,Serie_A,450359,77,MissedShots,0.724000015258789,0.565,Adam Ounas,h,3259,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Stanislav Lobotka,Pass
+1,Serie_A,450360,79,MissedShots,0.93,0.700999984741211,Eljif Elmas,h,7912,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Andrea Petagna,BallTouch
+2,Serie_A,450361,81,MissedShots,0.883000030517578,0.272999992370605,Adam Ounas,h,3259,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Matteo Politano,TakeOn
+3,Serie_A,450362,83,SavedShot,0.975999984741211,0.352999992370605,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Adam Ounas,Pass
+4,Serie_A,450363,83,MissedShots,0.76,0.402000007629395,Amir Rrahmani,h,7924,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,,Rebound
+5,Serie_A,450364,90,SavedShot,0.803000030517578,0.48,Franck Zambo,h,6434,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Adam Ounas,Pass
+6,Serie_A,450365,92,BlockedShot,0.903000030517578,0.402000007629395,Giovanni Di Lorenzo,h,6978,FromCorner,2021,Head,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Faouzi Ghoulam,BallTouch
+7,Serie_A,450366,93,ShotOnPost,0.896999969482422,0.45,Eljif Elmas,h,7912,OpenPlay,2021,Head,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Adam Ounas,Cross
+8,Serie_A,450367,94,MissedShots,0.893000030517578,0.375,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,Head,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Faouzi Ghoulam,Aerial
+9,Serie_A,451834,10,MissedShots,0.771999969482422,0.572999992370606,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Dries Mertens,Pass
+10,Serie_A,451836,12,BlockedShot,0.801999969482422,0.442999992370605,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Lorenzo Insigne,None
+11,Serie_A,432360,83,Goal,0.916999969482422,0.705999984741211,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Mário Rui,Pass
+12,Serie_A,432362,88,MissedShots,0.909000015258789,0.317999992370605,Adam Ounas,a,3259,OpenPlay,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,,Dispossessed
+13,Serie_A,432364,90,MissedShots,0.891999969482422,0.36,Adam Ounas,a,3259,OpenPlay,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Eljif Elmas,Pass
+14,Serie_A,432931,6,SavedShot,0.824000015258789,0.51,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Lorenzo Insigne,Chipped
+15,Serie_A,432932,9,Goal,0.949000015258789,0.449000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Lorenzo Insigne,Chipped
+16,Serie_A,432934,15,BlockedShot,0.784000015258789,0.704000015258789,Piotr Zielinski,a,1386,FromCorner,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Lorenzo Insigne,Pass
+17,Serie_A,432935,16,MissedShots,0.888000030517578,0.292000007629395,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Victor Osimhen,Pass
+18,Serie_A,432941,30,BlockedShot,0.795999984741211,0.347999992370605,Hirving Lozano,a,7999,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Giovanni Di Lorenzo,Pass
+19,Serie_A,432943,37,SavedShot,0.758000030517578,0.71,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Piotr Zielinski,Pass
+20,Serie_A,432944,38,Goal,0.784000015258789,0.467999992370605,Fabián,a,2447,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Lorenzo Insigne,Pass
+21,Serie_A,432947,49,Goal,0.933000030517578,0.489000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Hirving Lozano,Cross
+22,Serie_A,452606,46,BlockedShot,0.894000015258789,0.497999992370605,Amir Rrahmani,h,7924,SetPiece,2021,Head,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Faouzi Ghoulam,Aerial
+23,Serie_A,452607,50,MissedShots,0.866999969482422,0.370999984741211,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Matteo Politano,Chipped
+24,Serie_A,452608,54,MissedShots,0.896999969482422,0.517999992370605,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Eljif Elmas,Pass
+25,Serie_A,452609,55,BlockedShot,0.886999969482422,0.320999984741211,Andrea Petagna,h,1493,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Dries Mertens,Pass
+26,Serie_A,452610,56,BlockedShot,0.928000030517578,0.404000015258789,Giovanni Di Lorenzo,h,6978,FromCorner,2021,Head,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Matteo Politano,Aerial
+27,Serie_A,452614,62,BlockedShot,0.798000030517578,0.645,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Stanislav Lobotka,Pass
+28,Serie_A,452615,74,MissedShots,0.956999969482422,0.427999992370605,Matteo Politano,h,1473,OpenPlay,2021,Head,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Andrea Petagna,Aerial
+29,Serie_A,452618,79,SavedShot,0.818000030517578,0.344000015258789,Andrea Petagna,h,1493,OpenPlay,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Eljif Elmas,Pass
+30,Serie_A,452619,80,BlockedShot,0.909000015258789,0.720999984741211,Eljif Elmas,h,7912,OpenPlay,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Juan Jesus,Chipped
+31,Serie_A,452620,81,BlockedShot,0.881999969482422,0.298999996185303,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Fabián,Pass
+32,Serie_A,452621,81,MissedShots,0.908000030517578,0.420999984741211,Giovanni Di Lorenzo,h,6978,FromCorner,2021,Head,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Dries Mertens,Cross
+33,Serie_A,444937,9,Goal,0.865999984741211,0.522999992370605,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Lorenzo Insigne,TakeOn
+34,Serie_A,444939,13,MissedShots,0.791999969482422,0.859000015258789,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,,Standard
+35,Serie_A,444940,14,BlockedShot,0.760999984741211,0.649000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Fabián,Pass
+36,Serie_A,444941,15,BlockedShot,0.891999969482422,0.74,Fabián,h,2447,FromCorner,2021,LeftFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Hirving Lozano,Cross
+37,Serie_A,444942,15,MissedShots,0.855999984741211,0.325,Hirving Lozano,h,7999,FromCorner,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Piotr Zielinski,BallTouch
+38,Serie_A,444943,18,MissedShots,0.825999984741211,0.317000007629395,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Piotr Zielinski,Pass
+39,Serie_A,444944,20,BlockedShot,0.784000015258789,0.439000015258789,Fabián,h,2447,OpenPlay,2021,LeftFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Giovanni Di Lorenzo,Pass
+40,Serie_A,444946,23,SavedShot,0.971999969482422,0.43,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,,None
+41,Serie_A,444949,26,SavedShot,0.86,0.320999984741211,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Piotr Zielinski,Pass
+42,Serie_A,444950,27,BlockedShot,0.751999969482422,0.714000015258789,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Stanislav Lobotka,Pass
+43,Serie_A,444951,28,Goal,0.82,0.342999992370605,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Hirving Lozano,Pass
+44,Serie_A,470446,51,MissedShots,0.946999969482422,0.342999992370605,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Dries Mertens,TakeOn
+45,Serie_A,470447,52,Goal,0.915999984741211,0.632999992370605,Lorenzo Insigne,a,1393,OpenPlay,2021,LeftFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Franck Zambo,Pass
+46,Serie_A,470452,61,MissedShots,0.91,0.572000007629395,Victor Osimhen,a,5322,FromCorner,2021,Head,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Hirving Lozano,Chipped
+47,Serie_A,470456,70,BlockedShot,0.861999969482422,0.324000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Franck Zambo,BallRecovery
+48,Serie_A,470457,75,MissedShots,0.959000015258789,0.649000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,LeftFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Dries Mertens,Pass
+49,Serie_A,470462,93,MissedShots,0.778000030517578,0.632999992370605,Mário Rui,a,1792,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Piotr Zielinski,Pass
+50,Serie_A,471354,1,ShotOnPost,0.954000015258789,0.644000015258789,Victor Osimhen,h,5322,OpenPlay,2021,LeftFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,,None
+51,Serie_A,471355,6,Goal,0.891999969482422,0.487999992370605,Kalidou Koulibaly,h,1376,FromCorner,2021,Head,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Cross
+52,Serie_A,471356,9,SavedShot,0.963000030517578,0.689000015258789,Victor Osimhen,h,5322,OpenPlay,2021,LeftFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Pass
+53,Serie_A,471357,12,BlockedShot,0.959000015258789,0.287000007629395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Giovanni Di Lorenzo,Pass
+54,Serie_A,471358,14,Goal,0.943000030517578,0.500999984741211,Victor Osimhen,h,5322,FromCorner,2021,Head,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Cross
+55,Serie_A,456243,4,BlockedShot,0.926999969482422,0.33,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Stanislav Lobotka,Throughball
+56,Serie_A,456244,11,SavedShot,0.850999984741211,0.64,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Lorenzo Insigne,Pass
+57,Serie_A,456245,19,SavedShot,0.856999969482422,0.384000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,LeftFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Stanislav Lobotka,Throughball
+58,Serie_A,456246,22,MissedShots,0.864000015258789,0.432000007629395,Matteo Politano,a,1473,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Giovanni Di Lorenzo,HeadPass
+59,Serie_A,456249,27,ShotOnPost,0.95,0.31,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Lorenzo Insigne,Pass
+60,Serie_A,456251,37,MissedShots,0.76,0.349000015258789,Fabián,a,2447,OpenPlay,2021,LeftFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,,None
+61,Serie_A,456252,43,BlockedShot,0.795,0.387999992370605,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Victor Osimhen,LayOff
+62,Serie_A,456254,58,Goal,0.966999969482422,0.572999992370606,Victor Osimhen,a,5322,OpenPlay,2021,Head,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Matteo Politano,Cross
+63,Serie_A,456255,62,MissedShots,0.865,0.38,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Matteo Politano,Pass
+64,Serie_A,456257,68,BlockedShot,0.805999984741211,0.252000007629395,Mário Rui,a,1792,FromCorner,2021,LeftFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Piotr Zielinski,Pass
+65,Serie_A,456258,70,MissedShots,0.790999984741211,0.69,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,,None
+66,Serie_A,463913,68,BlockedShot,0.801999969482422,0.377999992370605,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,,TakeOn
+67,Serie_A,463914,79,SavedShot,0.724000015258789,0.389000015258789,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Stanislav Lobotka,Pass
+68,Serie_A,463916,86,SavedShot,0.959000015258789,0.646999969482422,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Dries Mertens,Pass
+69,Serie_A,463919,94,MissedShots,0.835,0.462999992370605,Piotr Zielinski,h,1386,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Victor Osimhen,Pass
+70,Serie_A,465690,13,Goal,0.885,0.5,Lorenzo Insigne,a,1393,Penalty,2021,RightFoot,17056,Atalanta,Napoli,1,3,2022-04-03 13:00:00,,Standard
+71,Serie_A,465694,32,SavedShot,0.771999969482422,0.685,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,17056,Atalanta,Napoli,1,3,2022-04-03 13:00:00,Franck Zambo,Pass
+72,Serie_A,465695,36,Goal,0.919000015258789,0.53,Matteo Politano,a,1473,SetPiece,2021,LeftFoot,17056,Atalanta,Napoli,1,3,2022-04-03 13:00:00,Lorenzo Insigne,Chipped
+73,Serie_A,465697,45,SavedShot,0.853000030517578,0.362999992370605,Kalidou Koulibaly,a,1376,OpenPlay,2021,LeftFoot,17056,Atalanta,Napoli,1,3,2022-04-03 13:00:00,,BallRecovery
+74,Serie_A,465705,80,Goal,0.89,0.562999992370605,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,17056,Atalanta,Napoli,1,3,2022-04-03 13:00:00,Hirving Lozano,Pass
+75,Serie_A,465708,90,MissedShots,0.784000015258789,0.462000007629395,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,17056,Atalanta,Napoli,1,3,2022-04-03 13:00:00,Mário Rui,Chipped
+76,Serie_A,467170,6,BlockedShot,0.766999969482422,0.7,Mário Rui,h,1792,FromCorner,2021,LeftFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,,None
+77,Serie_A,435750,49,Goal,0.931999969482422,0.557000007629395,Amir Rrahmani,a,7924,SetPiece,2021,Head,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Piotr Zielinski,Cross
+78,Serie_A,435751,51,MissedShots,0.914000015258789,0.345999984741211,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Lorenzo Insigne,Chipped
+79,Serie_A,435755,68,MissedShots,0.804000015258789,0.318999996185303,Franck Zambo,a,6434,OpenPlay,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Matteo Politano,Pass
+80,Serie_A,435756,72,SavedShot,0.74,0.8,Mário Rui,a,1792,DirectFreekick,2021,LeftFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,,Standard
+81,Serie_A,435757,73,MissedShots,0.813000030517578,0.32,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Franck Zambo,TakeOn
+82,Serie_A,437076,4,SavedShot,0.873000030517578,0.307000007629395,Kalidou Koulibaly,h,1376,SetPiece,2021,Head,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Mário Rui,Chipped
+83,Serie_A,437077,9,MissedShots,0.739000015258789,0.6,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Lorenzo Insigne,TakeOn
+84,Serie_A,437078,10,MissedShots,0.874000015258789,0.435,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,,None
+85,Serie_A,437080,17,BlockedShot,0.825999984741211,0.256000003814697,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Piotr Zielinski,Pass
+86,Serie_A,437081,19,MissedShots,0.914000015258789,0.555,Victor Osimhen,h,5322,OpenPlay,2021,Head,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Giovanni Di Lorenzo,Aerial
+87,Serie_A,437082,26,SavedShot,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,,Standard
+88,Serie_A,437085,41,MissedShots,0.793000030517578,0.629000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Piotr Zielinski,Pass
+89,Serie_A,437089,62,ShotOnPost,0.855,0.342000007629395,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Victor Osimhen,Pass
+90,Serie_A,437090,62,MissedShots,0.798000030517578,0.535999984741211,Franck Zambo,h,6434,OpenPlay,2021,LeftFoot,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,,Rebound
+91,Serie_A,437094,80,Goal,0.939000015258789,0.495,Victor Osimhen,h,5322,OpenPlay,2021,Head,16832,Napoli,Torino,1,0,2021-10-17 16:00:00,Eljif Elmas,BallTouch
+92,Serie_A,438565,13,BlockedShot,0.91,0.485,Victor Osimhen,a,5322,OpenPlay,2021,LeftFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Mário Rui,Pass
+93,Serie_A,438566,19,MissedShots,0.875,0.182000007629395,Matteo Politano,a,1473,DirectFreekick,2021,LeftFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,,Standard
+94,Serie_A,438568,31,MissedShots,0.735999984741211,0.557000007629395,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Lorenzo Insigne,Pass
+95,Serie_A,438570,41,MissedShots,0.848000030517578,0.595999984741211,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Fabián,Pass
+96,Serie_A,438572,44,BlockedShot,0.755999984741211,0.69,Fabián,a,2447,OpenPlay,2021,LeftFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Lorenzo Insigne,HeadPass
+97,Serie_A,438573,44,SavedShot,0.831999969482422,0.693000030517578,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Piotr Zielinski,Pass
+98,Serie_A,438574,59,BlockedShot,0.964000015258789,0.454000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,,None
+99,Serie_A,461904,75,MissedShots,0.855,0.362999992370605,Adam Ounas,h,3259,FromCorner,2021,LeftFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,,TakeOn
+100,Serie_A,461905,82,MissedShots,0.775,0.629000015258789,Hirving Lozano,h,7999,FromCorner,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,,None
+101,Serie_A,461906,84,SavedShot,0.963000030517578,0.342999992370605,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,Adam Ounas,Pass
+102,Serie_A,461908,86,MissedShots,0.694000015258789,0.68,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,Eljif Elmas,Pass
+103,Serie_A,463076,7,MissedShots,0.891999969482422,0.425,Victor Osimhen,a,5322,OpenPlay,2021,Head,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Mário Rui,Aerial
+104,Serie_A,463078,13,Goal,0.938000030517578,0.479000015258789,Victor Osimhen,a,5322,OpenPlay,2021,Head,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Matteo Politano,Aerial
+105,Serie_A,463079,18,BlockedShot,0.718000030517578,0.452000007629395,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Hirving Lozano,Pass
+106,Serie_A,463080,18,BlockedShot,0.764000015258789,0.597999992370605,Fabián,a,2447,OpenPlay,2021,LeftFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Victor Osimhen,Pass
+107,Serie_A,463081,21,SavedShot,0.869000015258789,0.322000007629395,Fabián,a,2447,OpenPlay,2021,LeftFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,,None
+108,Serie_A,463082,28,MissedShots,0.925,0.258999996185303,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Franck Zambo,Pass
+109,Serie_A,463084,39,MissedShots,0.870999984741211,0.637999992370605,Fabián,a,2447,OpenPlay,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Hirving Lozano,Pass
+110,Serie_A,448545,53,MissedShots,0.778000030517578,0.462999992370605,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Dries Mertens,BallTouch
+111,Serie_A,448546,55,MissedShots,0.800999984741211,0.475,Adam Ounas,h,3259,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,None
+112,Serie_A,448550,64,SavedShot,0.87,0.212999992370605,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Franck Zambo,Pass
+113,Serie_A,448551,66,MissedShots,0.876999969482422,0.539000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Matteo Politano,Pass
+114,Serie_A,448553,68,SavedShot,0.870999984741211,0.721999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,None
+115,Serie_A,448554,68,BlockedShot,0.741999969482422,0.425999984741211,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,Pass
+116,Serie_A,448555,68,BlockedShot,0.885,0.327999992370605,Adam Ounas,h,3259,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,Rebound
+117,Serie_A,448558,71,BlockedShot,0.795999984741211,0.579000015258789,Andrea Petagna,h,1493,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Eljif Elmas,Pass
+118,Serie_A,448559,78,MissedShots,0.758000030517578,0.325999984741211,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,Pass
+119,Serie_A,448560,79,BlockedShot,0.809000015258789,0.500999984741211,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Mário Rui,TakeOn
+120,Serie_A,448561,80,BlockedShot,0.959000015258789,0.429000015258789,Amir Rrahmani,h,7924,FromCorner,2021,Head,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,Cross
+121,Serie_A,467191,76,MissedShots,0.934000015258789,0.597000007629395,Dries Mertens,h,1384,OpenPlay,2021,Head,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Hirving Lozano,Chipped
+122,Serie_A,467192,83,Goal,0.875,0.395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Mário Rui,Aerial
+123,Serie_A,467193,88,BlockedShot,0.775,0.322000007629395,Faouzi Ghoulam,h,1387,DirectFreekick,2021,LeftFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,,Standard
+124,Serie_A,468987,10,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,,Standard
+125,Serie_A,468988,19,BlockedShot,0.923000030517578,0.432999992370605,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Mário Rui,Cross
+126,Serie_A,468989,19,SavedShot,0.966999969482422,0.334000015258789,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,,Rebound
+127,Serie_A,468990,25,BlockedShot,0.750999984741211,0.477999992370605,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Franck Zambo,Pass
+128,Serie_A,468993,46,BlockedShot,0.900999984741211,0.370999984741211,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Hirving Lozano,Pass
+129,Serie_A,468997,68,MissedShots,0.745999984741211,0.45,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Franck Zambo,TakeOn
+130,Serie_A,468998,70,SavedShot,0.734000015258789,0.287000007629395,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Piotr Zielinski,Pass
+131,Serie_A,468999,73,SavedShot,0.774000015258789,0.437000007629395,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Eljif Elmas,Pass
+132,Serie_A,473011,72,Goal,0.88,0.585,Fabián,a,2447,OpenPlay,2021,LeftFoot,17114,Torino,Napoli,0,1,2022-05-07 13:00:00,,BallRecovery
+133,Serie_A,473012,77,MissedShots,0.809000015258789,0.464000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17114,Torino,Napoli,0,1,2022-05-07 13:00:00,Piotr Zielinski,Pass
+134,Serie_A,476393,17,BlockedShot,0.938000030517578,0.666999969482422,Dries Mertens,h,1384,OpenPlay,2021,LeftFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Lorenzo Insigne,Throughball
+135,Serie_A,476394,18,MissedShots,0.875,0.465999984741211,Giovanni Di Lorenzo,h,6978,FromCorner,2021,Head,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Lorenzo Insigne,Cross
+136,Serie_A,476395,27,MissedShots,0.84,0.695,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Dries Mertens,Pass
+137,Serie_A,476398,31,Goal,0.915999984741211,0.477999992370605,Victor Osimhen,h,5322,OpenPlay,2021,Head,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Giovanni Di Lorenzo,Aerial
+138,Serie_A,476399,35,SavedShot,0.984000015258789,0.643000030517578,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Mário Rui,TakeOn
+139,Serie_A,476400,36,BlockedShot,0.774000015258789,0.372999992370605,Hirving Lozano,h,7999,FromCorner,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Dries Mertens,Chipped
+140,Serie_A,476401,36,SavedShot,0.944000015258789,0.507000007629395,Victor Osimhen,h,5322,FromCorner,2021,LeftFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Dries Mertens,Chipped
+141,Serie_A,476402,41,MissedShots,0.855,0.485,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Dries Mertens,Pass
+142,Serie_A,476406,56,SavedShot,0.680999984741211,0.529000015258789,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,,None
+143,Serie_A,476407,59,SavedShot,0.853000030517578,0.648000030517578,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Dries Mertens,Throughball
+144,Serie_A,476409,64,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,,Standard
+145,Serie_A,476411,67,SavedShot,0.803000030517578,0.477999992370605,Fabián,h,2447,OpenPlay,2021,LeftFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Dries Mertens,Pass
+146,Serie_A,476412,68,SavedShot,0.821999969482422,0.552999992370605,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Hirving Lozano,Pass
+147,Serie_A,476413,73,MissedShots,0.906999969482422,0.53,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,,None
+148,Serie_A,476415,75,MissedShots,0.951999969482422,0.342999992370605,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,,None
+149,Serie_A,476416,78,BlockedShot,0.885,0.337999992370605,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,,None
+150,Serie_A,476417,80,Goal,0.79,0.532000007629394,Stanislav Lobotka,h,6125,OpenPlay,2021,RightFoot,17122,Napoli,Genoa,3,0,2022-05-15 13:00:00,Franck Zambo,Pass
+151,Serie_A,477703,3,Goal,0.821999969482422,0.465999984741211,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Kalidou Koulibaly,Pass
+152,Serie_A,477704,24,Goal,0.85,0.535999984741211,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,,BallTouch
+153,Serie_A,477705,26,SavedShot,0.934000015258789,0.495999984741211,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Andrea Petagna,Pass
+154,Serie_A,477708,33,BlockedShot,0.768000030517578,0.635999984741211,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Faouzi Ghoulam,TakeOn
+155,Serie_A,477709,35,Goal,0.974000015258789,0.46,Diego Demme,a,5246,OpenPlay,2021,RightFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Andrea Petagna,Pass
+156,Serie_A,477713,48,BlockedShot,0.815,0.671999969482422,Matteo Politano,a,1473,FromCorner,2021,LeftFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Stanislav Lobotka,Pass
+157,Serie_A,477720,74,BlockedShot,0.785999984741211,0.365999984741211,Eljif Elmas,a,7912,OpenPlay,2021,LeftFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Diego Demme,Pass
+158,Serie_A,477721,75,BlockedShot,0.815999984741211,0.465999984741211,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Dries Mertens,Pass
+159,Serie_A,477726,87,MissedShots,0.703000030517578,0.607999992370605,Franck Zambo,a,6434,OpenPlay,2021,RightFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,,BallTouch
+160,Serie_A,477727,90,BlockedShot,0.781999969482422,0.485,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,17133,Spezia,Napoli,0,3,2022-05-22 10:30:00,Victor Osimhen,Chipped
+161,Serie_A,459116,79,BlockedShot,0.849000015258789,0.499000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,Dries Mertens,Pass
+162,Serie_A,459119,86,Goal,0.955999984741211,0.465999984741211,Victor Osimhen,a,5322,OpenPlay,2021,Head,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,Mário Rui,Aerial
+163,Serie_A,460523,4,SavedShot,0.865999984741211,0.329000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Piotr Zielinski,Pass
+164,Serie_A,460527,16,BlockedShot,0.9,0.641999969482422,Lorenzo Insigne,a,1393,OpenPlay,2021,LeftFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,,None
+165,Serie_A,460528,17,SavedShot,0.895,0.397000007629395,Amir Rrahmani,a,7924,FromCorner,2021,Head,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Mário Rui,Aerial
+166,Serie_A,460530,23,SavedShot,0.756999969482422,0.497000007629395,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Fabián,Pass
+167,Serie_A,460532,36,BlockedShot,0.878000030517578,0.725999984741211,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Kalidou Koulibaly,TakeOn
+168,Serie_A,460538,61,MissedShots,0.761999969482422,0.595999984741211,Fabián,a,2447,OpenPlay,2021,LeftFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,,None
+169,Serie_A,460539,61,Goal,0.776999969482422,0.47,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Eljif Elmas,Pass
+170,Serie_A,460540,65,BlockedShot,0.731999969482422,0.412000007629395,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,,BallRecovery
+171,Serie_A,460541,65,BlockedShot,0.903000030517578,0.38,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Matteo Politano,BlockedPass
+172,Serie_A,444954,42,BlockedShot,0.904000015258789,0.392999992370605,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Dries Mertens,Chipped
+173,Serie_A,444955,57,BlockedShot,0.813000030517578,0.482000007629395,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Hirving Lozano,Pass
+174,Serie_A,444956,57,SavedShot,0.884000015258789,0.587999992370606,Mário Rui,h,1792,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Piotr Zielinski,Pass
+175,Serie_A,444957,68,MissedShots,0.846999969482422,0.679000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Andrea Petagna,Pass
+176,Serie_A,444958,76,SavedShot,0.76,0.649000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Fabián,Chipped
+177,Serie_A,444959,84,Goal,0.73,0.316000003814697,Fabián,h,2447,OpenPlay,2021,LeftFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,Giovanni Di Lorenzo,Pass
+178,Serie_A,445425,4,BlockedShot,0.865999984741211,0.372999992370605,Fabián,a,2447,OpenPlay,2021,LeftFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,,BallTouch
+179,Serie_A,445426,5,BlockedShot,0.874000015258789,0.412000007629395,Fabián,a,2447,OpenPlay,2021,LeftFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Piotr Zielinski,Pass
+180,Serie_A,445427,14,MissedShots,0.928000030517578,0.472000007629395,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Giovanni Di Lorenzo,HeadPass
+181,Serie_A,445429,26,SavedShot,0.869000015258789,0.674000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Mário Rui,Chipped
+182,Serie_A,445431,34,MissedShots,0.808000030517578,0.650999984741211,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Mário Rui,Pass
+183,Serie_A,450343,34,MissedShots,0.770999984741211,0.537999992370605,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Franck Zambo,TakeOn
+184,Serie_A,450346,48,MissedShots,0.94,0.668000030517578,Hirving Lozano,h,7999,SetPiece,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Piotr Zielinski,Cross
+185,Serie_A,450348,55,BlockedShot,0.915,0.490999984741211,Andrea Petagna,h,1493,OpenPlay,2021,Head,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Matteo Politano,Aerial
+186,Serie_A,450349,60,BlockedShot,0.815999984741211,0.650999984741211,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,,BallRecovery
+187,Serie_A,450350,60,BlockedShot,0.87,0.342000007629395,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Piotr Zielinski,Pass
+188,Serie_A,450351,61,BlockedShot,0.883000030517578,0.62,Hirving Lozano,h,7999,FromCorner,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,,None
+189,Serie_A,450352,61,BlockedShot,0.91,0.532000007629394,Hirving Lozano,h,7999,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Mário Rui,Pass
+190,Serie_A,450353,64,BlockedShot,0.769000015258789,0.415,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Franck Zambo,Pass
+191,Serie_A,450354,65,MissedShots,0.924000015258789,0.567000007629395,Juan Jesus,h,1247,FromCorner,2021,Head,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Piotr Zielinski,Aerial
+192,Serie_A,450355,65,SavedShot,0.739000015258789,0.387999992370605,Piotr Zielinski,h,1386,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Andrea Petagna,Pass
+193,Serie_A,450358,72,SavedShot,0.858000030517578,0.542000007629394,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,,None
+194,Serie_A,427900,5,BlockedShot,0.728000030517578,0.519000015258789,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,Standard
+195,Serie_A,427901,8,MissedShots,0.813000030517578,0.500999984741211,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,Fabián,Pass
+196,Serie_A,427902,12,BlockedShot,0.721999969482422,0.66,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,Standard
+197,Serie_A,427903,13,SavedShot,0.811999969482422,0.502999992370605,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,Piotr Zielinski,Pass
+198,Serie_A,427905,19,MissedShots,0.889000015258789,0.370999984741211,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,BallTouch
+199,Serie_A,427906,21,SavedShot,0.970999984741211,0.419000015258789,Matteo Politano,h,1473,OpenPlay,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,Lorenzo Insigne,Cross
+200,Serie_A,427908,31,BlockedShot,0.753000030517578,0.602999992370605,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,Standard
+201,Serie_A,427910,51,BlockedShot,0.789000015258789,0.382000007629395,Fabián,h,2447,SetPiece,2021,LeftFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,None
+202,Serie_A,427912,56,MissedShots,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,Standard
+203,Serie_A,427914,60,MissedShots,0.925999984741211,0.285,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,LeftFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,Matteo Politano,Pass
+204,Serie_A,427915,61,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,Standard
+205,Serie_A,427917,71,Goal,0.854000015258789,0.585,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,,None
+206,Serie_A,427919,85,MissedShots,0.75,0.615,Stanislav Lobotka,h,6125,OpenPlay,2021,RightFoot,16762,Napoli,Venezia,2,0,2021-08-22 18:45:00,Mário Rui,Pass
+207,Serie_A,429360,2,MissedShots,0.935999984741211,0.515999984741211,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Matteo Politano,Cross
+208,Serie_A,429361,6,MissedShots,0.950999984741211,0.665999984741211,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Kalidou Koulibaly,Chipped
+209,Serie_A,429362,12,BlockedShot,0.884000015258789,0.352000007629395,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Eljif Elmas,Pass
+210,Serie_A,429364,29,SavedShot,0.898000030517578,0.349000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Giovanni Di Lorenzo,TakeOn
+211,Serie_A,429365,31,SavedShot,0.801999969482422,0.158000001907349,Lorenzo Insigne,a,1393,DirectFreekick,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,,Standard
+212,Serie_A,429366,38,Goal,0.789000015258789,0.377000007629395,Fabián,a,2447,OpenPlay,2021,LeftFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Matteo Politano,Pass
+213,Serie_A,429367,40,MissedShots,0.811999969482422,0.28,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Fabián,TakeOn
+214,Serie_A,429371,64,SavedShot,0.891999969482422,0.645999984741211,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Matteo Politano,Pass
+215,Serie_A,429373,77,SavedShot,0.785999984741211,0.374000015258789,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Fabián,TakeOn
+216,Serie_A,469001,79,MissedShots,0.954000015258789,0.347000007629395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17082,Napoli,Roma,1,1,2022-04-18 17:00:00,Eljif Elmas,Chipped
+217,Serie_A,470431,3,BlockedShot,0.765999984741211,0.500999984741211,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Fabián,Pass
+218,Serie_A,470432,4,BlockedShot,0.84,0.342000007629395,Fabián,a,2447,OpenPlay,2021,LeftFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Hirving Lozano,Pass
+219,Serie_A,470433,13,MissedShots,0.841999969482422,0.357999992370605,Fabián,a,2447,OpenPlay,2021,LeftFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Lorenzo Insigne,Pass
+220,Serie_A,470434,14,MissedShots,0.925999984741211,0.472999992370605,Victor Osimhen,a,5322,OpenPlay,2021,Head,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Hirving Lozano,Cross
+221,Serie_A,470435,18,BlockedShot,0.804000015258789,0.460999984741211,Franck Zambo,a,6434,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Dries Mertens,Pass
+222,Serie_A,470436,19,BlockedShot,0.951999969482422,0.484000015258789,Victor Osimhen,a,5322,FromCorner,2021,Head,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Lorenzo Insigne,Aerial
+223,Serie_A,470437,20,BlockedShot,0.858000030517578,0.724000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Dries Mertens,Pass
+224,Serie_A,470438,25,MissedShots,0.913000030517578,0.472999992370605,Victor Osimhen,a,5322,OpenPlay,2021,Head,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Hirving Lozano,Aerial
+225,Serie_A,470442,38,MissedShots,0.89,0.301000003814697,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Dries Mertens,Pass
+226,Serie_A,470445,43,Goal,0.869000015258789,0.485,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,17087,Empoli,Napoli,3,2,2022-04-24 13:00:00,Hirving Lozano,Cross
+227,Serie_A,463900,40,MissedShots,0.798000030517578,0.267999992370605,Giovanni Di Lorenzo,h,6978,FromCorner,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Matteo Politano,Cross
+228,Serie_A,463901,45,BlockedShot,0.799000015258789,0.645,Mário Rui,h,1792,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,,None
+229,Serie_A,463902,46,MissedShots,0.703000030517578,0.529000015258789,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,,Standard
+230,Serie_A,463903,51,Goal,0.894000015258789,0.499000015258789,Victor Osimhen,h,5322,SetPiece,2021,Head,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Mário Rui,Chipped
+231,Serie_A,463904,54,MissedShots,0.913000030517578,0.524000015258789,Kalidou Koulibaly,h,1376,FromCorner,2021,Head,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Matteo Politano,Aerial
+232,Serie_A,463905,54,MissedShots,0.975,0.335999984741211,Dries Mertens,h,1384,FromCorner,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Kalidou Koulibaly,Rebound
+233,Serie_A,463906,55,BlockedShot,0.809000015258789,0.507000007629395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Mário Rui,Aerial
+234,Serie_A,463908,57,BlockedShot,0.748000030517578,0.524000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Dries Mertens,Pass
+235,Serie_A,463909,58,MissedShots,0.891999969482422,0.7,Lorenzo Insigne,h,1393,OpenPlay,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Mário Rui,Pass
+236,Serie_A,463910,61,SavedShot,0.839000015258789,0.646999969482422,Matteo Politano,h,1473,FromCorner,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Lorenzo Insigne,Cross
+237,Serie_A,463911,62,Goal,0.920999984741211,0.41,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Giovanni Di Lorenzo,Pass
+238,Serie_A,467171,8,MissedShots,0.865999984741211,0.53,Victor Osimhen,h,5322,OpenPlay,2021,Head,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Alessandro Zanoli,Aerial
+239,Serie_A,467172,8,MissedShots,0.869000015258789,0.654000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Kalidou Koulibaly,Chipped
+240,Serie_A,467175,22,SavedShot,0.874000015258789,0.766999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Fabián,Pass
+241,Serie_A,467178,33,MissedShots,0.960999984741211,0.694000015258789,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Kalidou Koulibaly,Chipped
+242,Serie_A,467180,41,BlockedShot,0.825999984741211,0.584000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,,Dispossessed
+243,Serie_A,467181,46,MissedShots,0.800999984741211,0.663000030517578,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,,Standard
+244,Serie_A,467182,48,MissedShots,0.929000015258789,0.322000007629395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Alessandro Zanoli,Pass
+245,Serie_A,467183,50,BlockedShot,0.820999984741211,0.437000007629395,Fabián,h,2447,OpenPlay,2021,LeftFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Victor Osimhen,BallTouch
+246,Serie_A,467184,55,MissedShots,0.909000015258789,0.602000007629395,Amir Rrahmani,h,7924,FromCorner,2021,Head,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Lorenzo Insigne,Cross
+247,Serie_A,467185,57,Goal,0.815999984741211,0.549000015258789,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Victor Osimhen,Pass
+248,Serie_A,467189,74,MissedShots,0.878000030517578,0.711999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Victor Osimhen,Pass
+249,Serie_A,434399,69,MissedShots,0.73,0.542000007629394,Franck Zambo,h,6434,OpenPlay,2021,LeftFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Lorenzo Insigne,BallTouch
+250,Serie_A,434401,83,SavedShot,0.810999984741211,0.467000007629395,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Fabián,Pass
+251,Serie_A,434402,87,MissedShots,0.720999984741211,0.510999984741211,Franck Zambo,h,6434,FromCorner,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,,None
+252,Serie_A,434404,89,SavedShot,0.845,0.527999992370605,Andrea Petagna,h,1493,OpenPlay,2021,LeftFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Adam Ounas,Pass
+253,Serie_A,435740,21,MissedShots,0.926999969482422,0.435999984741211,Franck Zambo,a,6434,FromCorner,2021,Head,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Lorenzo Insigne,Cross
+254,Serie_A,435743,33,SavedShot,0.875,0.301000003814697,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Amir Rrahmani,Pass
+255,Serie_A,435744,37,SavedShot,0.885,0.5,Lorenzo Insigne,a,1393,Penalty,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,,Standard
+256,Serie_A,435745,37,SavedShot,0.97,0.497000007629395,Lorenzo Insigne,a,1393,SetPiece,2021,Head,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,,Rebound
+257,Serie_A,435746,37,Goal,0.965999984741211,0.402000007629395,Hirving Lozano,a,7999,SetPiece,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,,Rebound
+258,Serie_A,435747,42,BlockedShot,0.795,0.73,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Fabián,Pass
+259,Serie_A,435748,44,MissedShots,0.901999969482422,0.547999992370605,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Piotr Zielinski,Chipped
+260,Serie_A,445434,50,SavedShot,0.755999984741211,0.542000007629394,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Eljif Elmas,Pass
+261,Serie_A,445435,50,Goal,0.821999969482422,0.492999992370605,Fabián,a,2447,OpenPlay,2021,LeftFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Piotr Zielinski,Pass
+262,Serie_A,445436,58,Goal,0.958000030517578,0.417000007629395,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Piotr Zielinski,Chipped
+263,Serie_A,445441,83,BlockedShot,0.868000030517578,0.425999984741211,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16904,Sassuolo,Napoli,2,2,2021-12-01 19:45:00,Andrea Petagna,Chipped
+264,Serie_A,446437,4,BlockedShot,0.895999984741211,0.405,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Hirving Lozano,Pass
+265,Serie_A,446438,4,MissedShots,0.906999969482422,0.505,Juan Jesus,h,1247,FromCorner,2021,Head,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Piotr Zielinski,Aerial
+266,Serie_A,446448,28,BlockedShot,0.864000015258789,0.698000030517578,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Dries Mertens,TakeOn
+267,Serie_A,446449,29,SavedShot,0.876999969482422,0.645999984741211,Hirving Lozano,h,7999,OpenPlay,2021,LeftFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Stanislav Lobotka,Chipped
+268,Serie_A,446450,32,MissedShots,0.75,0.738000030517578,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Mário Rui,Pass
+269,Serie_A,446452,39,BlockedShot,0.898000030517578,0.394000015258789,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Dries Mertens,Pass
+270,Serie_A,446453,39,Goal,0.896999969482422,0.432000007629395,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,,Rebound
+271,Serie_A,451859,59,BlockedShot,0.803000030517578,0.425,Matteo Politano,a,1473,FromCorner,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Lorenzo Insigne,Chipped
+272,Serie_A,451860,59,SavedShot,0.878000030517578,0.760999984741211,Dries Mertens,a,1384,FromCorner,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Piotr Zielinski,Pass
+273,Serie_A,451863,63,SavedShot,0.895,0.654000015258789,Dries Mertens,a,1384,OpenPlay,2021,LeftFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,,None
+274,Serie_A,452597,18,MissedShots,0.923000030517578,0.455,Giovanni Di Lorenzo,h,6978,FromCorner,2021,Head,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Lorenzo Insigne,Chipped
+275,Serie_A,452598,26,SavedShot,0.785999984741211,0.340999984741211,Amir Rrahmani,h,7924,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Stanislav Lobotka,Pass
+276,Serie_A,452599,27,BlockedShot,0.789000015258789,0.392999992370605,Diego Demme,h,5246,FromCorner,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Dries Mertens,Chipped
+277,Serie_A,452600,27,SavedShot,0.735999984741211,0.589000015258789,Lorenzo Insigne,h,1393,FromCorner,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,,Rebound
+278,Serie_A,452601,32,SavedShot,0.750999984741211,0.29,Faouzi Ghoulam,h,1387,DirectFreekick,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,,Standard
+279,Serie_A,452602,33,MissedShots,0.721999969482422,0.517999992370605,Faouzi Ghoulam,h,1387,FromCorner,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Dries Mertens,Pass
+280,Serie_A,452603,39,MissedShots,0.753000030517578,0.397000007629395,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Amir Rrahmani,Pass
+281,Serie_A,452605,42,Goal,0.88,0.52,Andrea Petagna,h,1493,OpenPlay,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,,None
+282,Serie_A,471359,18,Goal,0.929000015258789,0.534000015258789,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Victor Osimhen,Pass
+283,Serie_A,471360,20,Goal,0.869000015258789,0.699000015258789,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Mário Rui,Pass
+284,Serie_A,471361,27,MissedShots,0.905,0.701999969482422,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Pass
+285,Serie_A,471364,38,MissedShots,0.801999969482422,0.653000030517578,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Pass
+286,Serie_A,471365,42,BlockedShot,0.799000015258789,0.695999984741211,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Pass
+287,Serie_A,471366,45,SavedShot,0.881999969482422,0.485,Hirving Lozano,h,7999,OpenPlay,2021,LeftFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,,None
+288,Serie_A,471367,47,MissedShots,0.93,0.382999992370605,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Giovanni Di Lorenzo,Cross
+289,Serie_A,471368,49,MissedShots,0.98,0.349000015258789,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Cross
+290,Serie_A,471369,53,Goal,0.93,0.572000007629395,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Fabián,Pass
+291,Serie_A,471370,57,MissedShots,0.810999984741211,0.612000007629395,Fabián,h,2447,OpenPlay,2021,LeftFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Lorenzo Insigne,Pass
+292,Serie_A,471375,79,MissedShots,0.895,0.407000007629395,Giovanni Di Lorenzo,h,6978,FromCorner,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Matteo Politano,Pass
+293,Serie_A,456259,88,MissedShots,0.968000030517578,0.620999984741211,Giovanni Di Lorenzo,a,6978,FromCorner,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Faouzi Ghoulam,Cross
+294,Serie_A,456261,91,SavedShot,0.873000030517578,0.288999996185303,Andrea Petagna,a,1493,OpenPlay,2021,LeftFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Eljif Elmas,Pass
+295,Serie_A,456263,99,SavedShot,0.878000030517578,0.676999969482422,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Andrea Petagna,Pass
+296,Serie_A,456264,99,Goal,0.895999984741211,0.527999992370605,Andrea Petagna,a,1493,OpenPlay,2021,LeftFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,,Rebound
+297,Serie_A,457155,6,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,,Standard
+298,Serie_A,457156,11,ShotOnPost,0.819000015258789,0.519000015258789,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Lorenzo Insigne,Pass
+299,Serie_A,457157,15,BlockedShot,0.873000030517578,0.324000015258789,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,,TakeOn
+300,Serie_A,457158,26,MissedShots,0.911999969482422,0.313999996185303,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Giovanni Di Lorenzo,Pass
+301,Serie_A,457159,28,MissedShots,0.894000015258789,0.520999984741211,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,,None
+302,Serie_A,457160,29,BlockedShot,0.868000030517578,0.686999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Fabián,Chipped
+303,Serie_A,457161,29,BlockedShot,0.86,0.612000007629395,Victor Osimhen,h,5322,OpenPlay,2021,LeftFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,,Rebound
+304,Serie_A,448529,26,MissedShots,0.765999984741211,0.437000007629395,Adam Ounas,h,3259,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Diego Demme,Pass
+305,Serie_A,448530,29,MissedShots,0.794000015258789,0.412000007629395,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,HeadPass
+306,Serie_A,448533,33,BlockedShot,0.799000015258789,0.372000007629395,Hirving Lozano,h,7999,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,Pass
+307,Serie_A,448535,41,SavedShot,0.883000030517578,0.283999996185303,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Giovanni Di Lorenzo,Throughball
+308,Serie_A,448536,44,MissedShots,0.858000030517578,0.738000030517578,Lorenzo Insigne,h,1393,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,BallRecovery
+309,Serie_A,448537,45,SavedShot,0.770999984741211,0.766999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,Throughball
+310,Serie_A,448539,46,MissedShots,0.954000015258789,0.365999984741211,Lorenzo Insigne,h,1393,FromCorner,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,None
+311,Serie_A,448540,46,MissedShots,0.91,0.462999992370605,Juan Jesus,h,1247,FromCorner,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,Rebound
+312,Serie_A,448541,49,BlockedShot,0.901999969482422,0.4,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Adam Ounas,Pass
+313,Serie_A,448542,49,SavedShot,0.790999984741211,0.41,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,Rebound
+314,Serie_A,448544,52,BlockedShot,0.86,0.714000015258789,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Lorenzo Insigne,LayOff
+315,Serie_A,452622,83,MissedShots,0.823000030517578,0.497999992370605,Dries Mertens,h,1384,OpenPlay,2021,LeftFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Stanislav Lobotka,Pass
+316,Serie_A,452623,86,MissedShots,0.900999984741211,0.303999996185303,Matteo Politano,h,1473,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Dries Mertens,Pass
+317,Serie_A,452624,89,BlockedShot,0.793000030517578,0.550999984741211,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16961,Napoli,Sampdoria,1,0,2022-01-09 15:30:00,Stanislav Lobotka,Pass
+318,Serie_A,453871,1,BlockedShot,0.79,0.705999984741211,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Mário Rui,TakeOn
+319,Serie_A,453872,5,SavedShot,0.903000030517578,0.55,Hirving Lozano,a,7999,OpenPlay,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Fabián,Throughball
+320,Serie_A,453873,16,MissedShots,0.9,0.442999992370605,Eljif Elmas,a,7912,SetPiece,2021,Head,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Mário Rui,Foul
+321,Serie_A,453874,18,BlockedShot,0.828000030517578,0.627000007629395,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Eljif Elmas,Pass
+322,Serie_A,453875,19,Goal,0.903000030517578,0.490999984741211,Hirving Lozano,a,7999,OpenPlay,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Eljif Elmas,Pass
+323,Serie_A,453880,38,SavedShot,0.851999969482422,0.720999984741211,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Piotr Zielinski,Pass
+324,Serie_A,453882,44,ShotOnPost,0.758000030517578,0.464000015258789,Fabián,a,2447,OpenPlay,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Dries Mertens,Pass
+325,Serie_A,453883,44,MissedShots,0.868000030517578,0.67,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,,Rebound
+326,Serie_A,460542,65,MissedShots,0.965999984741211,0.457999992370605,Amir Rrahmani,a,7924,FromCorner,2021,Head,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Matteo Politano,Cross
+327,Serie_A,460543,68,SavedShot,0.856999969482422,0.520999984741211,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,,None
+328,Serie_A,460544,73,MissedShots,0.884000015258789,0.277000007629395,Victor Osimhen,a,5322,OpenPlay,2021,LeftFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Eljif Elmas,Pass
+329,Serie_A,460545,79,SavedShot,0.778000030517578,0.387000007629395,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Eljif Elmas,Chipped
+330,Serie_A,460548,90,BlockedShot,0.875,0.497999992370605,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Giovanni Di Lorenzo,Pass
+331,Serie_A,460549,93,Goal,0.780999984741211,0.555,Fabián,a,2447,OpenPlay,2021,LeftFoot,17020,Lazio,Napoli,1,2,2022-02-27 19:45:00,Lorenzo Insigne,Pass
+332,Serie_A,461889,1,MissedShots,0.89,0.560999984741211,Amir Rrahmani,h,7924,FromCorner,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,Victor Osimhen,None
+333,Serie_A,461890,9,BlockedShot,0.748000030517578,0.595,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,Lorenzo Insigne,Pass
+334,Serie_A,461891,19,MissedShots,0.868000030517578,0.34,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,Giovanni Di Lorenzo,Pass
+335,Serie_A,461897,50,SavedShot,0.824000015258789,0.562999992370605,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,Giovanni Di Lorenzo,Pass
+336,Serie_A,461902,70,MissedShots,0.768000030517578,0.525999984741211,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,17032,Napoli,AC Milan,0,1,2022-03-06 19:45:00,,None
+337,Serie_A,454942,13,BlockedShot,0.745999984741211,0.627999992370605,Dries Mertens,h,1384,DirectFreekick,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,Standard
+338,Serie_A,454943,16,Goal,0.893000030517578,0.54,Juan Jesus,h,1247,FromCorner,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Eljif Elmas,BallTouch
+339,Serie_A,454944,21,MissedShots,0.971999969482422,0.417000007629395,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Mário Rui,Pass
+340,Serie_A,454945,30,SavedShot,0.724000015258789,0.437000007629395,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Piotr Zielinski,Pass
+341,Serie_A,454947,37,SavedShot,0.756999969482422,0.557000007629395,Fabián,h,2447,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Piotr Zielinski,Pass
+342,Serie_A,454948,41,BlockedShot,0.786999969482422,0.695999984741211,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,BallRecovery
+343,Serie_A,454949,44,BlockedShot,0.858000030517578,0.670999984741211,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Mário Rui,TakeOn
+344,Serie_A,454951,46,MissedShots,0.909000015258789,0.335,Dries Mertens,h,1384,FromCorner,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Piotr Zielinski,HeadPass
+345,Serie_A,454952,46,Goal,0.96,0.509000015258789,Amir Rrahmani,h,7924,FromCorner,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Dries Mertens,Rebound
+346,Serie_A,454950,48,Goal,0.885,0.5,Dries Mertens,h,1384,Penalty,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,Standard
+347,Serie_A,454953,50,BlockedShot,0.913000030517578,0.701999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Stanislav Lobotka,Pass
+348,Serie_A,432948,55,SavedShot,0.805999984741211,0.387999992370605,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Hirving Lozano,Pass
+349,Serie_A,432950,57,MissedShots,0.839000015258789,0.695,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Mário Rui,Pass
+350,Serie_A,432951,58,Goal,0.870999984741211,0.425,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Hirving Lozano,Pass
+351,Serie_A,432953,63,MissedShots,0.885999984741211,0.649000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Lorenzo Insigne,Pass
+352,Serie_A,432955,76,SavedShot,0.774000015258789,0.595,Hirving Lozano,a,7999,SetPiece,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Mário Rui,Pass
+353,Serie_A,432957,80,BlockedShot,0.853000030517578,0.766999969482422,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Matteo Politano,Pass
+354,Serie_A,432958,84,SavedShot,0.875999984741211,0.595,Adam Ounas,a,3259,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Andrea Petagna,TakeOn
+355,Serie_A,432959,84,MissedShots,0.791999969482422,0.512000007629395,Franck Zambo,a,6434,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,,None
+356,Serie_A,432960,88,BlockedShot,0.733000030517578,0.430999984741211,Fabián,a,2447,OpenPlay,2021,LeftFoot,16803,Sampdoria,Napoli,0,4,2021-09-23 16:30:00,Giovanni Di Lorenzo,Pass
+357,Serie_A,434382,10,Goal,0.961999969482422,0.45,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Piotr Zielinski,Pass
+358,Serie_A,434385,23,MissedShots,0.816999969482422,0.292000007629395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Fabián,BallRecovery
+359,Serie_A,440479,60,Goal,0.891999969482422,0.405999984741211,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,Rebound
+360,Serie_A,440480,64,BlockedShot,0.759000015258789,0.622999992370605,Fabián,a,2447,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,BallRecovery
+361,Serie_A,440481,72,BlockedShot,0.861999969482422,0.624000015258789,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,TakeOn
+362,Serie_A,440482,73,BlockedShot,0.906999969482422,0.658000030517578,Eljif Elmas,a,7912,FromCorner,2021,RightFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Mário Rui,TakeOn
+363,Serie_A,440485,88,SavedShot,0.854000015258789,0.615,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Mário Rui,Pass
+364,Serie_A,440486,88,SavedShot,0.740999984741211,0.429000015258789,Fabián,a,2447,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,Aerial
+365,Serie_A,440487,90,MissedShots,0.773000030517578,0.708000030517578,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Fabián,Pass
+366,Serie_A,441931,8,MissedShots,0.891999969482422,0.587999992370606,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Mário Rui,Cross
+367,Serie_A,441935,14,MissedShots,0.855999984741211,0.475999984741211,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Piotr Zielinski,Pass
+368,Serie_A,441936,17,Goal,0.915,0.337000007629395,Giovanni Di Lorenzo,h,6978,SetPiece,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Fabián,Pass
+369,Serie_A,441938,26,MissedShots,0.985,0.420999984741211,Matteo Politano,h,1473,OpenPlay,2021,Head,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Lorenzo Insigne,Aerial
+370,Serie_A,432347,30,ShotOnPost,0.716999969482422,0.617000007629395,Fabián,a,2447,OpenPlay,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Lorenzo Insigne,Pass
+371,Serie_A,432348,34,MissedShots,0.924000015258789,0.634000015258789,Kalidou Koulibaly,a,1376,SetPiece,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Fabián,Chipped
+372,Serie_A,432349,34,Goal,0.966999969482422,0.492000007629395,Amir Rrahmani,a,7924,SetPiece,2021,Head,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Kalidou Koulibaly,Rebound
+373,Serie_A,432351,48,BlockedShot,0.981999969482422,0.307999992370605,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Franck Zambo,Cross
+374,Serie_A,432352,51,Goal,0.861999969482422,0.602999992370605,Kalidou Koulibaly,a,1376,FromCorner,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Fabián,Pass
+375,Serie_A,432353,56,BlockedShot,0.798000030517578,0.432999992370605,Mário Rui,a,1792,DirectFreekick,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,,Standard
+376,Serie_A,432354,60,MissedShots,0.770999984741211,0.312999992370605,Lorenzo Insigne,a,1393,DirectFreekick,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,,Standard
+377,Serie_A,432355,61,SavedShot,0.924000015258789,0.515,Franck Zambo,a,6434,SetPiece,2021,Head,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Matteo Politano,Cross
+378,Serie_A,432356,67,MissedShots,0.9,0.673000030517578,Victor Osimhen,a,5322,OpenPlay,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Lorenzo Insigne,Throughball
+379,Serie_A,432357,68,SavedShot,0.954000015258789,0.567000007629395,Amir Rrahmani,a,7924,FromCorner,2021,Head,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Matteo Politano,Cross
+380,Serie_A,432359,79,SavedShot,0.810999984741211,0.703000030517578,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Fabián,Pass
+381,Serie_A,453884,46,Goal,0.959000015258789,0.500999984741211,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Fabián,TakeOn
+382,Serie_A,453885,55,SavedShot,0.815999984741211,0.33,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Dries Mertens,Chipped
+383,Serie_A,453886,64,BlockedShot,0.86,0.654000015258789,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Stanislav Lobotka,Pass
+384,Serie_A,453887,65,MissedShots,0.791999969482422,0.405999984741211,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,,None
+385,Serie_A,453894,86,MissedShots,0.855999984741211,0.462000007629395,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,Diego Demme,TakeOn
+386,Serie_A,453896,94,MissedShots,0.753000030517578,0.442000007629395,Mário Rui,a,1792,DirectFreekick,2021,LeftFoot,16967,Bologna,Napoli,0,2,2022-01-17 17:30:00,,Standard
+387,Serie_A,454937,2,SavedShot,0.893000030517578,0.567000007629395,Piotr Zielinski,h,1386,OpenPlay,2021,Head,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Dries Mertens,Throughball
+388,Serie_A,454938,5,SavedShot,0.794000015258789,0.273999996185303,Mário Rui,h,1792,DirectFreekick,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,Standard
+389,Serie_A,454939,10,SavedShot,0.749000015258789,0.494000015258789,Fabián,h,2447,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Dries Mertens,Pass
+390,Serie_A,454940,11,BlockedShot,0.885999984741211,0.276000003814697,Fabián,h,2447,FromCorner,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,None
+391,Serie_A,454941,11,SavedShot,0.871999969482422,0.450999984741211,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Giovanni Di Lorenzo,Pass
+392,Serie_A,438575,59,BlockedShot,0.935999984741211,0.604000015258789,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,,None
+393,Serie_A,438576,62,ShotOnPost,0.925999984741211,0.439000015258789,Victor Osimhen,a,5322,FromCorner,2021,Head,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Piotr Zielinski,Aerial
+394,Serie_A,438581,72,BlockedShot,0.750999984741211,0.445,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Franck Zambo,Pass
+395,Serie_A,438583,82,SavedShot,0.778000030517578,0.723000030517578,Eljif Elmas,a,7912,OpenPlay,2021,RightFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,Amir Rrahmani,TakeOn
+396,Serie_A,439228,9,BlockedShot,0.875999984741211,0.585,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Victor Osimhen,Pass
+397,Serie_A,439229,9,SavedShot,0.843000030517578,0.595999984741211,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,,Rebound
+398,Serie_A,439230,14,MissedShots,0.873000030517578,0.637000007629395,Lorenzo Insigne,h,1393,OpenPlay,2021,LeftFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Victor Osimhen,Pass
+399,Serie_A,439231,15,SavedShot,0.811999969482422,0.724000015258789,Lorenzo Insigne,h,1393,FromCorner,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Fabián,Chipped
+400,Serie_A,439233,17,Goal,0.76,0.507999992370605,Fabián,h,2447,OpenPlay,2021,LeftFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Eljif Elmas,Pass
+401,Serie_A,439234,22,MissedShots,0.855999984741211,0.355,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Mário Rui,Pass
+402,Serie_A,439235,24,MissedShots,0.746999969482422,0.681999969482422,Franck Zambo,h,6434,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Lorenzo Insigne,Pass
+403,Serie_A,441957,91,BlockedShot,0.726999969482422,0.582000007629395,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Hirving Lozano,Pass
+404,Serie_A,443466,16,Goal,0.816999969482422,0.445,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Lorenzo Insigne,Pass
+405,Serie_A,443471,33,BlockedShot,0.906999969482422,0.422999992370605,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Hirving Lozano,Cross
+406,Serie_A,443473,38,MissedShots,0.938000030517578,0.517999992370605,Victor Osimhen,a,5322,OpenPlay,2021,Head,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Hirving Lozano,Aerial
+407,Serie_A,443481,59,BlockedShot,0.816999969482422,0.515999984741211,Fabián,a,2447,OpenPlay,2021,LeftFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Piotr Zielinski,Pass
+408,Serie_A,443484,77,Goal,0.76,0.427000007629395,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Kalidou Koulibaly,Tackle
+409,Serie_A,443485,82,MissedShots,0.878000030517578,0.465999984741211,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Giovanni Di Lorenzo,Pass
+410,Serie_A,443486,83,MissedShots,0.805,0.464000015258789,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,,Rebound
+411,Serie_A,443488,90,SavedShot,0.928000030517578,0.620999984741211,Mário Rui,a,1792,OpenPlay,2021,Head,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Giovanni Di Lorenzo,Cross
+412,Serie_A,443489,96,MissedShots,0.908000030517578,0.580999984741211,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Franck Zambo,Cross
+413,Serie_A,444936,6,Goal,0.873000030517578,0.469000015258789,Piotr Zielinski,h,1386,OpenPlay,2021,LeftFoot,16890,Napoli,Lazio,4,0,2021-11-28 19:45:00,,None
+414,Serie_A,430043,65,MissedShots,0.884000015258789,0.257000007629395,Adam Ounas,h,3259,FromCorner,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Matteo Politano,Pass
+415,Serie_A,430044,65,BlockedShot,0.750999984741211,0.721999969482422,Fabián,h,2447,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Victor Osimhen,BallTouch
+416,Serie_A,430046,70,BlockedShot,0.875,0.705999984741211,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Fabián,Pass
+417,Serie_A,430047,74,MissedShots,0.736999969482422,0.502000007629395,Fabián,h,2447,SetPiece,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,None
+418,Serie_A,430048,81,MissedShots,0.764000015258789,0.711999969482422,Hirving Lozano,h,7999,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Fabián,Pass
+419,Serie_A,430049,84,Goal,0.98,0.497999992370605,Kalidou Koulibaly,h,1376,FromCorner,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,None
+420,Serie_A,430050,87,MissedShots,0.900999984741211,0.317999992370605,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Fabián,Pass
+421,Serie_A,432341,12,SavedShot,0.865,0.614000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Mário Rui,Chipped
+422,Serie_A,432342,14,MissedShots,0.736999969482422,0.59,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Mário Rui,Pass
+423,Serie_A,432345,23,BlockedShot,0.849000015258789,0.749000015258789,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Mário Rui,Throughball
+424,Serie_A,432346,23,Goal,0.99,0.509000015258789,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16794,Udinese,Napoli,0,4,2021-09-20 18:45:00,Lorenzo Insigne,None
+425,Serie_A,449973,42,BlockedShot,0.805,0.709000015258789,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Eljif Elmas,Pass
+426,Serie_A,449974,42,MissedShots,0.823000030517578,0.412000007629395,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Giovanni Di Lorenzo,BallTouch
+427,Serie_A,449977,51,SavedShot,0.893000030517578,0.557000007629395,Amir Rrahmani,a,7924,FromCorner,2021,Head,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Piotr Zielinski,Aerial
+428,Serie_A,449979,65,BlockedShot,0.775,0.45,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Piotr Zielinski,Pass
+429,Serie_A,449982,76,MissedShots,0.840999984741211,0.425,Andrea Petagna,a,1493,OpenPlay,2021,LeftFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Kevin Malcuit,Pass
+430,Serie_A,450333,1,MissedShots,0.868000030517578,0.350999984741211,Piotr Zielinski,h,1386,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Amir Rrahmani,Pass
+431,Serie_A,450336,16,MissedShots,0.725,0.278999996185303,Franck Zambo,h,6434,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,,None
+432,Serie_A,450338,26,MissedShots,0.815,0.312000007629395,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Giovanni Di Lorenzo,Pass
+433,Serie_A,450340,29,SavedShot,0.945,0.665,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Mário Rui,Cross
+434,Serie_A,450341,30,MissedShots,0.871999969482422,0.62,Amir Rrahmani,h,7924,FromCorner,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Piotr Zielinski,Cross
+435,Serie_A,450342,32,SavedShot,0.974000015258789,0.653000030517578,Dries Mertens,h,1384,FromCorner,2021,RightFoot,16941,Napoli,Spezia,0,1,2021-12-22 19:45:00,Piotr Zielinski,TakeOn
+436,Serie_A,454954,52,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,Standard
+437,Serie_A,454955,55,SavedShot,0.864000015258789,0.414000015258789,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Fabián,TakeOn
+438,Serie_A,454956,59,BlockedShot,0.786999969482422,0.414000015258789,Fabián,h,2447,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Eljif Elmas,Pass
+439,Serie_A,454957,66,BlockedShot,0.870999984741211,0.267999992370605,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Amir Rrahmani,Pass
+440,Serie_A,454958,69,SavedShot,0.894000015258789,0.455,Amir Rrahmani,h,7924,SetPiece,2021,Head,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Lorenzo Insigne,Cross
+441,Serie_A,454959,71,BlockedShot,0.819000015258789,0.515999984741211,Victor Osimhen,h,5322,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Piotr Zielinski,Pass
+442,Serie_A,454960,79,MissedShots,0.871999969482422,0.587999992370606,Piotr Zielinski,h,1386,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Matteo Politano,Pass
+443,Serie_A,454961,81,SavedShot,0.866999969482422,0.474000015258789,Piotr Zielinski,h,1386,OpenPlay,2021,RightFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,,None
+444,Serie_A,454962,83,SavedShot,0.95,0.377999992370605,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Lorenzo Insigne,Throughball
+445,Serie_A,454963,87,MissedShots,0.924000015258789,0.447000007629395,Victor Osimhen,h,5322,FromCorner,2021,Head,16983,Napoli,Salernitana,4,1,2022-01-23 14:00:00,Faouzi Ghoulam,Cross
+446,Serie_A,456242,2,BlockedShot,0.814000015258789,0.492000007629395,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,16995,Venezia,Napoli,0,2,2022-02-06 14:00:00,Piotr Zielinski,Pass
+447,Serie_A,441941,36,MissedShots,0.746999969482422,0.382000007629395,Franck Zambo,h,6434,OpenPlay,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Victor Osimhen,Pass
+448,Serie_A,441942,37,BlockedShot,0.813000030517578,0.480999984741211,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Piotr Zielinski,Pass
+449,Serie_A,441943,37,BlockedShot,0.856999969482422,0.711999969482422,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Fabián,Pass
+450,Serie_A,441944,41,ShotOnPost,0.905,0.432999992370605,Victor Osimhen,h,5322,OpenPlay,2021,LeftFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Matteo Politano,Pass
+451,Serie_A,441945,53,BlockedShot,0.779000015258789,0.372999992370605,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Lorenzo Insigne,Pass
+452,Serie_A,441948,64,MissedShots,0.835,0.439000015258789,Hirving Lozano,h,7999,OpenPlay,2021,LeftFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Victor Osimhen,Pass
+453,Serie_A,441950,68,BlockedShot,0.68,0.382000007629395,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Hirving Lozano,Pass
+454,Serie_A,441951,69,MissedShots,0.759000015258789,0.17,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,,Standard
+455,Serie_A,441952,72,BlockedShot,0.695,0.557000007629395,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,,Standard
+456,Serie_A,441953,73,BlockedShot,0.85,0.679000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,Franck Zambo,Pass
+457,Serie_A,441956,90,ShotOnPost,0.73,0.56,Dries Mertens,h,1384,DirectFreekick,2021,RightFoot,16871,Napoli,Verona,1,1,2021-11-07 17:00:00,,Standard
+458,Serie_A,439237,33,MissedShots,0.971999969482422,0.664000015258789,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Franck Zambo,Pass
+459,Serie_A,439238,40,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,,Standard
+460,Serie_A,439240,57,MissedShots,0.793000030517578,0.365,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Hirving Lozano,Pass
+461,Serie_A,439241,58,MissedShots,0.888000030517578,0.282000007629395,Giovanni Di Lorenzo,h,6978,OpenPlay,2021,LeftFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Lorenzo Insigne,TakeOn
+462,Serie_A,439242,61,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,,Standard
+463,Serie_A,439244,72,ShotOnPost,0.696999969482422,0.457999992370605,Franck Zambo,h,6434,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Giovanni Di Lorenzo,Pass
+464,Serie_A,439245,73,MissedShots,0.843000030517578,0.594000015258789,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Mário Rui,Pass
+465,Serie_A,439247,79,BlockedShot,0.765,0.557999992370605,Fabián,h,2447,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Dries Mertens,Pass
+466,Serie_A,439248,82,SavedShot,0.900999984741211,0.509000015258789,Victor Osimhen,h,5322,OpenPlay,2021,Head,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Diego Demme,Aerial
+467,Serie_A,439251,85,BlockedShot,0.865999984741211,0.699000015258789,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Piotr Zielinski,Pass
+468,Serie_A,439252,86,MissedShots,0.915999984741211,0.450999984741211,Victor Osimhen,h,5322,FromCorner,2021,Head,16851,Napoli,Bologna,3,0,2021-10-28 18:45:00,Matteo Politano,Cross
+469,Serie_A,429374,78,BlockedShot,0.725,0.665999984741211,Kalidou Koulibaly,a,1376,OpenPlay,2021,LeftFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Mário Rui,BallRecovery
+470,Serie_A,429375,80,SavedShot,0.860999984741211,0.306000003814697,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Giovanni Di Lorenzo,TakeOn
+471,Serie_A,429376,83,Goal,0.920999984741211,0.587999992370606,Andrea Petagna,a,1493,SetPiece,2021,Head,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Mário Rui,Cross
+472,Serie_A,429378,96,SavedShot,0.859000015258789,0.703000030517578,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16773,Genoa,Napoli,1,2,2021-08-29 16:30:00,Kalidou Koulibaly,Chipped
+473,Serie_A,430018,0,MissedShots,0.911999969482422,0.559000015258789,Matteo Politano,h,1473,OpenPlay,2021,Head,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Lorenzo Insigne,Chipped
+474,Serie_A,430019,1,BlockedShot,0.948000030517578,0.664000015258789,Giovanni Di Lorenzo,h,6978,FromCorner,2021,Head,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Lorenzo Insigne,Aerial
+475,Serie_A,430020,6,BlockedShot,0.845,0.630999984741211,Eljif Elmas,h,7912,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Lorenzo Insigne,Pass
+476,Serie_A,430021,7,MissedShots,0.946999969482422,0.643000030517578,Franck Zambo,h,6434,FromCorner,2021,Head,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Lorenzo Insigne,Aerial
+477,Serie_A,430023,12,SavedShot,0.915,0.469000015258789,Victor Osimhen,h,5322,FromCorner,2021,Head,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Matteo Politano,Aerial
+478,Serie_A,430025,20,BlockedShot,0.728000030517578,0.417000007629395,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Franck Zambo,Pass
+479,Serie_A,430026,21,BlockedShot,0.813000030517578,0.327999992370605,Matteo Politano,h,1473,FromCorner,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Eljif Elmas,Pass
+480,Serie_A,463088,70,Goal,0.925,0.477000007629395,Victor Osimhen,a,5322,OpenPlay,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Giovanni Di Lorenzo,Pass
+481,Serie_A,463089,74,BlockedShot,0.794000015258789,0.287999992370605,Eljif Elmas,a,7912,FromCorner,2021,LeftFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Fabián,Pass
+482,Serie_A,463092,86,SavedShot,0.975999984741211,0.425,Eljif Elmas,a,7912,SetPiece,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,,None
+483,Serie_A,463093,86,MissedShots,0.955,0.407000007629395,Giovanni Di Lorenzo,a,6978,OpenPlay,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Eljif Elmas,Tackle
+484,Serie_A,463094,88,ShotOnPost,0.800999984741211,0.678000030517578,Mário Rui,a,1792,OpenPlay,2021,RightFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,Eljif Elmas,Pass
+485,Serie_A,463095,91,MissedShots,0.805999984741211,0.495,Eljif Elmas,a,7912,OpenPlay,2021,LeftFoot,17038,Verona,Napoli,1,2,2022-03-13 14:00:00,,BallRecovery
+486,Serie_A,463891,12,SavedShot,0.905,0.44,Kalidou Koulibaly,h,1376,FromCorner,2021,Head,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Matteo Politano,Cross
+487,Serie_A,463893,19,MissedShots,0.913000030517578,0.554000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,Head,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Matteo Politano,Cross
+488,Serie_A,463897,31,SavedShot,0.8,0.691999969482422,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Kalidou Koulibaly,Chipped
+489,Serie_A,463898,36,MissedShots,0.783000030517578,0.211000003814697,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Fabián,Pass
+490,Serie_A,463899,39,SavedShot,0.870999984741211,0.600999984741211,Fabián,h,2447,OpenPlay,2021,LeftFoot,17052,Napoli,Udinese,2,1,2022-03-19 14:00:00,Franck Zambo,Pass
+491,Serie_A,451837,13,BlockedShot,0.873000030517578,0.349000015258789,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Piotr Zielinski,Pass
+492,Serie_A,451838,13,BlockedShot,0.801999969482422,0.587999992370606,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Diego Demme,BallRecovery
+493,Serie_A,451839,14,MissedShots,0.744000015258789,0.440999984741211,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Stanislav Lobotka,Pass
+494,Serie_A,451841,19,BlockedShot,0.754000015258789,0.515,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Stanislav Lobotka,Pass
+495,Serie_A,451842,22,Goal,0.865,0.397000007629395,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Matteo Politano,Pass
+496,Serie_A,451843,24,BlockedShot,0.946999969482422,0.377000007629395,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Giovanni Di Lorenzo,Pass
+497,Serie_A,451846,37,SavedShot,0.803000030517578,0.499000015258789,Piotr Zielinski,a,1386,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Lorenzo Insigne,Pass
+498,Serie_A,451847,37,MissedShots,0.808000030517578,0.522000007629395,Matteo Politano,a,1473,FromCorner,2021,LeftFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Lorenzo Insigne,Pass
+499,Serie_A,451852,44,MissedShots,0.805,0.532999992370605,Dries Mertens,a,1384,DirectFreekick,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,,Standard
+500,Serie_A,451857,55,BlockedShot,0.849000015258789,0.427999992370605,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Lorenzo Insigne,Pass
+501,Serie_A,451858,58,MissedShots,0.730999984741211,0.6,Lorenzo Insigne,a,1393,OpenPlay,2021,RightFoot,16949,Juventus,Napoli,1,1,2022-01-06 19:45:00,Faouzi Ghoulam,Pass
+502,Serie_A,446455,42,MissedShots,0.805,0.703000030517578,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Eljif Elmas,Pass
+503,Serie_A,446456,43,MissedShots,0.735999984741211,0.547000007629394,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Piotr Zielinski,Pass
+504,Serie_A,446457,46,Goal,0.869000015258789,0.365,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Kevin Malcuit,Throughball
+505,Serie_A,446460,53,MissedShots,0.690999984741211,0.372000007629395,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Giovanni Di Lorenzo,Pass
+506,Serie_A,446465,76,MissedShots,0.889000015258789,0.278999996185303,Kevin Malcuit,h,3632,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Giovanni Di Lorenzo,TakeOn
+507,Serie_A,446469,86,SavedShot,0.881999969482422,0.163999996185303,Mário Rui,h,1792,DirectFreekick,2021,LeftFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,,Standard
+508,Serie_A,446471,92,BlockedShot,0.865999984741211,0.534000015258789,Mário Rui,h,1792,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,Matteo Politano,Pass
+509,Serie_A,446472,92,MissedShots,0.908000030517578,0.48,Andrea Petagna,h,1493,OpenPlay,2021,RightFoot,16911,Napoli,Atalanta,2,3,2021-12-04 19:45:00,,Rebound
+510,Serie_A,448526,20,MissedShots,0.840999984741211,0.327999992370605,Dries Mertens,h,1384,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Hirving Lozano,Pass
+511,Serie_A,448527,22,BlockedShot,0.783000030517578,0.615999984741211,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Lorenzo Insigne,Pass
+512,Serie_A,448528,22,ShotOnPost,0.788000030517578,0.459000015258789,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Hirving Lozano,Pass
+513,Serie_A,448562,82,BlockedShot,0.91,0.460999984741211,Franck Zambo,h,6434,FromCorner,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Juan Jesus,None
+514,Serie_A,448563,83,SavedShot,0.801999969482422,0.38,Adam Ounas,h,3259,FromCorner,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,None
+515,Serie_A,448564,83,BlockedShot,0.905999984741211,0.542999992370605,Andrea Petagna,h,1493,OpenPlay,2021,RightFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Mário Rui,Cross
+516,Serie_A,448565,86,MissedShots,0.975999984741211,0.579000015258789,Amir Rrahmani,h,7924,FromCorner,2021,Head,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,Lorenzo Insigne,Aerial
+517,Serie_A,448566,89,MissedShots,0.976999969482422,0.382999992370605,Adam Ounas,h,3259,OpenPlay,2021,LeftFoot,16920,Napoli,Empoli,0,1,2021-12-12 17:00:00,,TakeOn
+518,Serie_A,449963,4,Goal,0.965,0.439000015258789,Eljif Elmas,a,7912,FromCorner,2021,Head,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Piotr Zielinski,Cross
+519,Serie_A,449964,7,BlockedShot,0.954000015258789,0.58,Amir Rrahmani,a,7924,FromCorner,2021,Head,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Piotr Zielinski,Cross
+520,Serie_A,449965,7,BlockedShot,0.89,0.512999992370605,Franck Zambo,a,6434,FromCorner,2021,RightFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,,Rebound
+521,Serie_A,449969,30,BlockedShot,0.760999984741211,0.432999992370605,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Franck Zambo,Pass
+522,Serie_A,449971,41,BlockedShot,0.838000030517578,0.357999992370605,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Juan Jesus,Aerial
+523,Serie_A,449972,41,BlockedShot,0.86,0.407999992370605,Hirving Lozano,a,7999,OpenPlay,2021,LeftFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,,Rebound
+524,Serie_A,430029,36,BlockedShot,0.856999969482422,0.721999969482422,Fabián,h,2447,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Lorenzo Insigne,Pass
+525,Serie_A,430030,36,MissedShots,0.871999969482422,0.557000007629395,Eljif Elmas,h,7912,OpenPlay,2021,Head,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Giovanni Di Lorenzo,Chipped
+526,Serie_A,430033,45,SavedShot,0.805999984741211,0.69,Kalidou Koulibaly,h,1376,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,None
+527,Serie_A,430034,49,BlockedShot,0.86,0.560999984741211,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Franck Zambo,Pass
+528,Serie_A,430035,52,BlockedShot,0.76,0.287999992370605,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,Standard
+529,Serie_A,430036,56,SavedShot,0.819000015258789,0.685999984741211,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Fabián,Pass
+530,Serie_A,430037,56,Goal,0.979000015258789,0.422000007629395,Matteo Politano,h,1473,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,Rebound
+531,Serie_A,430039,59,SavedShot,0.890999984741211,0.653000030517578,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,None
+532,Serie_A,430040,61,MissedShots,0.799000015258789,0.674000015258789,Adam Ounas,h,3259,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,,None
+533,Serie_A,430041,61,MissedShots,0.815999984741211,0.625999984741211,Mário Rui,h,1792,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Lorenzo Insigne,Pass
+534,Serie_A,430042,64,BlockedShot,0.869000015258789,0.258999996185303,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16781,Napoli,Juventus,2,1,2021-09-11 16:00:00,Giovanni Di Lorenzo,Pass
+535,Serie_A,434386,26,MissedShots,0.714000015258789,0.407000007629395,Fabián,h,2447,OpenPlay,2021,LeftFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Giovanni Di Lorenzo,Pass
+536,Serie_A,434387,28,MissedShots,0.888000030517578,0.545999984741211,Victor Osimhen,h,5322,SetPiece,2021,Head,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Matteo Politano,Cross
+537,Serie_A,434388,32,BlockedShot,0.745999984741211,0.649000015258789,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Mário Rui,HeadPass
+538,Serie_A,434389,36,SavedShot,0.879000015258789,0.295,Matteo Politano,h,1473,OpenPlay,2021,LeftFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Victor Osimhen,Aerial
+539,Serie_A,434390,43,MissedShots,0.703000030517578,0.427999992370605,Piotr Zielinski,h,1386,FromCorner,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,,Aerial
+540,Serie_A,434392,50,BlockedShot,0.88,0.753000030517578,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Mário Rui,Pass
+541,Serie_A,434393,51,MissedShots,0.77,0.460999984741211,Matteo Politano,h,1473,FromCorner,2021,LeftFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Lorenzo Insigne,Chipped
+542,Serie_A,434394,52,SavedShot,0.73,0.44,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Piotr Zielinski,Pass
+543,Serie_A,434395,56,Goal,0.885,0.5,Lorenzo Insigne,h,1393,Penalty,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,,Standard
+544,Serie_A,434396,60,SavedShot,0.704000015258789,0.729000015258789,Lorenzo Insigne,h,1393,DirectFreekick,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,,Standard
+545,Serie_A,434398,63,MissedShots,0.861999969482422,0.472000007629395,Piotr Zielinski,h,1386,OpenPlay,2021,RightFoot,16815,Napoli,Cagliari,2,0,2021-09-26 18:45:00,Lorenzo Insigne,Pass
+546,Serie_A,457162,30,MissedShots,0.956999969482422,0.610999984741211,Amir Rrahmani,h,7924,FromCorner,2021,Head,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Lorenzo Insigne,Aerial
+547,Serie_A,457167,54,SavedShot,0.873000030517578,0.34,Victor Osimhen,h,5322,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,,BallRecovery
+548,Serie_A,457168,54,MissedShots,0.915,0.624000015258789,Amir Rrahmani,h,7924,FromCorner,2021,Head,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Piotr Zielinski,Aerial
+549,Serie_A,457171,68,SavedShot,0.955,0.420999984741211,Eljif Elmas,h,7912,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Victor Osimhen,BallTouch
+550,Serie_A,457172,68,MissedShots,0.958000030517578,0.574000015258789,Amir Rrahmani,h,7924,FromCorner,2021,Head,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Lorenzo Insigne,Aerial
+551,Serie_A,457173,78,SavedShot,0.775999984741211,0.665,Lorenzo Insigne,h,1393,OpenPlay,2021,RightFoot,17002,Napoli,Inter,1,1,2022-02-12 17:00:00,Kalidou Koulibaly,Pass
+552,Serie_A,459102,9,SavedShot,0.864000015258789,0.382999992370605,Giovanni Di Lorenzo,a,6978,OpenPlay,2021,LeftFoot,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,,None
+553,Serie_A,459103,10,MissedShots,0.968000030517578,0.494000015258789,Amir Rrahmani,a,7924,FromCorner,2021,RightFoot,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,,None
+554,Serie_A,459108,33,SavedShot,0.74,0.527000007629395,Mário Rui,a,1792,OpenPlay,2021,RightFoot,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,Juan Jesus,TakeOn
+555,Serie_A,459109,37,BlockedShot,0.85,0.454000015258789,Dries Mertens,a,1384,OpenPlay,2021,RightFoot,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,Andrea Petagna,Pass
+556,Serie_A,459110,49,MissedShots,0.719000015258789,0.602000007629395,Piotr Zielinski,a,1386,DirectFreekick,2021,RightFoot,17007,Cagliari,Napoli,1,1,2022-02-21 18:00:00,,Standard
+557,Serie_A,440462,3,BlockedShot,0.789000015258789,0.377000007629395,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Franck Zambo,TakeOn
+558,Serie_A,440463,3,MissedShots,0.789000015258789,0.337999992370605,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Piotr Zielinski,Pass
+559,Serie_A,440464,6,MissedShots,0.945999984741211,0.442999992370605,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,None
+560,Serie_A,440465,9,MissedShots,0.949000015258789,0.549000015258789,Hirving Lozano,a,7999,OpenPlay,2021,Head,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,Aerial
+561,Serie_A,440466,17,BlockedShot,0.868000030517578,0.648000030517578,Piotr Zielinski,a,1386,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Dries Mertens,HeadPass
+562,Serie_A,440468,34,BlockedShot,0.910999984741211,0.580999984741211,Matteo Politano,a,1473,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Mário Rui,Pass
+563,Serie_A,440469,35,MissedShots,0.905,0.500999984741211,Franck Zambo,a,6434,FromCorner,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Piotr Zielinski,Cross
+564,Serie_A,440471,37,MissedShots,0.721999969482422,0.698000030517578,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Franck Zambo,Pass
+565,Serie_A,440472,43,MissedShots,0.810999984741211,0.75,Hirving Lozano,a,7999,OpenPlay,2021,RightFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Piotr Zielinski,Pass
+566,Serie_A,440477,60,ShotOnPost,0.945999984741211,0.474000015258789,Andrea Petagna,a,1493,OpenPlay,2021,Head,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Piotr Zielinski,Chipped
+567,Serie_A,440478,60,MissedShots,0.853000030517578,0.684000015258789,Mário Rui,a,1792,OpenPlay,2021,LeftFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,Rebound

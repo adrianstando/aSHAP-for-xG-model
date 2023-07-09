@@ -1,0 +1,456 @@
+,league,id,minute,result,X,Y,player,h_a,player_id,situation,season,shotType,match_id,home_team,away_team,home_goals,away_goals,date,player_assisted,lastAction
+0,Ligue_1,454704,69,MissedShots,0.74,0.612999992370605,Jonathan Bamba,a,3749,OpenPlay,2021,LeftFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Benjamin André,TakeOn
+1,Ligue_1,454705,75,MissedShots,0.754000015258789,0.447000007629395,Amadou Onana,a,9667,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,,BallRecovery
+2,Ligue_1,454706,80,MissedShots,0.811999969482422,0.334000015258789,Benjamin André,a,3223,OpenPlay,2021,LeftFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,José Fonte,Pass
+3,Ligue_1,454707,82,BlockedShot,0.903000030517578,0.703000030517578,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Sven Botman,Pass
+4,Ligue_1,454709,85,MissedShots,0.729000015258789,0.510999984741211,Sven Botman,a,8635,OpenPlay,2021,LeftFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,José Fonte,Pass
+5,Ligue_1,454710,87,SavedShot,0.879000015258789,0.469000015258789,Hatem Ben Arfa,a,3638,OpenPlay,2021,LeftFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Jonathan Christian David,None
+6,Ligue_1,454711,92,MissedShots,0.921999969482422,0.385,Jonathan Christian David,a,8636,FromCorner,2021,Head,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Hatem Ben Arfa,BallTouch
+7,Ligue_1,456391,6,BlockedShot,0.92,0.342000007629395,Hatem Ben Arfa,h,3638,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,None
+8,Ligue_1,456392,7,MissedShots,0.905,0.482999992370605,Amadou Onana,h,9667,FromCorner,2021,Head,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Jonathan Bamba,Aerial
+9,Ligue_1,429542,46,MissedShots,0.841999969482422,0.622999992370605,Angel Gomes,a,5598,OpenPlay,2021,RightFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,Jonathan Ikone,Pass
+10,Ligue_1,429545,62,BlockedShot,0.758000030517578,0.625,Yusuf Yazici,a,7756,OpenPlay,2021,LeftFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,Jonathan Ikone,Pass
+11,Ligue_1,429546,62,MissedShots,0.924000015258789,0.454000015258789,Sven Botman,a,8635,FromCorner,2021,Head,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,José Fonte,HeadPass
+12,Ligue_1,429547,66,SavedShot,0.805999984741211,0.33,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,Benjamin André,Chipped
+13,Ligue_1,429550,70,BlockedShot,0.735999984741211,0.257000007629395,Xeka,a,5704,OpenPlay,2021,RightFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,José Fonte,BallRecovery
+14,Ligue_1,429551,71,SavedShot,0.969000015258789,0.462000007629395,Sven Botman,a,8635,FromCorner,2021,Head,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,Yusuf Yazici,Cross
+15,Ligue_1,429556,80,MissedShots,0.803000030517578,0.271000003814697,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,Jonathan Christian David,Pass
+16,Ligue_1,431439,12,BlockedShot,0.860999984741211,0.420999984741211,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17876,Lens,Lille,1,0,2021-09-18 15:00:00,Mehmet Zeki Çelik,Pass
+17,Ligue_1,431441,18,BlockedShot,0.816999969482422,0.454000015258789,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17876,Lens,Lille,1,0,2021-09-18 15:00:00,,BallRecovery
+18,Ligue_1,457147,76,Goal,0.930999984741211,0.472000007629395,Xeka,a,5704,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,,Rebound
+19,Ligue_1,457148,80,MissedShots,0.729000015258789,0.66,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Timothy Weah,Pass
+20,Ligue_1,457149,81,MissedShots,0.791999969482422,0.555,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Jonathan Christian David,Pass
+21,Ligue_1,457150,89,MissedShots,0.910999984741211,0.590999984741211,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Xeka,Pass
+22,Ligue_1,457151,92,SavedShot,0.85,0.713000030517578,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Benjamin André,Pass
+23,Ligue_1,457153,94,SavedShot,0.904000015258789,0.355999984741211,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,,None
+24,Ligue_1,457999,8,MissedShots,0.726999969482422,0.643000030517578,Xeka,h,5704,FromCorner,2021,LeftFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,,Aerial
+25,Ligue_1,458001,12,MissedShots,0.915,0.479000015258789,Sven Botman,h,8635,FromCorner,2021,Head,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Jonathan Bamba,Aerial
+26,Ligue_1,458002,19,BlockedShot,0.881999969482422,0.452000007629395,Sven Botman,h,8635,FromCorner,2021,Head,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Jonathan Bamba,Aerial
+27,Ligue_1,444189,63,SavedShot,0.850999984741211,0.738000030517578,Reinildo,h,7432,OpenPlay,2021,RightFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Jonathan Ikone,TakeOn
+28,Ligue_1,444190,63,BlockedShot,0.87,0.267000007629395,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,,Rebound
+29,Ligue_1,444191,74,MissedShots,0.903000030517578,0.477999992370605,Burak Yilmaz,h,8637,FromCorner,2021,Head,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Jonathan Bamba,Aerial
+30,Ligue_1,444192,76,BlockedShot,0.925,0.482000007629395,Yusuf Yazici,h,7756,OpenPlay,2021,OtherBodyPart,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Timothy Weah,Cross
+31,Ligue_1,444193,79,SavedShot,0.885,0.5,Jonathan Christian David,h,8636,Penalty,2021,RightFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,,Standard
+32,Ligue_1,444194,82,BlockedShot,0.949000015258789,0.43,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Mehmet Zeki Çelik,Pass
+33,Ligue_1,444195,82,MissedShots,0.871999969482422,0.605,Benjamin André,h,3223,FromCorner,2021,Head,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Renato Sanches,Cross
+34,Ligue_1,444196,93,BlockedShot,0.895,0.454000015258789,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,LeftFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,,None
+35,Ligue_1,445505,19,BlockedShot,0.869000015258789,0.267000007629395,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17979,Rennes,Lille,1,2,2021-12-01 20:00:00,Renato Sanches,Pass
+36,Ligue_1,471952,46,MissedShots,0.959000015258789,0.490999984741211,José Fonte,a,834,FromCorner,2021,Head,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,,Aerial
+37,Ligue_1,471950,47,MissedShots,0.965,0.592999992370606,José Fonte,a,834,FromCorner,2021,Head,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Edon Zhegrova,Cross
+38,Ligue_1,471955,60,MissedShots,0.874000015258789,0.509000015258789,Jonathan Christian David,a,8636,OpenPlay,2021,Head,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Gabriel Gudmundsson,Aerial
+39,Ligue_1,471958,65,MissedShots,0.925999984741211,0.464000015258789,José Fonte,a,834,SetPiece,2021,Head,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Angel Gomes,Cross
+40,Ligue_1,471960,82,BlockedShot,0.8,0.545999984741211,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Timothy Weah,Pass
+41,Ligue_1,472828,6,MissedShots,0.920999984741211,0.689000015258789,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Tiago Djaló,Pass
+42,Ligue_1,472829,8,SavedShot,0.808000030517578,0.552999992370605,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,,TakeOn
+43,Ligue_1,472830,11,BlockedShot,0.905,0.291000003814697,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Timothy Weah,Pass
+44,Ligue_1,472831,11,SavedShot,0.88,0.449000015258789,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,,Rebound
+45,Ligue_1,462254,47,MissedShots,0.935999984741211,0.527999992370605,Amadou Onana,h,9667,OpenPlay,2021,Head,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Gabriel Gudmundsson,Cross
+46,Ligue_1,462256,53,BlockedShot,0.964000015258789,0.670999984741211,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Jonathan Christian David,Pass
+47,Ligue_1,462260,79,MissedShots,0.715,0.352999992370605,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Amadou Onana,Pass
+48,Ligue_1,462261,84,BlockedShot,0.875,0.535999984741211,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,,None
+49,Ligue_1,462262,88,SavedShot,0.793000030517578,0.28,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Burak Yilmaz,Pass
+50,Ligue_1,464241,6,MissedShots,0.731999969482422,0.34,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Jonathan Christian David,Pass
+51,Ligue_1,464243,16,SavedShot,0.779000015258789,0.615,Angel Gomes,a,5598,OpenPlay,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Jonathan Bamba,Pass
+52,Ligue_1,464244,18,BlockedShot,0.735999984741211,0.434000015258789,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Angel Gomes,Pass
+53,Ligue_1,464245,19,BlockedShot,0.876999969482422,0.404000015258789,Xeka,a,5704,OpenPlay,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,,None
+54,Ligue_1,469219,15,MissedShots,0.935,0.532000007629394,Angel Gomes,a,5598,OpenPlay,2021,Head,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Mehmet Zeki Çelik,Cross
+55,Ligue_1,469220,17,MissedShots,0.768000030517578,0.27,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Amadou Onana,Pass
+56,Ligue_1,469221,27,MissedShots,0.78,0.389000015258789,Angel Gomes,a,5598,OpenPlay,2021,LeftFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Edon Zhegrova,Pass
+57,Ligue_1,469222,29,BlockedShot,0.751999969482422,0.302000007629395,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Mehmet Zeki Çelik,Pass
+58,Ligue_1,469225,36,BlockedShot,0.830999984741211,0.710999984741211,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Renato Sanches,Chipped
+59,Ligue_1,469226,38,SavedShot,0.745999984741211,0.6,Renato Sanches,a,5228,DirectFreekick,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,Standard
+60,Ligue_1,469227,42,BlockedShot,0.881999969482422,0.427000007629395,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,TakeOn
+61,Ligue_1,469228,43,MissedShots,0.790999984741211,0.530999984741211,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,Aerial
+62,Ligue_1,469231,55,BlockedShot,0.859000015258789,0.689000015258789,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Benjamin André,Chipped
+63,Ligue_1,435606,14,SavedShot,0.91,0.360999984741211,Jonathan Ikone,h,5661,OpenPlay,2021,RightFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Jonathan Christian David,Pass
+64,Ligue_1,435607,16,MissedShots,0.913000030517578,0.472999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Jonathan Christian David,Pass
+65,Ligue_1,435609,27,Goal,0.973000030517578,0.475999984741211,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,,None
+66,Ligue_1,435613,52,MissedShots,0.890999984741211,0.664000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Jonathan Bamba,Throughball
+67,Ligue_1,435615,63,BlockedShot,0.921999969482422,0.645,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,,None
+68,Ligue_1,435616,72,ShotOnPost,0.913000030517578,0.512999992370605,Jonathan Ikone,h,5661,OpenPlay,2021,RightFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Timothy Weah,Pass
+69,Ligue_1,435617,73,MissedShots,0.966999969482422,0.479000015258789,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Burak Yilmaz,Pass
+70,Ligue_1,435618,75,ShotOnPost,0.801999969482422,0.464000015258789,Jonathan Ikone,h,5661,OpenPlay,2021,LeftFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Burak Yilmaz,Pass
+71,Ligue_1,435619,75,SavedShot,0.718000030517578,0.660999984741211,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Xeka,Pass
+72,Ligue_1,435621,81,MissedShots,0.918000030517578,0.267000007629395,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Mehmet Zeki Çelik,Pass
+73,Ligue_1,435623,94,SavedShot,0.831999969482422,0.292000007629395,Yusuf Yazici,h,7756,FromCorner,2021,LeftFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,,BallRecovery
+74,Ligue_1,435624,94,Goal,0.923000030517578,0.54,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,17904,Lille,Marseille,2,0,2021-10-03 15:00:00,Timothy Weah,Pass
+75,Ligue_1,436323,8,MissedShots,0.963000030517578,0.465999984741211,Tiago Djaló,a,7754,FromCorner,2021,Head,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Xeka,Aerial
+76,Ligue_1,436327,34,SavedShot,0.818000030517578,0.475999984741211,Xeka,a,5704,OpenPlay,2021,RightFoot,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,,None
+77,Ligue_1,436329,42,MissedShots,0.95,0.545999984741211,Jonathan Bamba,a,3749,FromCorner,2021,Head,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Xeka,Aerial
+78,Ligue_1,436331,49,BlockedShot,0.876999969482422,0.51,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Jonathan Ikone,HeadPass
+79,Ligue_1,436332,50,MissedShots,0.956999969482422,0.584000015258789,Jonathan Bamba,a,3749,FromCorner,2021,Head,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Xeka,Cross
+80,Ligue_1,436335,68,BlockedShot,0.808000030517578,0.678000030517578,Gabriel Gudmundsson,a,9944,OpenPlay,2021,RightFoot,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Amadou Onana,Pass
+81,Ligue_1,467342,61,MissedShots,0.88,0.615,Jonathan Bamba,a,3749,OpenPlay,2021,Head,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Mehmet Zeki Çelik,Aerial
+82,Ligue_1,467344,67,BlockedShot,0.79,0.342000007629395,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Xeka,Pass
+83,Ligue_1,467346,69,BlockedShot,0.848000030517578,0.370999984741211,José Fonte,a,834,SetPiece,2021,RightFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Chipped
+84,Ligue_1,467348,72,BlockedShot,0.76,0.415999984741211,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,,None
+85,Ligue_1,467349,73,Goal,0.815999984741211,0.32,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Mehmet Zeki Çelik,Pass
+86,Ligue_1,467351,77,BlockedShot,0.86,0.394000015258789,Renato Sanches,a,5228,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Mehmet Zeki Çelik,Pass
+87,Ligue_1,467352,79,SavedShot,0.860999984741211,0.482000007629395,José Fonte,a,834,FromCorner,2021,Head,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Aerial
+88,Ligue_1,467353,84,MissedShots,0.738000030517578,0.417999992370605,Mehmet Zeki Çelik,a,6872,OpenPlay,2021,RightFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Burak Yilmaz,Pass
+89,Ligue_1,467354,85,BlockedShot,0.809000015258789,0.367000007629395,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Renato Sanches,TakeOn
+90,Ligue_1,450510,32,Goal,0.713000030517578,0.457000007629395,Benjamin André,a,3223,OpenPlay,2021,RightFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Sven Botman,Pass
+91,Ligue_1,450513,52,BlockedShot,0.775,0.464000015258789,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Burak Yilmaz,Pass
+92,Ligue_1,450514,54,MissedShots,0.74,0.357999992370605,Benjamin André,a,3223,OpenPlay,2021,LeftFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,,BallRecovery
+93,Ligue_1,450515,55,MissedShots,0.906999969482422,0.584000015258789,Benjamin André,a,3223,FromCorner,2021,Head,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Jonathan Bamba,Cross
+94,Ligue_1,450516,58,MissedShots,0.860999984741211,0.472999992370605,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Jonathan Christian David,Pass
+95,Ligue_1,450518,73,BlockedShot,0.788000030517578,0.632999992370605,Gabriel Gudmundsson,a,9944,OpenPlay,2021,LeftFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Sven Botman,Pass
+96,Ligue_1,450519,76,Goal,0.885,0.5,Burak Yilmaz,a,8637,Penalty,2021,RightFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,,Standard
+97,Ligue_1,450523,83,Goal,0.891999969482422,0.447000007629395,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Isaac Lihadji,Pass
+98,Ligue_1,453821,14,SavedShot,0.764000015258789,0.345999984741211,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,18023,Marseille,Lille,1,1,2022-01-16 19:45:00,,None
+99,Ligue_1,469241,77,MissedShots,0.89,0.452000007629395,José Fonte,a,834,FromCorner,2021,Head,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Domagoj Bradaric,Aerial
+100,Ligue_1,469245,88,SavedShot,0.935,0.404000015258789,Gabriel Gudmundsson,a,9944,OpenPlay,2021,LeftFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,TakeOn
+101,Ligue_1,470711,2,SavedShot,0.955999984741211,0.263999996185303,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,BallRecovery
+102,Ligue_1,470714,15,BlockedShot,0.846999969482422,0.7,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,Jonathan Christian David,Pass
+103,Ligue_1,470717,27,MissedShots,0.721999969482422,0.557999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,Renato Sanches,BallRecovery
+104,Ligue_1,470718,30,MissedShots,0.905999984741211,0.425,Sven Botman,h,8635,FromCorner,2021,Head,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,Aerial
+105,Ligue_1,470720,41,MissedShots,0.925999984741211,0.317999992370605,Renato Sanches,h,5228,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,None
+106,Ligue_1,470723,52,MissedShots,0.754000015258789,0.7,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,Timothy Weah,Pass
+107,Ligue_1,470725,64,MissedShots,0.784000015258789,0.673000030517578,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,Jonathan Christian David,Pass
+108,Ligue_1,476078,60,Goal,0.975999984741211,0.524000015258789,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,18187,Nice,Lille,1,3,2022-05-14 19:00:00,,None
+109,Ligue_1,476084,94,Goal,0.951999969482422,0.432999992370605,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18187,Nice,Lille,1,3,2022-05-14 19:00:00,Isaac Lihadji,TakeOn
+110,Ligue_1,477487,10,Goal,0.985999984741211,0.482000007629395,Timothy Weah,h,6601,OpenPlay,2021,Head,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,,BlockedPass
+111,Ligue_1,477490,16,SavedShot,0.905999984741211,0.639000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,Head,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Jonathan Christian David,Cross
+112,Ligue_1,477491,26,BlockedShot,0.759000015258789,0.520999984741211,Jonathan Bamba,h,3749,OpenPlay,2021,LeftFoot,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Timothy Weah,Pass
+113,Ligue_1,477496,49,BlockedShot,0.916999969482422,0.434000015258789,Benjamin André,h,3223,FromCorner,2021,OtherBodyPart,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Renato Sanches,Rebound
+114,Ligue_1,477497,49,BlockedShot,0.750999984741211,0.714000015258789,Timothy Weah,h,6601,FromCorner,2021,RightFoot,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Burak Yilmaz,Pass
+115,Ligue_1,477498,52,MissedShots,0.913000030517578,0.635,Mehmet Zeki Çelik,h,6872,FromCorner,2021,RightFoot,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,José Fonte,BallTouch
+116,Ligue_1,477499,61,BlockedShot,0.905,0.472999992370605,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Burak Yilmaz,Pass
+117,Ligue_1,477500,62,MissedShots,0.92,0.46,Sven Botman,h,8635,FromCorner,2021,Head,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Jonathan Bamba,Aerial
+118,Ligue_1,477502,70,MissedShots,0.913000030517578,0.469000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,Head,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Timothy Weah,Cross
+119,Ligue_1,477503,77,BlockedShot,0.774000015258789,0.72,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Amadou Onana,Pass
+120,Ligue_1,477507,87,Goal,0.905999984741211,0.482000007629395,Timothy Weah,h,6601,OpenPlay,2021,Head,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Mehmet Zeki Çelik,Cross
+121,Ligue_1,477508,91,MissedShots,0.865999984741211,0.474000015258789,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18193,Lille,Rennes,2,2,2022-05-21 19:00:00,Edon Zhegrova,Chipped
+122,Ligue_1,465483,62,MissedShots,0.815999984741211,0.544000015258789,Jonathan Christian David,h,8636,FromCorner,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,CornerAwarded
+123,Ligue_1,465484,65,MissedShots,0.771999969482422,0.557000007629395,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,None
+124,Ligue_1,465485,68,SavedShot,0.925999984741211,0.569000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Gabriel Gudmundsson,Cross
+125,Ligue_1,465486,69,SavedShot,0.925,0.350999984741211,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Benjamin André,TakeOn
+126,Ligue_1,465487,69,BlockedShot,0.901999969482422,0.417000007629395,Amadou Onana,h,9667,FromCorner,2021,Head,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Jonathan Bamba,Aerial
+127,Ligue_1,465488,69,MissedShots,0.955999984741211,0.495,Burak Yilmaz,h,8637,FromCorner,2021,Head,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Amadou Onana,Rebound
+128,Ligue_1,465489,70,SavedShot,0.780999984741211,0.602000007629395,Jonathan Christian David,h,8636,FromCorner,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,Aerial
+129,Ligue_1,465490,77,MissedShots,0.845999984741211,0.560999984741211,Gabriel Gudmundsson,h,9944,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,BlockedPass
+130,Ligue_1,465491,84,MissedShots,0.784000015258789,0.302999992370605,Hatem Ben Arfa,h,3638,DirectFreekick,2021,LeftFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,Standard
+131,Ligue_1,445506,19,MissedShots,0.730999984741211,0.554000015258789,Reinildo,a,7432,OpenPlay,2021,RightFoot,17979,Rennes,Lille,1,2,2021-12-01 20:00:00,,TakeOn
+132,Ligue_1,445508,26,MissedShots,0.734000015258789,0.701999969482422,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17979,Rennes,Lille,1,2,2021-12-01 20:00:00,Renato Sanches,Pass
+133,Ligue_1,445509,30,Goal,0.900999984741211,0.475,Xeka,a,5704,OpenPlay,2021,LeftFoot,17979,Rennes,Lille,1,2,2021-12-01 20:00:00,Timothy Weah,Pass
+134,Ligue_1,445510,44,Goal,0.888000030517578,0.724000015258789,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,17979,Rennes,Lille,1,2,2021-12-01 20:00:00,,None
+135,Ligue_1,445514,68,BlockedShot,0.848000030517578,0.562999992370605,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,17979,Rennes,Lille,1,2,2021-12-01 20:00:00,Reinildo,Pass
+136,Ligue_1,446419,15,MissedShots,0.726999969482422,0.429000015258789,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Benjamin André,Pass
+137,Ligue_1,446421,27,SavedShot,0.924000015258789,0.5,Reinildo,h,7432,FromCorner,2021,Head,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Xeka,Cross
+138,Ligue_1,446422,27,MissedShots,0.975999984741211,0.577000007629395,Burak Yilmaz,h,8637,FromCorner,2021,LeftFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,,Rebound
+139,Ligue_1,446423,35,MissedShots,0.905,0.612000007629395,Tiago Djaló,h,7754,FromCorner,2021,LeftFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,,None
+140,Ligue_1,454688,12,SavedShot,0.860999984741211,0.460999984741211,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Timothy Weah,Pass
+141,Ligue_1,454689,14,MissedShots,0.925,0.322000007629395,Tiago Djaló,a,7754,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Timothy Weah,Pass
+142,Ligue_1,454693,34,BlockedShot,0.893000030517578,0.637000007629395,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Jonathan Bamba,BallTouch
+143,Ligue_1,454694,36,MissedShots,0.756999969482422,0.535999984741211,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Jonathan Christian David,TakeOn
+144,Ligue_1,454695,40,BlockedShot,0.919000015258789,0.405999984741211,José Fonte,a,834,FromCorner,2021,Head,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Renato Sanches,Aerial
+145,Ligue_1,454696,41,BlockedShot,0.971999969482422,0.510999984741211,Burak Yilmaz,a,8637,FromCorner,2021,Head,18034,Brest,Lille,2,0,2022-01-22 16:00:00,José Fonte,Aerial
+146,Ligue_1,454697,45,SavedShot,0.894000015258789,0.43,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Timothy Weah,Pass
+147,Ligue_1,454701,63,MissedShots,0.805999984741211,0.359000015258789,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Sven Botman,Pass
+148,Ligue_1,454703,66,SavedShot,0.746999969482422,0.68,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,Sven Botman,Pass
+149,Ligue_1,425396,6,MissedShots,0.709000015258789,0.387999992370605,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,,TakeOn
+150,Ligue_1,425397,9,MissedShots,0.931999969482422,0.519000015258789,Jonathan Christian David,a,8636,OpenPlay,2021,Head,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Jonathan Bamba,Pass
+151,Ligue_1,425399,22,Goal,0.958000030517578,0.537000007629394,Sven Botman,a,8635,FromCorner,2021,Head,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Yusuf Yazici,Cross
+152,Ligue_1,425403,35,SavedShot,0.849000015258789,0.297000007629395,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Renato Sanches,Pass
+153,Ligue_1,425404,37,BlockedShot,0.916999969482422,0.650999984741211,Jonathan Bamba,a,3749,OpenPlay,2021,LeftFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Burak Yilmaz,Pass
+154,Ligue_1,425408,58,ShotOnPost,0.92,0.507000007629395,Sven Botman,a,8635,SetPiece,2021,Head,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Yusuf Yazici,Cross
+155,Ligue_1,425409,63,BlockedShot,0.88,0.570999984741211,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,,None
+156,Ligue_1,425410,63,BlockedShot,0.804000015258789,0.292000007629395,Mehmet Zeki Çelik,a,6872,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Renato Sanches,Pass
+157,Ligue_1,425411,63,MissedShots,0.791999969482422,0.425999984741211,Mehmet Zeki Çelik,a,6872,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Jonathan Ikone,Pass
+158,Ligue_1,425412,66,MissedShots,0.850999984741211,0.761999969482422,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Sven Botman,Pass
+159,Ligue_1,425415,80,Goal,0.863000030517578,0.53,Jonathan Ikone,a,5661,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Isaac Lihadji,Pass
+160,Ligue_1,425416,82,SavedShot,0.763000030517578,0.721999969482422,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Isaac Lihadji,Pass
+161,Ligue_1,425417,85,SavedShot,0.791999969482422,0.4,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Jonathan Bamba,Pass
+162,Ligue_1,425418,87,MissedShots,0.805,0.311000003814697,Timothy Weah,a,6601,OpenPlay,2021,LeftFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Benjamin André,BallTouch
+163,Ligue_1,425420,91,SavedShot,0.780999984741211,0.670999984741211,Isaac Lihadji,a,7717,FromCorner,2021,RightFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Jonathan Bamba,Pass
+164,Ligue_1,425421,91,MissedShots,0.881999969482422,0.477999992370605,José Fonte,a,834,FromCorner,2021,Head,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Jonathan Bamba,Aerial
+165,Ligue_1,425422,94,BlockedShot,0.736999969482422,0.714000015258789,Isaac Lihadji,a,7717,OpenPlay,2021,LeftFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Jonathan Ikone,Pass
+166,Ligue_1,425425,96,Goal,0.978000030517578,0.63,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17830,Metz,Lille,3,3,2021-08-08 15:00:00,Isaac Lihadji,Pass
+167,Ligue_1,470726,65,SavedShot,0.775,0.750999984741211,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,None
+168,Ligue_1,470727,68,BlockedShot,0.749000015258789,0.690999984741211,Gabriel Gudmundsson,h,9944,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,BallTouch
+169,Ligue_1,470729,76,BlockedShot,0.779000015258789,0.754000015258789,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,BallRecovery
+170,Ligue_1,470732,86,Goal,0.915999984741211,0.425,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,LeftFoot,18153,Lille,Strasbourg,1,0,2022-04-24 15:05:00,,None
+171,Ligue_1,471944,23,MissedShots,0.645999984741211,0.705,Gabriel Gudmundsson,a,9944,OpenPlay,2021,LeftFoot,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Renato Sanches,Pass
+172,Ligue_1,471945,27,BlockedShot,0.845,0.615,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,José Fonte,Cross
+173,Ligue_1,471946,28,SavedShot,0.78,0.833000030517578,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Burak Yilmaz,Pass
+174,Ligue_1,471948,33,MissedShots,0.768000030517578,0.63,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Edon Zhegrova,Pass
+175,Ligue_1,471951,46,BlockedShot,0.933000030517578,0.472999992370605,Benjamin André,a,3223,FromCorner,2021,RightFoot,18169,Troyes,Lille,3,0,2022-05-01 11:00:00,Renato Sanches,Cross
+176,Ligue_1,468468,52,SavedShot,0.785,0.72,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Amadou Onana,Pass
+177,Ligue_1,468469,60,MissedShots,0.831999969482422,0.669000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,LeftFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Renato Sanches,Pass
+178,Ligue_1,468470,62,BlockedShot,0.860999984741211,0.462000007629395,Benjamin André,h,3223,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Mehmet Zeki Çelik,Cross
+179,Ligue_1,468471,62,MissedShots,0.819000015258789,0.560999984741211,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,,Rebound
+180,Ligue_1,468472,65,ShotOnPost,0.859000015258789,0.355999984741211,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Amadou Onana,Pass
+181,Ligue_1,468473,68,BlockedShot,0.765,0.61,Domagoj Bradaric,h,7755,OpenPlay,2021,LeftFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Edon Zhegrova,Pass
+182,Ligue_1,468476,89,SavedShot,0.856999969482422,0.535999984741211,Benjamin André,h,3223,OpenPlay,2021,Head,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Jérémy Pied,Cross
+183,Ligue_1,468477,90,BlockedShot,0.701999969482422,0.624000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Domagoj Bradaric,Pass
+184,Ligue_1,468478,90,SavedShot,0.853000030517578,0.420999984741211,Benjamin André,h,3223,OpenPlay,2021,LeftFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,,Rebound
+185,Ligue_1,469232,56,Goal,0.729000015258789,0.464000015258789,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Angel Gomes,Pass
+186,Ligue_1,469233,59,SavedShot,0.938000030517578,0.365999984741211,Amadou Onana,a,9667,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Mehmet Zeki Çelik,Pass
+187,Ligue_1,469234,62,BlockedShot,0.848000030517578,0.322000007629395,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,BallTouch
+188,Ligue_1,469235,62,MissedShots,0.745,0.713000030517578,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Amadou Onana,Pass
+189,Ligue_1,469236,63,MissedShots,0.876999969482422,0.764000015258789,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Jonathan Bamba,Pass
+190,Ligue_1,469237,68,SavedShot,0.894000015258789,0.34,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Mehmet Zeki Çelik,Dispossessed
+191,Ligue_1,469238,73,MissedShots,0.725,0.555,Renato Sanches,a,5228,DirectFreekick,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,Standard
+192,Ligue_1,469239,76,MissedShots,0.768000030517578,0.375,Edon Zhegrova,a,10328,OpenPlay,2021,LeftFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,,None
+193,Ligue_1,469240,76,BlockedShot,0.718000030517578,0.505,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18149,Reims,Lille,2,1,2022-04-20 17:00:00,Mehmet Zeki Çelik,Pass
+194,Ligue_1,433718,39,BlockedShot,0.9,0.848000030517578,Xeka,a,5704,DirectFreekick,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,Standard
+195,Ligue_1,433720,46,MissedShots,0.813000030517578,0.442999992370605,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,LayOff
+196,Ligue_1,433721,46,SavedShot,0.886999969482422,0.577999992370606,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Jonathan Ikone,Pass
+197,Ligue_1,433722,52,BlockedShot,0.745999984741211,0.365,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Jonathan Christian David,Pass
+198,Ligue_1,433723,56,Goal,0.885,0.5,Jonathan Christian David,a,8636,Penalty,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,Standard
+199,Ligue_1,433725,70,MissedShots,0.961999969482422,0.545,Jonathan Christian David,a,8636,OpenPlay,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,Aerial
+200,Ligue_1,433728,87,BlockedShot,0.86,0.367000007629395,José Fonte,a,834,FromCorner,2021,Head,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Yusuf Yazici,Aerial
+201,Ligue_1,433729,88,SavedShot,0.589000015258789,0.939000015258789,Yusuf Yazici,a,7756,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Gabriel Gudmundsson,Pass
+202,Ligue_1,433730,93,MissedShots,0.92,0.555,Timothy Weah,a,6601,OpenPlay,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Yusuf Yazici,Pass
+203,Ligue_1,446424,36,BlockedShot,0.816999969482422,0.445999984741211,Jonathan Ikone,h,5661,OpenPlay,2021,LeftFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Mehmet Zeki Çelik,HeadPass
+204,Ligue_1,446425,44,MissedShots,0.906999969482422,0.542999992370605,Jonathan Ikone,h,5661,OpenPlay,2021,Head,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Jonathan Bamba,Cross
+205,Ligue_1,446427,46,MissedShots,0.803000030517578,0.352999992370605,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,,None
+206,Ligue_1,446426,47,BlockedShot,0.954000015258789,0.37,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Renato Sanches,Cross
+207,Ligue_1,446428,47,Goal,0.871999969482422,0.577000007629395,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Benjamin André,Throughball
+208,Ligue_1,446430,55,SavedShot,0.849000015258789,0.442000007629395,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Burak Yilmaz,Pass
+209,Ligue_1,446431,55,MissedShots,0.935,0.664000015258789,Reinildo,h,7432,FromCorner,2021,Head,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Jonathan Bamba,Aerial
+210,Ligue_1,446432,56,SavedShot,0.763000030517578,0.527000007629395,Jonathan Ikone,h,5661,OpenPlay,2021,LeftFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Mehmet Zeki Çelik,Pass
+211,Ligue_1,446434,77,MissedShots,0.873000030517578,0.713000030517578,Jonathan Bamba,h,3749,OpenPlay,2021,LeftFoot,17982,Lille,Troyes,2,1,2021-12-04 18:00:00,Renato Sanches,Pass
+212,Ligue_1,457124,5,BlockedShot,0.854000015258789,0.725999984741211,Angel Gomes,a,5598,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,,None
+213,Ligue_1,457130,25,MissedShots,0.803000030517578,0.295,Mehmet Zeki Çelik,a,6872,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,,None
+214,Ligue_1,457133,32,SavedShot,0.881999969482422,0.713000030517578,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,,None
+215,Ligue_1,457134,32,MissedShots,0.875999984741211,0.377000007629395,Mehmet Zeki Çelik,a,6872,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Angel Gomes,Pass
+216,Ligue_1,457135,33,MissedShots,0.699000015258789,0.489000015258789,Xeka,a,5704,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Gabriel Gudmundsson,Pass
+217,Ligue_1,457136,42,SavedShot,0.878000030517578,0.569000015258789,Tiago Djaló,a,7754,SetPiece,2021,Head,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Jonathan Bamba,Cross
+218,Ligue_1,457138,50,BlockedShot,0.778000030517578,0.357000007629395,Jonathan Bamba,a,3749,OpenPlay,2021,LeftFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Jonathan Christian David,Pass
+219,Ligue_1,457139,57,SavedShot,0.750999984741211,0.332000007629395,Jonathan Bamba,a,3749,DirectFreekick,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,,Standard
+220,Ligue_1,457146,76,MissedShots,0.776999969482422,0.349000015258789,Benjamin André,a,3223,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Angel Gomes,Pass
+221,Ligue_1,472832,18,MissedShots,0.879000015258789,0.542000007629394,Gabriel Gudmundsson,h,9944,OpenPlay,2021,Head,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,,None
+222,Ligue_1,472834,28,MissedShots,0.765999984741211,0.379000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Jonathan Christian David,Pass
+223,Ligue_1,472838,44,BlockedShot,0.773000030517578,0.434000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Timothy Weah,Pass
+224,Ligue_1,472841,49,BlockedShot,0.903000030517578,0.337999992370605,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Jonathan Christian David,Pass
+225,Ligue_1,472842,64,MissedShots,0.788000030517578,0.422000007629395,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Timothy Weah,Pass
+226,Ligue_1,472843,68,Goal,0.911999969482422,0.627000007629395,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Jonathan Bamba,TakeOn
+227,Ligue_1,472844,70,SavedShot,0.79,0.390999984741211,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Amadou Onana,Pass
+228,Ligue_1,472845,71,MissedShots,0.724000015258789,0.415,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Angel Gomes,Pass
+229,Ligue_1,472847,76,MissedShots,0.943000030517578,0.684000015258789,Timothy Weah,h,6601,OpenPlay,2021,LeftFoot,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Angel Gomes,Pass
+230,Ligue_1,464246,26,MissedShots,0.895,0.549000015258789,José Fonte,a,834,FromCorner,2021,Head,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Jonathan Bamba,Aerial
+231,Ligue_1,464249,31,BlockedShot,0.876999969482422,0.432999992370605,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Timothy Weah,Cross
+232,Ligue_1,464251,40,SavedShot,0.918000030517578,0.467000007629395,José Fonte,a,834,FromCorner,2021,Head,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Jonathan Bamba,Aerial
+233,Ligue_1,464252,40,Goal,0.974000015258789,0.455999984741211,Amadou Onana,a,9667,FromCorner,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,,Rebound
+234,Ligue_1,464254,49,SavedShot,0.911999969482422,0.691999969482422,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Angel Gomes,Pass
+235,Ligue_1,464255,54,BlockedShot,0.743000030517578,0.445,Xeka,a,5704,DirectFreekick,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,,Standard
+236,Ligue_1,464256,57,MissedShots,0.974000015258789,0.312999992370605,Timothy Weah,a,6601,OpenPlay,2021,LeftFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,,None
+237,Ligue_1,464257,60,BlockedShot,0.745999984741211,0.527000007629395,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,18111,Nantes,Lille,0,1,2022-03-19 20:00:00,Amadou Onana,TakeOn
+238,Ligue_1,465471,2,SavedShot,0.93,0.395999984741211,Burak Yilmaz,h,8637,SetPiece,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,Aerial
+239,Ligue_1,448069,85,MissedShots,0.963000030517578,0.569000015258789,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,None
+240,Ligue_1,448071,90,BlockedShot,0.919000015258789,0.627000007629395,Amadou Onana,h,9667,OpenPlay,2021,RightFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,Burak Yilmaz,Chipped
+241,Ligue_1,448072,91,MissedShots,0.945,0.430999984741211,José Fonte,h,834,FromCorner,2021,Head,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,Angel Gomes,Cross
+242,Ligue_1,448073,92,MissedShots,0.925999984741211,0.502999992370605,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,Mehmet Zeki Çelik,Cross
+243,Ligue_1,448075,95,MissedShots,0.919000015258789,0.464000015258789,Burak Yilmaz,h,8637,SetPiece,2021,Head,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,Renato Sanches,Cross
+244,Ligue_1,450500,1,MissedShots,0.856999969482422,0.540999984741211,Sven Botman,a,8635,FromCorner,2021,Head,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Jonathan Bamba,Cross
+245,Ligue_1,450503,7,BlockedShot,0.789000015258789,0.44,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Burak Yilmaz,Pass
+246,Ligue_1,450507,23,MissedShots,0.876999969482422,0.545999984741211,José Fonte,a,834,FromCorner,2021,Head,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Jonathan Bamba,Cross
+247,Ligue_1,450509,29,MissedShots,0.720999984741211,0.509000015258789,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,18002,Bordeaux,Lille,2,3,2021-12-22 19:45:00,Angel Gomes,Pass
+248,Ligue_1,458003,42,BlockedShot,0.765,0.703000030517578,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Benjamin André,BallRecovery
+249,Ligue_1,458004,51,MissedShots,0.904000015258789,0.59,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,,TakeOn
+250,Ligue_1,458006,58,MissedShots,0.933000030517578,0.420999984741211,Jonathan Christian David,h,8636,FromCorner,2021,Head,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Jonathan Bamba,Chipped
+251,Ligue_1,458007,58,MissedShots,0.933000030517578,0.520999984741211,José Fonte,h,834,FromCorner,2021,RightFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Jonathan Bamba,Cross
+252,Ligue_1,458008,62,MissedShots,0.810999984741211,0.504000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Benjamin André,Pass
+253,Ligue_1,458010,67,SavedShot,0.911999969482422,0.679000015258789,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Burak Yilmaz,Pass
+254,Ligue_1,458014,75,MissedShots,0.900999984741211,0.557999992370605,Jonathan Christian David,h,8636,OpenPlay,2021,Head,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Gabriel Gudmundsson,Aerial
+255,Ligue_1,458015,76,BlockedShot,0.898000030517578,0.656999969482422,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Benjamin André,Pass
+256,Ligue_1,458016,89,MissedShots,0.906999969482422,0.420999984741211,José Fonte,h,834,OpenPlay,2021,RightFoot,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Tiago Djaló,Cross
+257,Ligue_1,465492,87,MissedShots,0.881999969482422,0.53,Tiago Djaló,h,7754,FromCorner,2021,Head,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Renato Sanches,Chipped
+258,Ligue_1,465493,93,MissedShots,0.859000015258789,0.362999992370605,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Hatem Ben Arfa,Chipped
+259,Ligue_1,465494,94,SavedShot,0.906999969482422,0.507000007629395,Amadou Onana,h,9667,OpenPlay,2021,OtherBodyPart,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Hatem Ben Arfa,Chipped
+260,Ligue_1,467327,7,MissedShots,0.938000030517578,0.542999992370605,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Pass
+261,Ligue_1,467330,17,MissedShots,0.861999969482422,0.51,José Fonte,a,834,FromCorner,2021,Head,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Aerial
+262,Ligue_1,467331,22,MissedShots,0.705999984741211,0.709000015258789,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Gabriel Gudmundsson,Pass
+263,Ligue_1,467333,30,SavedShot,0.888000030517578,0.520999984741211,Tiago Djaló,a,7754,SetPiece,2021,Head,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Chipped
+264,Ligue_1,467334,31,BlockedShot,0.869000015258789,0.374000015258789,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Gabriel Gudmundsson,Pass
+265,Ligue_1,467340,51,MissedShots,0.874000015258789,0.711999969482422,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Pass
+266,Ligue_1,461749,9,MissedShots,0.879000015258789,0.673000030517578,Jonathan Bamba,h,3749,OpenPlay,2021,LeftFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Renato Sanches,Pass
+267,Ligue_1,461751,16,SavedShot,0.894000015258789,0.399000015258789,Benjamin André,h,3223,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Jonathan Christian David,Pass
+268,Ligue_1,461754,28,MissedShots,0.909000015258789,0.447999992370605,Benjamin André,h,3223,FromCorner,2021,Head,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Jonathan Bamba,Cross
+269,Ligue_1,461757,46,BlockedShot,0.759000015258789,0.313999996185303,Renato Sanches,h,5228,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Jonathan Christian David,Pass
+270,Ligue_1,461762,68,BlockedShot,0.87,0.454000015258789,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Mehmet Zeki Çelik,Cross
+271,Ligue_1,461763,70,BlockedShot,0.875,0.45,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Mehmet Zeki Çelik,Pass
+272,Ligue_1,461764,70,Goal,0.933000030517578,0.330999984741211,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Renato Sanches,Pass
+273,Ligue_1,461765,77,SavedShot,0.935,0.69,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,,BallRecovery
+274,Ligue_1,461766,77,MissedShots,0.784000015258789,0.612000007629395,Renato Sanches,h,5228,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Jonathan Christian David,Pass
+275,Ligue_1,431442,18,BlockedShot,0.863000030517578,0.562999992370605,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17876,Lens,Lille,1,0,2021-09-18 15:00:00,,None
+276,Ligue_1,431449,62,MissedShots,0.958000030517578,0.572000007629395,Burak Yilmaz,a,8637,OpenPlay,2021,Head,17876,Lens,Lille,1,0,2021-09-18 15:00:00,Benjamin André,Cross
+277,Ligue_1,431450,66,SavedShot,0.898000030517578,0.557000007629395,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17876,Lens,Lille,1,0,2021-09-18 15:00:00,Jonathan Christian David,TakeOn
+278,Ligue_1,431451,66,SavedShot,0.919000015258789,0.482999992370605,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17876,Lens,Lille,1,0,2021-09-18 15:00:00,,Rebound
+279,Ligue_1,432656,0,SavedShot,0.791999969482422,0.364000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,17891,Lille,Reims,2,1,2021-09-22 17:00:00,Jonathan Christian David,Pass
+280,Ligue_1,432657,10,MissedShots,0.740999984741211,0.57,Gabriel Gudmundsson,h,9944,FromCorner,2021,LeftFoot,17891,Lille,Reims,2,1,2021-09-22 17:00:00,,None
+281,Ligue_1,432659,27,BlockedShot,0.850999984741211,0.370999984741211,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,17891,Lille,Reims,2,1,2021-09-22 17:00:00,,None
+282,Ligue_1,432660,30,Goal,0.930999984741211,0.555,Jonathan Christian David,h,8636,OpenPlay,2021,Head,17891,Lille,Reims,2,1,2021-09-22 17:00:00,Burak Yilmaz,Cross
+283,Ligue_1,432662,41,SavedShot,0.888000030517578,0.135,Jonathan Ikone,h,5661,DirectFreekick,2021,LeftFoot,17891,Lille,Reims,2,1,2021-09-22 17:00:00,,Standard
+284,Ligue_1,441154,6,SavedShot,0.865999984741211,0.527000007629395,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,Jonathan Bamba,Pass
+285,Ligue_1,441157,20,MissedShots,0.739000015258789,0.409000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,Renato Sanches,Pass
+286,Ligue_1,441159,26,Goal,0.923000030517578,0.505999984741211,Tiago Djaló,h,7754,SetPiece,2021,RightFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,Renato Sanches,Cross
+287,Ligue_1,441160,34,SavedShot,0.791999969482422,0.826999969482422,Burak Yilmaz,h,8637,DirectFreekick,2021,RightFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,,Standard
+288,Ligue_1,441161,34,BlockedShot,0.856999969482422,0.564000015258789,Burak Yilmaz,h,8637,SetPiece,2021,RightFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,,None
+289,Ligue_1,441164,45,MissedShots,0.735,0.340999984741211,Jonathan Bamba,h,3749,OpenPlay,2021,LeftFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,Jonathan Christian David,Pass
+290,Ligue_1,441165,60,BlockedShot,0.816999969482422,0.505,Jonathan Ikone,h,5661,OpenPlay,2021,LeftFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,Jonathan Christian David,Pass
+291,Ligue_1,441166,60,SavedShot,0.911999969482422,0.542000007629394,José Fonte,h,834,FromCorner,2021,RightFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,,Aerial
+292,Ligue_1,441169,72,SavedShot,0.906999969482422,0.555,Yusuf Yazici,h,7756,OpenPlay,2021,LeftFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,,None
+293,Ligue_1,429276,46,MissedShots,0.749000015258789,0.464000015258789,Yusuf Yazici,h,7756,OpenPlay,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Benjamin André,TakeOn
+294,Ligue_1,429278,56,Goal,0.96,0.612000007629395,Jonathan Christian David,h,8636,SetPiece,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,,Dispossessed
+295,Ligue_1,429279,68,MissedShots,0.854000015258789,0.539000015258789,Burak Yilmaz,h,8637,SetPiece,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Angel Gomes,Cross
+296,Ligue_1,429280,73,MissedShots,0.951999969482422,0.570999984741211,Burak Yilmaz,h,8637,SetPiece,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,,None
+297,Ligue_1,429281,84,BlockedShot,0.825999984741211,0.560999984741211,Tiago Djaló,h,7754,OpenPlay,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,,BallRecovery
+298,Ligue_1,429282,84,MissedShots,0.891999969482422,0.360999984741211,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Jonathan Ikone,Pass
+299,Ligue_1,429284,89,MissedShots,0.86,0.404000015258789,Amadou Onana,h,9667,OpenPlay,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Domagoj Bradaric,Pass
+300,Ligue_1,429538,24,Goal,0.885,0.5,Burak Yilmaz,a,8637,Penalty,2021,RightFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,,Standard
+301,Ligue_1,429541,38,MissedShots,0.803000030517578,0.379000015258789,Xeka,a,5704,OpenPlay,2021,RightFoot,17867,Lorient,Lille,2,1,2021-09-10 19:00:00,,None
+302,Ligue_1,458017,95,MissedShots,0.905999984741211,0.460999984741211,Sven Botman,h,8635,FromCorner,2021,Head,18067,Lille,Metz,0,0,2022-02-18 20:00:00,Hatem Ben Arfa,Cross
+303,Ligue_1,460553,16,MissedShots,0.88,0.705999984741211,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,18079,Lyon,Lille,0,1,2022-02-27 19:45:00,Renato Sanches,Pass
+304,Ligue_1,460555,28,BlockedShot,0.918000030517578,0.610999984741211,José Fonte,a,834,FromCorner,2021,OtherBodyPart,18079,Lyon,Lille,0,1,2022-02-27 19:45:00,Jonathan Bamba,Aerial
+305,Ligue_1,460556,34,Goal,0.936999969482422,0.54,Gabriel Gudmundsson,a,9944,OpenPlay,2021,LeftFoot,18079,Lyon,Lille,0,1,2022-02-27 19:45:00,,None
+306,Ligue_1,460559,40,MissedShots,0.734000015258789,0.312999992370605,Xeka,a,5704,OpenPlay,2021,RightFoot,18079,Lyon,Lille,0,1,2022-02-27 19:45:00,José Fonte,Pass
+307,Ligue_1,460562,47,BlockedShot,0.884000015258789,0.237000007629395,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,18079,Lyon,Lille,0,1,2022-02-27 19:45:00,Gabriel Gudmundsson,Pass
+308,Ligue_1,460567,58,SavedShot,0.908000030517578,0.464000015258789,José Fonte,a,834,FromCorner,2021,Head,18079,Lyon,Lille,0,1,2022-02-27 19:45:00,Jonathan Bamba,Aerial
+309,Ligue_1,461747,2,Goal,0.944000015258789,0.542000007629394,Jonathan Bamba,h,3749,OpenPlay,2021,Head,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Renato Sanches,Cross
+310,Ligue_1,461748,6,MissedShots,0.856999969482422,0.855999984741211,Jonathan Bamba,h,3749,DirectFreekick,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,,Standard
+311,Ligue_1,436336,68,BlockedShot,0.923000030517578,0.429000015258789,Tiago Djaló,a,7754,FromCorner,2021,RightFoot,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Yusuf Yazici,Cross
+312,Ligue_1,436337,69,MissedShots,0.914000015258789,0.352999992370605,Jonathan Bamba,a,3749,FromCorner,2021,RightFoot,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,,None
+313,Ligue_1,436338,81,SavedShot,0.866999969482422,0.404000015258789,José Fonte,a,834,OpenPlay,2021,RightFoot,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Yusuf Yazici,Pass
+314,Ligue_1,438063,7,MissedShots,0.848000030517578,0.530999984741211,Xeka,h,5704,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Mehmet Zeki Çelik,Cross
+315,Ligue_1,438064,18,Goal,0.858000030517578,0.322000007629395,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,José Fonte,Chipped
+316,Ligue_1,438066,22,ShotOnPost,0.861999969482422,0.432999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Jonathan Christian David,Pass
+317,Ligue_1,438067,24,SavedShot,0.905999984741211,0.430999984741211,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Burak Yilmaz,TakeOn
+318,Ligue_1,438070,41,MissedShots,0.879000015258789,0.617000007629395,Jonathan Christian David,h,8636,SetPiece,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,,None
+319,Ligue_1,438071,54,BlockedShot,0.726999969482422,0.53,Xeka,h,5704,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Reinildo,Pass
+320,Ligue_1,442199,38,SavedShot,0.855,0.482999992370605,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Jonathan Ikone,Throughball
+321,Ligue_1,442205,58,SavedShot,0.761999969482422,0.661999969482422,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Jonathan Christian David,Pass
+322,Ligue_1,442214,87,MissedShots,0.789000015258789,0.272999992370605,Mehmet Zeki Çelik,a,6872,OpenPlay,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Xeka,Pass
+323,Ligue_1,442215,91,BlockedShot,0.884000015258789,0.549000015258789,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Domagoj Bradaric,Cross
+324,Ligue_1,442216,92,MissedShots,0.785,0.507999992370605,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Isaac Lihadji,Pass
+325,Ligue_1,442217,94,SavedShot,0.848000030517578,0.640999984741211,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Isaac Lihadji,Pass
+326,Ligue_1,442218,94,SavedShot,0.936999969482422,0.502000007629395,Tiago Djaló,a,7754,FromCorner,2021,Head,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Domagoj Bradaric,Aerial
+327,Ligue_1,444180,8,Goal,0.874000015258789,0.547999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Jonathan Bamba,Pass
+328,Ligue_1,444188,59,MissedShots,0.788000030517578,0.385999984741211,Mehmet Zeki Çelik,h,6872,FromCorner,2021,RightFoot,17966,Lille,Nantes,1,1,2021-11-27 16:00:00,Jonathan Christian David,Pass
+329,Ligue_1,427424,93,MissedShots,0.879000015258789,0.278999996185303,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Jonathan Ikone,Pass
+330,Ligue_1,429265,1,MissedShots,0.899000015258789,0.696999969482422,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Jonathan Christian David,Pass
+331,Ligue_1,429266,12,MissedShots,0.735999984741211,0.419000015258789,Xeka,h,5704,OpenPlay,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Burak Yilmaz,Pass
+332,Ligue_1,429267,14,MissedShots,0.784000015258789,0.675999984741211,Yusuf Yazici,h,7756,FromCorner,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,,None
+333,Ligue_1,429270,28,BlockedShot,0.803000030517578,0.365999984741211,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Xeka,Pass
+334,Ligue_1,429271,31,SavedShot,0.913000030517578,0.385,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,,BallRecovery
+335,Ligue_1,429272,31,MissedShots,0.863000030517578,0.547999992370605,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Yusuf Yazici,Pass
+336,Ligue_1,429273,44,SavedShot,0.823000030517578,0.38,Yusuf Yazici,h,7756,OpenPlay,2021,LeftFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,Jonathan Christian David,Pass
+337,Ligue_1,429274,45,Goal,0.865999984741211,0.484000015258789,Yusuf Yazici,h,7756,SetPiece,2021,RightFoot,17860,Lille,Montpellier,2,1,2021-08-29 15:00:00,José Fonte,HeadPass
+338,Ligue_1,454093,45,SavedShot,0.800999984741211,0.738000030517578,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Amadou Onana,Pass
+339,Ligue_1,454095,50,MissedShots,0.801999969482422,0.440999984741211,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Isaac Lihadji,Pass
+340,Ligue_1,454099,57,BlockedShot,0.779000015258789,0.597999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Jonathan Bamba,Pass
+341,Ligue_1,454101,60,MissedShots,0.925,0.46,Reinildo,h,7432,FromCorner,2021,Head,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Sven Botman,HeadPass
+342,Ligue_1,454102,61,BlockedShot,0.740999984741211,0.524000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Renato Sanches,Pass
+343,Ligue_1,454103,68,MissedShots,0.745,0.252000007629395,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Jonathan Christian David,Pass
+344,Ligue_1,454109,81,BlockedShot,0.755999984741211,0.640999984741211,Burak Yilmaz,h,8637,DirectFreekick,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,,Standard
+345,Ligue_1,454110,81,MissedShots,0.795999984741211,0.643000030517578,Burak Yilmaz,h,8637,SetPiece,2021,LeftFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,,Rebound
+346,Ligue_1,454687,6,SavedShot,0.794000015258789,0.405999984741211,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,18034,Brest,Lille,2,0,2022-01-22 16:00:00,,None
+347,Ligue_1,461767,78,SavedShot,0.876999969482422,0.537000007629394,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Jonathan Bamba,Pass
+348,Ligue_1,461768,83,SavedShot,0.791999969482422,0.412000007629395,Amadou Onana,h,9667,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,,None
+349,Ligue_1,461769,83,Goal,0.965999984741211,0.425,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,,Rebound
+350,Ligue_1,461770,89,Goal,0.780999984741211,0.360999984741211,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18087,Lille,Clermont Foot,4,0,2022-03-06 16:05:00,Mehmet Zeki Çelik,Pass
+351,Ligue_1,462244,8,SavedShot,0.868000030517578,0.552000007629394,Gabriel Gudmundsson,h,9944,OpenPlay,2021,Head,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Mehmet Zeki Çelik,Cross
+352,Ligue_1,462245,18,BlockedShot,0.865,0.629000015258789,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Hatem Ben Arfa,TakeOn
+353,Ligue_1,462246,18,MissedShots,0.866999969482422,0.552000007629394,Renato Sanches,h,5228,OpenPlay,2021,RightFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,,Rebound
+354,Ligue_1,462250,39,BlockedShot,0.935,0.420999984741211,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,RightFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,,None
+355,Ligue_1,462252,41,MissedShots,0.905999984741211,0.267999992370605,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18095,Lille,Saint-Etienne,0,0,2022-03-11 20:00:00,Xeka,Pass
+356,Ligue_1,441171,93,MissedShots,0.969000015258789,0.412000007629395,Benjamin André,h,3223,FromCorner,2021,Head,17944,Lille,Angers,1,1,2021-11-06 16:00:00,Yusuf Yazici,Cross
+357,Ligue_1,441172,94,SavedShot,0.901999969482422,0.497000007629395,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,17944,Lille,Angers,1,1,2021-11-06 16:00:00,,None
+358,Ligue_1,442188,2,BlockedShot,0.849000015258789,0.399000015258789,Xeka,a,5704,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,,Dispossessed
+359,Ligue_1,442189,4,Goal,0.885,0.5,Jonathan Christian David,a,8636,Penalty,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,,Standard
+360,Ligue_1,442190,8,Goal,0.901999969482422,0.635999984741211,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Tiago Djaló,Chipped
+361,Ligue_1,442191,11,SavedShot,0.934000015258789,0.272999992370605,Jonathan Ikone,a,5661,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,,BallRecovery
+362,Ligue_1,442192,14,MissedShots,0.909000015258789,0.487999992370605,Tiago Djaló,a,7754,FromCorner,2021,Head,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Yusuf Yazici,Aerial
+363,Ligue_1,442193,17,SavedShot,0.933000030517578,0.342000007629395,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,,None
+364,Ligue_1,442194,19,MissedShots,0.914000015258789,0.577999992370606,Timothy Weah,a,6601,OpenPlay,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Jonathan Christian David,Cross
+365,Ligue_1,438074,65,MissedShots,0.919000015258789,0.457999992370605,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Burak Yilmaz,Cross
+366,Ligue_1,438077,69,MissedShots,0.731999969482422,0.405999984741211,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Renato Sanches,Pass
+367,Ligue_1,438081,79,MissedShots,0.73,0.427000007629395,Renato Sanches,h,5228,DirectFreekick,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,,Standard
+368,Ligue_1,438082,81,BlockedShot,0.844000015258789,0.419000015258789,Mehmet Zeki Çelik,h,6872,OpenPlay,2021,LeftFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Gabriel Gudmundsson,Cross
+369,Ligue_1,438083,81,BlockedShot,0.905,0.394000015258789,Timothy Weah,h,6601,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Mehmet Zeki Çelik,HeadPass
+370,Ligue_1,438084,85,MissedShots,0.73,0.38,Mehmet Zeki Çelik,h,6872,FromCorner,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,,Aerial
+371,Ligue_1,438086,92,SavedShot,0.786999969482422,0.816999969482422,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,17923,Lille,Brest,1,1,2021-10-23 19:00:00,Jonathan Ikone,Pass
+372,Ligue_1,439318,0,SavedShot,0.879000015258789,0.671999969482422,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Jonathan Ikone,Pass
+373,Ligue_1,439319,13,BlockedShot,0.79,0.567000007629395,Xeka,a,5704,FromCorner,2021,RightFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Tiago Djaló,BallTouch
+374,Ligue_1,425959,14,MissedShots,0.926999969482422,0.475,José Fonte,h,834,FromCorner,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,,None
+375,Ligue_1,425960,23,MissedShots,0.946999969482422,0.627000007629395,Benjamin André,h,3223,FromCorner,2021,Head,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Yusuf Yazici,Cross
+376,Ligue_1,425961,30,BlockedShot,0.891999969482422,0.592999992370606,Timothy Weah,h,6601,FromCorner,2021,Head,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Jonathan Bamba,Cross
+377,Ligue_1,425962,38,SavedShot,0.780999984741211,0.359000015258789,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Timothy Weah,Pass
+378,Ligue_1,425963,45,MissedShots,0.919000015258789,0.504000015258789,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Jonathan Ikone,Cross
+379,Ligue_1,425967,51,MissedShots,0.76,0.530999984741211,Burak Yilmaz,h,8637,DirectFreekick,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,,Standard
+380,Ligue_1,425968,54,MissedShots,0.854000015258789,0.394000015258789,Jonathan Christian David,h,8636,FromCorner,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,,None
+381,Ligue_1,425972,72,MissedShots,0.92,0.627999992370605,Jonathan Bamba,h,3749,OpenPlay,2021,Head,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Isaac Lihadji,Cross
+382,Ligue_1,425973,75,SavedShot,0.878000030517578,0.655999984741211,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Jonathan Christian David,Pass
+383,Ligue_1,467355,90,MissedShots,0.6,0.635999984741211,Xeka,a,5704,OpenPlay,2021,RightFoot,18122,Angers,Lille,1,1,2022-04-10 13:00:00,,BallRecovery
+384,Ligue_1,467356,91,MissedShots,0.889000015258789,0.515999984741211,Amadou Onana,a,9667,OpenPlay,2021,Head,18122,Angers,Lille,1,1,2022-04-10 13:00:00,Jonathan Bamba,Aerial
+385,Ligue_1,468456,20,ShotOnPost,0.868000030517578,0.681999969482422,Renato Sanches,h,5228,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Xeka,Pass
+386,Ligue_1,468457,23,SavedShot,0.816999969482422,0.173999996185303,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Mehmet Zeki Çelik,Pass
+387,Ligue_1,468458,24,MissedShots,0.891999969482422,0.644000015258789,Xeka,h,5704,FromCorner,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Benjamin André,Aerial
+388,Ligue_1,468461,31,MissedShots,0.900999984741211,0.325,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Mehmet Zeki Çelik,Cross
+389,Ligue_1,468464,35,MissedShots,0.699000015258789,0.579000015258789,Xeka,h,5704,OpenPlay,2021,RightFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Jonathan Bamba,Pass
+390,Ligue_1,468466,45,Goal,0.958000030517578,0.590999984741211,Xeka,h,5704,OpenPlay,2021,Head,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Edon Zhegrova,Cross
+391,Ligue_1,468467,51,MissedShots,0.821999969482422,0.517999992370605,Jonathan Christian David,h,8636,OpenPlay,2021,LeftFoot,18132,Lille,Lens,1,2,2022-04-16 19:00:00,Renato Sanches,Pass
+392,Ligue_1,456394,10,SavedShot,0.823000030517578,0.524000015258789,Amadou Onana,h,9667,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,Aerial
+393,Ligue_1,456397,21,SavedShot,0.896999969482422,0.512999992370605,Sven Botman,h,8635,FromCorner,2021,Head,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Jonathan Bamba,Cross
+394,Ligue_1,456398,27,Goal,0.910999984741211,0.484000015258789,Sven Botman,h,8635,FromCorner,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Hatem Ben Arfa,Pass
+395,Ligue_1,456408,59,SavedShot,0.87,0.740999984741211,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Amadou Onana,Pass
+396,Ligue_1,456412,74,BlockedShot,0.970999984741211,0.525,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Jonathan Bamba,Pass
+397,Ligue_1,456413,77,SavedShot,0.8,0.6,Gabriel Gudmundsson,h,9944,OpenPlay,2021,LeftFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Amadou Onana,BallRecovery
+398,Ligue_1,456416,83,MissedShots,0.906999969482422,0.385,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Angel Gomes,Pass
+399,Ligue_1,456417,87,MissedShots,0.874000015258789,0.484000015258789,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Edon Zhegrova,Cross
+400,Ligue_1,457122,2,SavedShot,0.675999984741211,0.694000015258789,Tiago Djaló,a,7754,OpenPlay,2021,RightFoot,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Xeka,BallRecovery
+401,Ligue_1,448049,0,MissedShots,0.693000030517578,0.487000007629395,Mehmet Zeki Çelik,h,6872,FromCorner,2021,RightFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,None
+402,Ligue_1,448051,22,BlockedShot,0.919000015258789,0.706999969482422,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,Tiago Djaló,Cross
+403,Ligue_1,448052,22,MissedShots,0.856999969482422,0.522000007629395,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,Rebound
+404,Ligue_1,448053,25,BlockedShot,0.776999969482422,0.231000003814697,Jonathan Ikone,h,5661,DirectFreekick,2021,LeftFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,Standard
+405,Ligue_1,448054,27,MissedShots,0.825999984741211,0.560999984741211,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,Aerial
+406,Ligue_1,448062,67,SavedShot,0.86,0.457999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,Jonathan Ikone,Pass
+407,Ligue_1,448063,67,MissedShots,0.876999969482422,0.550999984741211,Jonathan Ikone,h,5661,OpenPlay,2021,LeftFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,Rebound
+408,Ligue_1,448064,69,MissedShots,0.710999984741211,0.495999984741211,Renato Sanches,h,5228,OpenPlay,2021,LeftFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,None
+409,Ligue_1,448065,70,SavedShot,0.86,0.54,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17995,Lille,Lyon,0,0,2021-12-12 12:00:00,,TakeOn
+410,Ligue_1,453822,14,Goal,0.888000030517578,0.457999992370605,Sven Botman,a,8635,FromCorner,2021,Head,18023,Marseille,Lille,1,1,2022-01-16 19:45:00,Renato Sanches,Cross
+411,Ligue_1,453823,21,SavedShot,0.97,0.53,Burak Yilmaz,a,8637,OpenPlay,2021,Head,18023,Marseille,Lille,1,1,2022-01-16 19:45:00,Renato Sanches,Cross
+412,Ligue_1,453831,41,SavedShot,0.760999984741211,0.587999992370606,Jonathan Bamba,a,3749,OpenPlay,2021,LeftFoot,18023,Marseille,Lille,1,1,2022-01-16 19:45:00,,Dispossessed
+413,Ligue_1,453832,42,MissedShots,0.716999969482422,0.671999969482422,Renato Sanches,a,5228,FromCorner,2021,RightFoot,18023,Marseille,Lille,1,1,2022-01-16 19:45:00,Burak Yilmaz,Pass
+414,Ligue_1,454086,9,Goal,0.981999969482422,0.497000007629395,Isaac Lihadji,h,7717,OpenPlay,2021,LeftFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,,None
+415,Ligue_1,454087,16,SavedShot,0.923000030517578,0.322000007629395,José Fonte,h,834,FromCorner,2021,Head,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Renato Sanches,Cross
+416,Ligue_1,454088,18,SavedShot,0.808000030517578,0.754000015258789,Burak Yilmaz,h,8637,DirectFreekick,2021,RightFoot,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,,Standard
+417,Ligue_1,454090,30,Goal,0.900999984741211,0.537999992370605,Reinildo,h,7432,SetPiece,2021,Head,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Renato Sanches,Cross
+418,Ligue_1,454092,42,MissedShots,0.946999969482422,0.502999992370605,Sven Botman,h,8635,SetPiece,2021,Head,18020,Lille,Lorient,3,1,2022-01-19 20:00:00,Renato Sanches,Aerial
+419,Ligue_1,425974,85,BlockedShot,0.813000030517578,0.500999984741211,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Benjamin André,Pass
+420,Ligue_1,425975,86,MissedShots,0.936999969482422,0.569000015258789,José Fonte,h,834,FromCorner,2021,Head,17833,Lille,Nice,0,4,2021-08-14 15:00:00,Isaac Lihadji,Aerial
+421,Ligue_1,427409,24,BlockedShot,0.943000030517578,0.41,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Timothy Weah,Pass
+422,Ligue_1,427411,37,Goal,0.883000030517578,0.407000007629395,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,None
+423,Ligue_1,427412,47,SavedShot,0.816999969482422,0.663000030517578,Jonathan Bamba,a,3749,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Burak Yilmaz,Pass
+424,Ligue_1,427415,54,SavedShot,0.920999984741211,0.407000007629395,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Xeka,Chipped
+425,Ligue_1,427416,57,SavedShot,0.766999969482422,0.754000015258789,Burak Yilmaz,a,8637,DirectFreekick,2021,RightFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,Standard
+426,Ligue_1,427420,83,SavedShot,0.904000015258789,0.7,Yusuf Yazici,a,7756,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,Burak Yilmaz,Pass
+427,Ligue_1,427422,88,SavedShot,0.95,0.585,Burak Yilmaz,a,8637,OpenPlay,2021,LeftFoot,17844,Saint-Etienne,Lille,1,1,2021-08-21 19:00:00,,None
+428,Ligue_1,432663,42,Goal,0.969000015258789,0.462000007629395,Benjamin André,h,3223,FromCorner,2021,Head,17891,Lille,Reims,2,1,2021-09-22 17:00:00,Burak Yilmaz,Cross
+429,Ligue_1,432664,50,ShotOnPost,0.935999984741211,0.565,Jonathan Christian David,h,8636,OpenPlay,2021,RightFoot,17891,Lille,Reims,2,1,2021-09-22 17:00:00,Amadou Onana,Pass
+430,Ligue_1,433708,6,SavedShot,0.880999984741211,0.430999984741211,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Angel Gomes,Pass
+431,Ligue_1,433709,6,SavedShot,0.753000030517578,0.699000015258789,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Reinildo,Pass
+432,Ligue_1,433711,8,MissedShots,0.748000030517578,0.525,Angel Gomes,a,5598,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,,Dispossessed
+433,Ligue_1,433714,22,Goal,0.919000015258789,0.542000007629394,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,Pass
+434,Ligue_1,433715,26,SavedShot,0.780999984741211,0.659000015258789,Xeka,a,5704,FromCorner,2021,LeftFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Angel Gomes,Pass
+435,Ligue_1,433716,28,MissedShots,0.900999984741211,0.360999984741211,Jonathan Ikone,a,5661,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,HeadPass
+436,Ligue_1,433717,31,MissedShots,0.721999969482422,0.617999992370605,Xeka,a,5704,OpenPlay,2021,RightFoot,17900,Strasbourg,Lille,1,2,2021-09-25 17:00:00,Timothy Weah,Pass
+437,Ligue_1,465472,2,MissedShots,0.983000030517578,0.509000015258789,Amadou Onana,h,9667,SetPiece,2021,LeftFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,,Rebound
+438,Ligue_1,465473,5,BlockedShot,0.870999984741211,0.675,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Isaac Lihadji,Cross
+439,Ligue_1,465474,6,MissedShots,0.815999984741211,0.555,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Jonathan Bamba,Pass
+440,Ligue_1,465475,14,MissedShots,0.719000015258789,0.595999984741211,Amadou Onana,h,9667,OpenPlay,2021,LeftFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Isaac Lihadji,Pass
+441,Ligue_1,465476,42,SavedShot,0.921999969482422,0.292999992370605,Burak Yilmaz,h,8637,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Isaac Lihadji,Pass
+442,Ligue_1,465479,50,ShotOnPost,0.925999984741211,0.345,Jonathan Bamba,h,3749,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Isaac Lihadji,Throughball
+443,Ligue_1,465480,55,MissedShots,0.775,0.46,Angel Gomes,h,5598,OpenPlay,2021,RightFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Burak Yilmaz,BallTouch
+444,Ligue_1,465481,59,BlockedShot,0.92,0.577999992370606,Burak Yilmaz,h,8637,OpenPlay,2021,LeftFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Jonathan Bamba,Pass
+445,Ligue_1,465482,61,BlockedShot,0.793000030517578,0.287999992370605,Edon Zhegrova,h,10328,OpenPlay,2021,LeftFoot,18113,Lille,Bordeaux,0,0,2022-04-02 17:00:00,Jonathan Christian David,Pass
+446,Ligue_1,439320,13,MissedShots,0.865,0.489000015258789,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Burak Yilmaz,Pass
+447,Ligue_1,439321,14,MissedShots,0.740999984741211,0.577000007629395,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Renato Sanches,Pass
+448,Ligue_1,439324,30,Goal,0.965,0.572000007629395,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Burak Yilmaz,Pass
+449,Ligue_1,439326,40,BlockedShot,0.813000030517578,0.47,Jonathan Ikone,a,5661,OpenPlay,2021,LeftFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Xeka,BallTouch
+450,Ligue_1,439328,46,SavedShot,0.936999969482422,0.362999992370605,Jonathan Christian David,a,8636,OpenPlay,2021,RightFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Jonathan Ikone,Throughball
+451,Ligue_1,439329,46,MissedShots,0.954000015258789,0.495999984741211,Burak Yilmaz,a,8637,OpenPlay,2021,RightFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Jonathan Christian David,Pass
+452,Ligue_1,439331,56,MissedShots,0.885999984741211,0.512999992370605,Jonathan Christian David,a,8636,OpenPlay,2021,LeftFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Renato Sanches,Pass
+453,Ligue_1,439339,71,BlockedShot,0.919000015258789,0.725,Renato Sanches,a,5228,OpenPlay,2021,RightFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Reinildo,Pass
+454,Ligue_1,439343,83,MissedShots,0.886999969482422,0.292000007629395,Timothy Weah,a,6601,OpenPlay,2021,RightFoot,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Renato Sanches,Pass
